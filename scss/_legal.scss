@@ -1,0 +1,94 @@
+/* :: legal */
+
+.legal-area{
+    position: relative;
+    z-index: 1;
+    padding: 10%;
+    margin: 0 6%;
+
+    @media #{$breakpoint-xs} {
+      padding-top: 4rem;
+      margin-left: 0;          
+    }
+
+    .legal-content {
+        position: relative;
+        z-index: 1;
+
+        
+        h2 {
+            font-size: 75px;
+            font-weight: 400;
+            margin-bottom: 1rem;
+            color: $primary;
+
+            @media #{$breakpoint-xs} {
+                font-size: 40px;
+            }
+        }
+
+        h4 {
+            font-size: 26px;
+            font-weight: 400;
+            margin-bottom: 0;
+    		margin-top: 2rem;
+            color: $c-gray;
+
+            @media #{$breakpoint-xs} {
+                font-size: 20px;
+            }
+        }
+
+        p {
+            
+            line-height: 2;
+            font-size: 14px;
+            color: $c-gray;
+
+            @media #{$breakpoint-xs} {
+                font-size: 14px;
+                line-height: 1.5;
+            }
+
+          	a {
+          		font-size: 14px;
+                color: $primary;
+                font-weight: 600;
+                text-decoration: none;
+            }
+
+	        a:hover{
+	            text-decoration: underline;
+	        }
+        }
+        .content{
+                padding: 2rem 0 2rem 4rem;
+
+            @media #{$breakpoint-xs} {
+              padding-left: 2%;         
+            }
+
+            .our-link {
+                li {
+                        position: relative;
+                        z-index: 1;
+                        font-size: 14px;
+                        color: $c-gray;
+                        font-weight: normal;
+                        line-height: 2;
+
+                        @media #{$breakpoint-xs} {
+                            width: auto;
+                        }
+
+                    i{
+                        color:$primary;
+                        font-size: 1rem;
+                        font-weight: 800;
+                        margin-right: 0.5rem;
+                    }
+                }
+            }
+        }
+    }
+}

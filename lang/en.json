@@ -1,0 +1,351 @@
+{   
+    
+    ".head-lang":{
+        "item-1" : "<i class=\"arrow_right-up icon-link-m d-inline-block d-xl-none\"></i>About",
+        "item-2" : "<i class=\"arrow_right-up icon-link-m d-inline-block d-xl-none\"></i>What we do",        
+        "item-3" : "<i class=\"arrow_right-up icon-link-m d-inline-block d-xl-none\"></i>Expertise<i id=\"drop\" class=\"arrow_carrot-down\"></i>",
+            "item-3-a" : "The gateway to<br>Agri-business",
+            "item-3-1" : "<i class=\"arrow_right-up icon-zise mr-2\"></i>Industrial plants",
+            "item-3-2" : "<i class=\"arrow_right-up icon-zise mr-2\"></i>Fertilizer Industry",
+            "item-3-3" : "<i class=\"arrow_right-up icon-zise mr-2\"></i>Feedlots",
+            "item-3-4" : "<i class=\"arrow_right-up icon-zise mr-2\"></i>Milling",
+            "item-3-5" : "<i class=\"arrow_right-up icon-zise mr-2\"></i>Seed Classification Plants",
+            "item-3-6" : "<i class=\"arrow_right-up icon-zise mr-2\"></i>Grain Conditioning and Storage Plants",
+            "item-3-7" : "<i class=\"arrow_right-up icon-zise mr-2\"></i>Port Facilities",
+            "item-3-8" : "<i class=\"arrow_right-up icon-zise mr-2\"></i>Industrial Oil Complex and Port",
+            "item-3-9" : "<i class=\"arrow_right-up icon-zise mr-2\"></i>Facilities",
+            "item-3-10" : "<i class=\"arrow_right-up icon-zise mr-2\"></i>Consulting, Audit & Analysis",
+            "item-3-11" : "<i class=\"arrow_right-up icon-zise mr-2\"></i>Agro Industrial Poles",
+        "item-4" : "<i class=\"arrow_right-up icon-link-m d-inline-block d-xl-none\"></i>Selected Projects",
+        "item-5" : "<i class=\"arrow_right-up icon-link-m d-inline-block d-xl-none\"></i>Contact",
+
+        "select-lang" : "ENG",
+        "select-idioma" :"<button class=\"dropdown-item active\" type=\"button\" onclick=\"setLanguage('en')\">English</button><button class=\"dropdown-item\" type=\"button\" onclick=\"setLanguage('es')\">Español</button><button class=\"dropdown-item\" type=\"button\" onclick=\"setLanguage('pt')\">Portugués</button>"
+    },
+
+    ".welcome-area-lang":{
+        "parrafo":"years of experience in Agriculture, Energy, Port facilities and multiple industries."
+    },
+
+    ".sec-1-lang":{
+        "title-lateral" : "Should we<br>get started?",
+        "btn-lateral" : "<i class=\"arrow_right-up icon-zise mr-2\"></i>Contact us",
+
+        "text-title" : "We are the gateway",
+        "text-title-b" : "to Agri-business for the leading companies.<br><span>Know more about us.</span>",
+        "btn" : "<i class=\"arrow_right-up icon-zise mr-2\"></i>About IEP"
+    },
+
+    ".wwd-lang":{
+        "title-1" : "What we do",
+        "title-2" : "We know what we are doing. Our Areas of Expertise.",
+
+        "text-1" : "Feasibility Studies",
+        "text-2" : "Bulk Cereal Handling",
+        "text-3" : "Oil Extraction Process and Grain Products",
+        "text-4" : "Agro Industries",
+        "text-5" : "Livestock",
+
+        "btn-more" : "<i class=\"arrow_right-up icon-zise mr-2\"></i>MORE INFO"
+    },
+
+    ".sec-2-lang":{
+        "title" : "We are an engineering company based in Angola and Argentina, with strong global reach.",
+        "span" : "OUR PROFILE"
+    },
+
+    ".sec-3-lang":{
+        "title" : "Our Business Structure",
+
+        "list-1" : "<i class=\"icon_check\"></i>Industrial plants",
+        "list-2" : "<i class=\"icon_check\"></i>Fertilizer Industry",
+        "list-3" : "<i class=\"icon_check\"></i>Feedlots",
+        "list-4" : "<i class=\"icon_check\"></i>Milling",
+        "list-5" : "<i class=\"icon_check\"></i>Seed Classification Plants",
+        "list-6" : "<i class=\"icon_check\"></i>Grain Conditioning and Storage Plants",
+        "list-7" : "<i class=\"icon_check\"></i>Port Facilities",
+        "list-8" : "<i class=\"icon_check\"></i>Industrial Oil Complex and Port Facilities",
+        "list-9" : "<i class=\"icon_check\"></i>Consulting, Audit & Analysis"
+    },
+
+
+    ".part-lang":{
+        "title" : "Companies that trust us"
+    },
+
+    ".sec-footer-lang":{
+        "text-title" : "At IEP Global",
+        "text-pa" : "we have the know-how, the structure and experience to ensure management professionalism and transparency.",
+        "btn" : "<i class=\"arrow_right-up icon-zise mr-2\"></i>Let´s talk"
+    },
+
+    
+    ".footer-lang":{
+        "copyr" : "All rights reserved.", 
+
+        "link-text-1" : "About",
+        "link-text-2" : "What we do",
+        "link-text-3" : "Expertise",
+        "link-text-4" : "Selected Proyects",
+        "link-text-5" : "Contact",
+
+        "info-text-1" : "Postal Address",
+
+        "select-lang" : "ENG",
+        "select-idioma" :"<button class=\"dropdown-item active\" type=\"button\" onclick=\"setLanguage('en')\">English</button><button class=\"dropdown-item\" type=\"button\" onclick=\"setLanguage('es')\">Español</button><button class=\"dropdown-item\" type=\"button\" onclick=\"setLanguage('pt')\">Portugués</button>"
+    },
+
+
+
+
+    ".about-lang":{
+        "text-title" : "About us",
+        "text-title-b" : "Working continuously since 1972 in the development of <span>engineering projects</span> and consultancy specialized in <span>agribusiness</span> and its associated processes.",
+        "parrafo-1" : "Created to offer consultancy in the agricultural market, IEP is the gateway to Agri–business. IEP has the know-how, the structure and experience to ensure management professionalism and transparency. Moreover,in the last fifteen years, IEP has specialized in the production of commodities for agroindustry. And has developed sunflower oil production with high content of oleic acid, among other services to leading companies.",
+        "parrafo-2" : "IEP combines a multi-disciplinary approach with deep, practical industry and agricultural knowledge to help clients meet challenges and respond to opportunities.",
+
+        "text-title-2" : "An abridged overview of IEP`s Services:",
+
+        "list-1" : "Consultancy and Management",
+        "list-2" : "Cereals and bulk oil",
+        "list-3" : "Procedures for extraction of edible oil and grain derivatives",
+        "list-4" : "Sugar Industry",
+        "list-5" : "Fertilizer Industry",
+        "list-6" : "Wheat and flour mills",
+        "list-7" : "Rice mills",
+
+        "list-8" : "Industrial Personnel training",
+        "list-9" : "Farm land developmen",
+        "list-10" : "Farm personnel and management training",
+        "list-11" : "Livestock",
+        "list-12" : "Seed production",
+        "list-13" : "Forestry",
+        "list-14" : "New crop development",
+        "list-15" : "Irrigation",
+
+        "text-title-foo" : "Know more about our areas of expertise.",
+        "span" : "EXPERTISE",
+
+        "btn" : "<i class=\"arrow_right-up icon-zise mr-2\"></i>Our services"
+    },
+
+    ".wwd-sec-lang":{
+        "text-title" : "What we do",
+        "text-title-b" : "At IEP we have a technical team working for <span>45 years</span> continuously in the development of engineering projects and consultancy specialized in agribusiness and its associated processes.",
+        "parrafo-1" : "We have developed our activities in Argentina, Brazil, Paraguay, Guatemala, Ukraine, Chile, Uruguay, the Philippines, Malaysia, and Angola.",
+
+        "text-title-2" : "Areas of expertise",
+
+        "card-title-1" : "Feasibility studies",
+            "list-1-1" : "Local Resources",
+            "list-1-2" : "Regional Production",
+            "list-1-3" : "Logistic",
+            "list-1-4" : "Energy requirement",
+            "list-1-5" : "Safety and environmental regulation",
+            "list-1-6" : "Economical-Financial Evaluation",
+            "list-1-7" : "Analysis and cost production",
+            "list-1-8" : "Future projections",
+            "list-1-9" : "Investments analysis",
+
+        "card-title-2" : "Bulk Cereal Handling",
+            "list-2-1" : "Storage, Drying and Seed cleaning and classification",
+            "list-2-2" : "Ship and barges loading",
+            "list-2-3" : "Ship and barges unloading",
+            "list-2-4" : "Truck and railroads systems",
+            "list-2-5" : "Special receiving system",
+
+        "card-title-3" : "Oil Extraction Process and Grain Products",
+            "list-3-1" : "Ration",
+            "list-3-2" : "Extraction and refining of oils for food and biofuels.",
+            "list-3-3" : "Corn ethanol extraction and sorghum.",
+            "list-3-4" : "Milling wheat, corn and rice.",
+            "list-3-5" : "Production in subtropical environments and such crops as cotton, edible beans, soy beans, maize and others.",
+
+        "card-title-4" : "Agro Industries",
+            "list-4-1" : "Fertilizer Industry",
+            "list-4-2" : "Fruit classification and packing",
+            "list-4-3" : "Feed Mills",
+            "list-4-4" : "Sugar mills",
+
+        "card-title-5" : "Livestock",
+            "list-5-1" : "Dairy",
+            "list-5-2" : "Feed Lot",
+            "list-5-3" : "Breading",
+            "list-5-4" : "Fattennig",
+
+        "card-title-6" : "Other Industries",
+            "list-6-1" : "Forestry",
+            "list-6-2" : "Poultry slaughter facilities",
+            "list-6-3" : "Coldstorage",
+            "list-6-4" : "Cement and additives preparation",
+            "list-6-5" : "Infrastructure: electricity, gas, roads, industrial arquitecture"
+    },
+
+    ".select-p-lang":{
+        "text-title" : "Selected Projects",
+        "text-title-b" : "IEP develops highly specialized studies and projects from the economic-financial analysis and engineering up to their startup and commissioning.",
+        "parrafo-1" : "IEP’s Technicians have developed projects for different public and private organizations, through services of organization, management, advice and restructuring of companies.",
+
+        "lateral-text" : "Analysis & engineering",
+
+        "op" : "Ongoing projects",
+        "cp" : "Completed Projects",
+
+        "collapse-title-1" : "<img class=\"no-rotate\" src=\"img/core-img/plus.png\" width=\"25\">Management & Consulting Services",
+            "list-1-1" : "Irrigation, Equipment, and Infrastructure Construction: Quizenga, Malanje, Angola. Construction of a dam and planting of 5,000ha of agriculture. U$D 122Mi total Capex.",
+            "list-1-2" : "Farming in Argentina: Provinces of Córdoba, Buenos Aires and Chaco. 10,000ha of own production of maize, soybeans, sunflowers, wheat and cotton.",
+            "list-1-3" : "Fazenda Vissati Farming and Agroindustry complex: Cuando Cubango, Angola. 9,200ha project design, execution, and management. Corn, soybeans and beans under irrigation. Family farming assistance.",
+            
+            "list-1-4" : "Agricultural Funds Management in Argentina (FAID) with International Financial Corporation (IFC) as anchor investor (1994 - 2014): U$D 205Mi invested in over 1Mi ha with 2.5Mi+ Tn of production.",
+            "list-1-5" : "Shared Production Programs 2004-2014: over 100,000ha developed jointly with producers, suppliers and multinational trading companies including Dow Agro Sciences, Cargill, Monsanto and Glencore amongst others.",
+            "list-1-6" : "Polo Agroindustrial Quizenga (Malanje) & Polo Agroindustrial Cubal(Benguela), Angola: 60.000ha under management. Design and execution of a 18.000Tn  grain storage facility and maize flour, soya and bean processing productions facilities. U$D 94Mi of total Capex deployed.",
+
+        "collapse-title-2" : "<img class=\"no-rotate\" src=\"img/core-img/plus.png\" width=\"25\">Agricultural Development",
+            "list-2-1" : "Agricultural School Syllabus Evaluation: Instituto Meio Agrario (IMA), Province of Cuando Cubango,  Angola, 2019.",
+            "list-2-2" : "Design and development of a sustainable rice import substitution plan for the Republic of Chad, amounting to a total of 70,000Tn of rice production.",
+            "list-2-3" : "Design of a comprehensive grain import substitution plan for the Government of Mozambique amounting a total of 1.4Mi tons of grain production.",
+
+            "list-2-4" : "Planning and execution of integral studies on Agricultural Insurance and Risk Analysis in Argentina for the World Bank Project ARG / 94/018 / B / 01/99. 30Mi ha area analyzed.",
+            "list-2-5" : "Complementary Irrigation Project: Sustainable Management of Complementary Irrigation in the Pampas Region, Argentina. PROSAP; 53.5Mi ha.",
+            "list-2-6" : "Feasibility studies on Jatropha curcas and physic nut, for biodiesel production. India 2005; Brazil 2006-2007, Paraguay 2010 - together with Inter-American Development Bank, IDB.",
+            "list-2-7" : "Production teams training for hybrid and open pollinated plant species seeds for Continental and Dow Agro Sciences for a total area of 50,000ha.",
+
+        "collapse-title-3" : "<img class=\"no-rotate\" src=\"img/core-img/plus.png\" width=\"25\">Project Engineering",
+            "list-3-1" : "Necochea Port, Pier 12, Province of Buenos Aires, Argentina. Full engineering, procurement and on site supervision of solid and liquid fertilizers discharging facility for Panamex vessels. 500 m3/ h tanks for fuel oil unloading, solid storage of 50,000Tn and liquid fertilizer storage capacity of 25,000 m3.",
+            "list-3-2" : "Seed Classification Facility expansion, Uranga, Santa Fe, Argentina. Full engineering, procurement and on site supervision for  plant expansion. 25Tn/h, bulk storage 21,000Tn, bag storage 15,000Tn.",
+            "list-3-3" : "Soybean Meal Vitamin Concentrate Plant, Province of Buenos Aires, Argentina. Feasibility  study, basic engineering, procurement and construction Advisory. (Confidential).",
+            "list-3-4" : "La Plata Cereal S.A. (Part of Andre Group, SUI), Puerto San Martín - Province of Santa Fe - Argentina. Engineering, procurement, and management: Grains 2,000Tn/h, Oil 4,000Tn/day. Ann. capacity 3Mi Tn.",
+            "list-3-5" : "LDC Arg., Bahía Blanca Port Complex, Puerto Galván. Argentina. Full engineering, procurement and on site supervision of shipment port facility: shipping capacity 2,400Tn/h. Storage Capacity 92,000Tn.",
+            "list-3-6" : "Oil industrial complex and port, Black Sea Industries, Ilyichesck, Ukraine. Feasibility study, engineering, procurement, supervision and post construction advisory. Sunflower oil extraction 1,500Tn/day. Soy oil extraction 2,000Tn/day. Storage 60,000Tn. Meal and Grain Shipping capacity 1.000Tn/h."
+    },
+
+            ".IP-lang":{        
+                "title" : "Industrial pants",
+                "sub-title" : "Know IEP’s (associated) industrial plants and their main features:",
+                
+                "parrafo-1" : "Classification of plant, and conservation fruit packaging (citrus seed) camera installation bromide for moras.",
+                "parrafo-2" : "",
+                "parrafo-3" : "POULTRY PROCESSING.<br>Production line: 8,000 chickens/hours"
+            },
+
+            ".FL-lang":{        
+                "title" : "Feedlots",
+                "sub-title" : "",
+
+                "parrafo" : "Capacity: 30,000 head of cattle in 200 corrals Feeding Plant: 300 MTn/day"
+            },
+
+            ".Milling-lang":{        
+                "title" : "Milling",
+                "sub-title" : "Know IEP´s (associated) milling plants and their main features:",
+
+                "text-1" : "FEEDING PLANT AVEX S.A.",
+                "text-2" : "REVAMPING (Private client)",
+                "text-3" : "RICE MILLING \"TAYI\" NOUGUES Hnos. S.A."
+            },
+
+            ".scp-lang":{        
+                "title" : "Seed Classification Plants",
+                "sub-title" : "Know IEP’s (associated) seed clasifications plants and main features:",
+
+                "text-1" : "Corn, Soybean, Sorghum, Wheat Classification Facility",
+                "text-2" : "Corn, Wheat and Soybean Seeds Classification"
+            },
+
+            ".gcs-lang":{        
+                "title" : "Grain Conditioning and Storage",
+                "sub-title" : ""
+            },
+
+            ".pf-lang":{        
+                "title" : "Port Facilities",
+                "sub-title" : ""
+            },
+
+            ".FI-lang":{        
+                "title" : "Fertilizer Industry",
+                "sub-title" : "IEP’s Team has ample experience in the fertilizer chain of value.",
+                "parrafo" : "In 1986, Petrosur Fertilizantes (Argentina) hired specialists from the current IEP team to conduct a study on the future of fertilizer consumption in Argentina.<br>In 1991 the Argentine government promoted the Fertineu project, with the participation of the province of Neuquen and YPF. An important area was assigned for Fertilizer Plant project, through Law No. 2134, to COMINCO-AGRIUM.",
+
+                "text-1-1" : "COMINCO FERTILIZERS LTD.",
+                "text-1-2" : "-Entrusted to IEP’s technicians a study on the present in Argentina.<br>-IEP’s fertilizer team, is lead by a professional that has worked with first level companies, performing the following tasks.",
+
+                "text-2-1" : "WORLD MANAGER OF AGRONOMY. 2010.",
+                "text-2-2" : "-Developing and managing global agronomic platform strategy to facilitate fertilizer sales.<br>-Leading a global team of agronomists promoting premium phosphate and balanced nutrition crops.<br>-Responsible for, training and support to internal and external clients worldwide.",
+
+                "text-3-1" : "MANAGER OF RESEARCH AND DEVELOPMENT. 2008 -2010.",
+                "text-3-2" : "-Responsible for the development of new phosphate and potash products.<br>-Designed, analysed, interpreted and summarized studies of Cambodia, greenhouse and laboratories around the world.<br>-provided agronomic expertise in strategic projects carried out by multifunctional teams.",
+
+                "text-4-1" : "INDEPENDENT CONSULTANT. 2005 -2008.",
+                "text-4-2" : "-Designed, analysed, and summarized precision agricultural studies on farms in Argentina, Brazil, and the USA.<br>-Agronomic and statistical support for the Argentine Association of Regional Consortia for Agricultural Experimentation (AACREA).",
+            },
+
+            ".con-lang":{        
+                "title" : "Consulting, Audit & Analysis",
+                "sub-title" : "IEP has done consulting work for large agribusiness ventures in various countries. IEP's technical team has expertise linked to the development of agribusiness analysis and technical audits in countries as Argentina, Brazil, Uruguay, Bolivia, Paraguay, Venezuela, Mexico, Dominican Republic, Angola, Zambia, Mozambique and India.",
+
+                "text-1-1" : "LIVESTOCK",
+                "text-1-2" : "IEP has technical teams with extensive experience in:",
+                "text-1-3" : "Dairy<br>feed Lot<br>Breading<br>fattennig",
+
+                "text-2-1" : "OTHER CULTURES",
+                "text-2-2" : "IEP has large experience in production in subtropical environments and such crops as cotton, edible beans, soy beans, maize and others.",
+
+                "text-3-1" : "FORESTRY",
+                "text-3-2" : "Wood production for different uses is important for local economies. IEP has experience in forestry and Silvo-pastoral development.",
+
+                "text-4-1" : "DEVELOPMENT OF NEW CROPS",
+                "text-4-2" : "IEP has developed technology in Jatropha curcas for the production of bio-diesel.",
+
+                "text-5-1" : "IEP IN AFRICA",
+                "text-5-2" : "Since 2004 the IEP has conducted research in Angola, Zambia and Mozambique, determining production potential, limiting factors and requirements for the development of agriculture, food self¬sufficiency and export capacity. Today IEP advises agricultural development projects in Angola."
+            },
+
+            ".ocp-lang":{        
+                "title" : "Industrial Oil Complex and Port",
+                "sub-title" : "",
+
+                "text-1" : "LA PLATA CEREAL S.A. (ANDRE GROUP. Laussane - Switzerland)",
+                "text-1-a" : "Oil, Grain and Meal shipping port Shipping capacity: <br> Grain: 2.000 Mtn/h<br>Oil: 4.000 Mtn/day<br>Annual throughput: 3.000.000 Mtn",
+                
+                "text-2-a" : "BLACK SEA INDUSTRIES (Ilyichesck - Ukraine)",
+                "text-2-a" : "Export-Import port<br>Storage enlargement: 92,000 MTn<br>Shipping: 1,000 MTn/Hr",
+                "text-2-b" : "<span>CRUSHING PLANT</span><br>Soybean oil extraction: 2,000 MTn/Day<br>Sunflower seed: 1,500 MTn/Day"
+            },
+
+            ".Agro-p-lang":{        
+                "title" : "Agro Industrial Poles",
+                "sub-title" : "Mission",
+
+                "text-1" : "Polo Agro Industrial Quizenga, Angola",
+                "text-1-a" : "Area: 35.000 Ha<br>Maize flour mill 50 tn/day<br>Drying facilities and silos: 4.500 Tn<br>Mill barns and maize flour storage<br>Housing and offices: 600 m2",
+                "text-1-b" : "✓ Land Clearing<br>✓ First maize harvest in Quizenga<br>✓ Training local personnel",
+                
+                "text-2" : "Polo Agro Industrial Cubal, Angola",
+                "text-2-a" : "Area: 35.000 Ha<br>Maize flour mill: 50 tn/day<br>Drying facilities and silos: 4.500 Tn<br>Mill barns and maize flour storage Housing and offices: 600 m2",
+                "text-2-b" : "✓ Primary soil tillage<br>✓ First corn crop<br>✓ Industrial facility"
+            },
+
+    ".error-lang":{        
+        "title" : "Error 404",
+        "sub-title" : "Something went wrong and we can´t find the requested link, sorry.",
+        "btn" : "<i class=\"arrow_right-up icon-zise mr-2\"></i>Back to Home"
+    },
+
+    ".contact-lang":{
+        "text-title" : "Contact us",
+
+        "sub-title-1":"Postal Address",
+
+        "name" : "<input type=\"text\" class=\"form-control\" name=\"name\" placeholder=\"Enter your full name\">",
+        "phone" : "<input type=\"tel\" class=\"form-control\" name=\"phone\" placeholder=\"Enter your phone number\">",
+        "email" : "<input type=\"email\" class=\"form-control\" name=\"email\" placeholder=\"Enter your email\">",
+        "message" : "<textarea class=\"form-control\" name=\"message\" rows=\"5\" cols=\"80\" placeholder=\"Message\"></textarea>",
+
+        "btn-send" : "SEND",
+        "gracias" : "Thank you very much!",
+        "parrafo-gra" : "The form was sent successfully, In the near future we will contact."
+    }
+
+
+}

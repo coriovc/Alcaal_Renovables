@@ -1,0 +1,101 @@
+/* :: 20.0 Contact Area */
+
+.contact-area{
+    margin-bottom: 22rem;
+    @media #{$breakpoint-xs} {
+        margin-bottom: 25rem;
+    }
+}
+
+.single-contact-card {
+    position: relative;
+    z-index: 1;
+
+
+    h4 {
+        font-size: 30px;
+        font-weight: 400;
+        color:$white;
+        margin:0;
+    }
+
+
+    h6 {
+        margin-bottom: 0;
+        color: $white;
+        font-size: 16px;
+        line-height: 1.5;
+        font-weight: 400;
+
+        @media #{$breakpoint-xs} {
+            font-size: 13px;
+        }
+    }
+
+    h5 {
+        margin-top: 1rem;
+        margin-bottom: 0;
+        color: $white;
+        font-size: 16px;
+        line-height: 1;
+        font-weight: 700;
+
+        @media #{$breakpoint-xs} {
+            font-size: 14px;
+        }
+    }
+}
+
+.card-position{
+
+    position: absolute;
+    float: right;
+    right: 0;
+    margin: 20rem 5rem 0 0;
+
+    @media #{$breakpoint-xs} {
+        margin: 14rem 0 0 0;
+        }
+
+    .card{
+        border-radius: 1rem;
+        border:none;
+        z-index: 2;
+        box-shadow: 0 0.5rem 2rem rgba(0, 0, 0, 0.10);
+
+        .contact-Thakns{
+            display: none;
+            position: absolute;
+            background-color: #FFF;
+            z-index: 5000;
+            width: 100%;
+            height: 90%;
+            padding: 0 2rem;
+            margin-top: 3rem;
+
+            &.show{
+                display: block;
+            }
+
+            h2{
+                font-size: 48px;
+                font-weight: 400;
+                line-height: 1;
+                margin-bottom: 2rem;
+                color: $c-gray;
+
+            }
+
+            p{
+                line-height: 1;
+                font-size: 17px;
+                color: $c-gray;
+            }
+        }
+
+    }
+}
+
+.contact-margin{
+   padding: 3rem 2rem;
+}

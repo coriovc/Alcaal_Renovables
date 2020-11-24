@@ -1,0 +1,70 @@
+/* :: About group */
+
+.about-area-hero{
+    padding-top: 10%;
+
+    @media #{$breakpoint-xs} {
+        padding-top: 5rem;
+    }
+}
+
+.about-text {
+        position: relative;
+        z-index: 1;
+
+        @media #{$breakpoint-xs} {
+            padding: 0 2rem;
+        }
+
+        h2 {
+            font-size: 86px;
+            display: block;
+            margin-bottom: 30px;
+            color: $c-gray;
+            font-weight: 400;
+            line-height: 1;
+            text-align: right;  
+
+            @media #{$breakpoint-xs} {
+                font-size: 60px;
+                padding-top: 40px;
+                text-align: center;
+            }
+
+            span {
+                color: $primary;
+            }
+        }
+
+        &.pri h2{
+            color: $primary;
+        } 
+
+        p {
+            margin-bottom: 0;
+            line-height: 1.5;
+            padding-top: 1%;
+            font-size: 26px;
+
+            span{
+                color:$primary;
+                font-weight: 800;
+            }
+
+            @media #{$breakpoint-lg} {
+                font-size: 18px;
+            }
+
+            @media #{$breakpoint-md} {
+                font-size: 12px;
+            }
+            @media #{$breakpoint-xs} {
+                font-size: 15px;
+            }
+        }
+
+        &.phill p{
+            padding-top: 6%;
+        }
+}
+

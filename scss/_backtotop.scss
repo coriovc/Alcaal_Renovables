@@ -1,0 +1,26 @@
+/* ::Backtotop*/
+
+#scrollUp {
+    bottom: 40px;
+    font-size: 25px;
+    line-height: 35px;
+    right: 40px;
+    width: 40px;
+    background-color: $secondary;
+    color: $white;
+    text-align: center;
+    height: 40px;
+    @include transition-duration(500ms);
+    border-radius: 50%;
+    @include box-shadow($box-shadow);
+
+    &:hover {
+        background-color: $primary;
+        color: $white;
+    }
+
+    @media #{$breakpoint-xs} {
+        right: 30px;
+        bottom: 30px;
+    }
+}

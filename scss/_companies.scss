@@ -1,0 +1,206 @@
+/* :: Group companies */
+
+.group-companies-area{
+    position: relative;
+    z-index: 1;
+    padding: 11% 10%;
+
+    @media #{$breakpoint-xs} {
+    	padding-top: 10rem;
+    }
+
+    .a-content {
+        position: relative;
+        z-index: 1;
+
+        @media #{$breakpoint-xs} {
+            margin-bottom: 2rem;
+        }
+
+        h2 {
+            font-size: 75px;
+            display: block;
+            font-weight: 400;
+            margin-bottom: 1rem;
+            color: $primary;
+
+            @media #{$breakpoint-xs} {
+                font-size: 45px;
+            }
+        }
+
+        p {
+            
+            margin-bottom: 0;
+            line-height: 1.5;
+            font-size: 26px;
+
+            @media #{$breakpoint-xs} {
+                font-size: 16px;
+            }
+        }
+    }
+
+    .card{
+        border:none;
+    }
+}
+
+
+/* :::: New Venture ::::*/
+
+.venture-text {
+        position: relative;
+        z-index: 1;
+        @media #{$breakpoint-xs} {
+            padding-top: 50px;
+        }
+        h2 {
+            font-size: 85px;
+            display: block;
+            margin-top: 6rem;
+            color: $white;
+            font-weight: 400;
+            line-height: 1.2;   
+
+            @media #{$breakpoint-xs} {
+                font-size: 60px;
+            }
+
+
+        }
+
+        h3 {
+            font-size: 25px;
+            color: $white;
+            margin-bottom: 30px;
+            display: block;
+            font-weight: 400;
+
+            @media #{$breakpoint-xs} {
+                font-size: 17px;
+                margin-bottom: 40px;
+            }
+        }
+}
+
+.NV-area{
+    position: relative;
+    z-index: 1;
+    padding: 4% 10%;
+    margin-left: 5%;
+
+    @media #{$breakpoint-xs} {
+      padding-top: 4rem;
+      margin-left: 0;          
+    }
+
+    .NV-content {
+        position: relative;
+        z-index: 1;
+
+        span{
+            &.line{
+                position: absolute;
+                margin: -0.6rem 0 0 0;
+                height: 3px;
+                background-color: $primary;
+                width: 55px;
+                border-radius: 20%;
+            }
+        }
+
+        h2 {
+            font-size: 40px;
+            display: block;
+            font-weight: 400;
+            margin-bottom: 1rem;
+            color: $c-gray;
+
+            span{
+                color:$primary;
+            }
+
+            @media #{$breakpoint-xs} {
+                font-size: 25px;
+            }
+        }
+
+        p {
+            
+            margin:  2rem 4rem 0 0;
+            line-height: 2;
+            font-size: 20px;
+
+            @media #{$breakpoint-lg} {
+                font-size: 14px;
+            }
+
+            @media #{$breakpoint-md} {
+                font-size: 12px;
+            }
+
+            @media #{$breakpoint-xs} {
+                font-size: 18px;
+                line-height: 1.5;
+                margin-right: 0;
+            }
+        }
+
+        a {
+                position: relative;
+                z-index: 1;
+                font-size: 18px;
+                color: $c-gray;
+                font-weight: 400;
+                text-decoration: underline;
+                width: 55%;
+
+                @media #{$breakpoint-lg} {
+                    font-size: 14px;
+                }
+
+                @media #{$breakpoint-xs} {
+                    width: auto;
+                }
+            }
+
+        a:hover{
+            color: $primary;
+        }
+
+        .content{
+                padding: 2rem 0 2rem 4rem;
+
+            @media #{$breakpoint-xs} {
+              padding-left: 2%;         
+            }
+
+            .our-link {
+                li {
+                        position: relative;
+                        z-index: 1;
+                        font-size: 18px;
+                        color: $c-gray;
+                        font-weight: normal;
+                        line-height: 2;
+
+                        @media #{$breakpoint-lg} {
+                            font-size: 14px;
+                        }
+
+                        @media #{$breakpoint-xs} {
+                            width: auto;
+                        }
+
+                    i{
+                        color:$primary;
+                        font-size: 1rem;
+                        font-weight: 800;
+                        margin-right: 0.5rem;
+                    }
+                }
+            }
+        }
+    }
+}

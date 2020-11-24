@@ -1,0 +1,307 @@
+/* :::::::::::::::::::::::::::: CFA CSS ::::::::::::::::::::::::::::*/
+
+.single-cf-area {
+    position: relative;
+    z-index: 1;
+
+    h2 {
+        margin-bottom: 0;
+        font-size: 60px;
+        color: $primary;
+        margin-right: 20px;
+    }
+
+    .cf-text {
+        h6 {
+            margin-bottom: 0;
+            text-transform: uppercase;
+            font-weight: 600;
+        }
+    }
+
+    .bg-icon {
+        position: absolute;
+        bottom: 0;
+        right: 0;
+        z-index: -1;
+        font-size: 60px;
+        color: #eaeaea;
+    }
+}
+
+
+/* :::::::::::::::::::::::::::: CTA CSS ::::::::::::::::::::::::::::*/
+
+.uza-cta-area {
+    position: relative;
+    z-index: 1;
+}
+
+.cta-content {
+    position: relative;
+    z-index: 1;
+
+    h2 {
+        font-size: 48px;
+        margin-bottom: 10px;
+
+        @media #{$breakpoint-lg} {
+            font-size: 36px;
+        }
+
+        @media #{$breakpoint-md} {
+            font-size: 42px;
+        }
+
+        @media #{$breakpoint-xs} {
+            font-size: 30px;
+        }
+    }
+
+    h6 {
+        font-size: 18px;
+        margin-bottom: 0;
+        color: $secondary;
+    }
+
+    .call-now-btn {
+        a {
+            display: inline-block;
+            font-size: 30px;
+            color: $primary;
+
+            @media #{$breakpoint-lg} {
+                font-size: 22px;
+            }
+
+            @media #{$breakpoint-xs} {
+                font-size: 24px;
+            }
+
+            span {
+                font-size: 18px;
+                color: $secondary;
+
+                @media #{$breakpoint-xs} {
+                    font-size: 14px;
+                }
+            }
+        }
+    }
+}
+
+/* :::::::::::::::::::::::::::: SERVICE ::::::::::::::::::::::::::::*/
+
+.single-service-area {
+    position: relative;
+    z-index: 1;
+    text-align: center;
+
+    .service-icon {
+        background-color: $bg-gray;
+        width: 145px;
+        height: 110px;
+        font-size: 42px;
+        color: $heading;
+        text-align: center;
+        line-height: 110px;
+        border-radius: 80px 200px 200px 362px;
+        margin: 0 auto 30px;
+        @include transition-duration(500ms);
+    }
+
+    h5 {
+        font-size: 22px;
+        display: block;
+        margin-bottom: 15px;
+        @include transition-duration(300ms);
+        font-weight: 600;
+    }
+
+    &:focus,
+    &:hover {
+        .service-icon {
+            background-color: $primary;
+            color: $white;
+            @include box-shadow($box-shadow);
+        }
+
+        h5 {
+            color: $primary;
+        }
+    }
+}
+
+.card-ear{
+        position: relative;
+        background-color: #ffffff;
+        flex-direction: column;
+        min-width: 0;
+        padding: 4% 2% 2% 5%;
+        width: 100%;
+
+        h5 {
+            color: $c-gray;
+            font-size: 13px;
+        }
+
+      .nl-content {
+        position: relative;
+        z-index: 1;
+
+        h2 {
+            font-size: 40px;
+            display: block;
+            font-weight: 400;
+            margin-bottom: 0;
+            color: $c-gray;
+            margin-right: 5rem;
+
+            span{
+                color:$primary;
+                @media #{$breakpoint-xs} {
+                   color:$c-gray;
+                }
+            }
+
+            @media #{$breakpoint-xs} {
+                font-size: 22px;
+                line-height: 1.2;
+                margin-right: 0;
+            }
+        }
+        
+
+        p {
+            margin-bottom: 0;
+            line-height: 1.5;
+            @media #{$breakpoint-lg} {
+                font-size: 14px;
+            }
+
+            @media #{$breakpoint-md} {
+                font-size: 12px;
+            }
+        }
+      }
+
+    }
+
+.cta-testimonial-cfa-area {
+    position: relative;
+    z-index: 1;
+
+    .cta-testimonial-cfa-bg-curve {
+        position: absolute;
+        left: 0;
+        top: 0;
+        width: auto;
+        height: 100%;
+        z-index: -1;
+    }
+}
+
+/* :::::::::::::::::::::::::::: breadcrumb ::::::::::::::::::::::::::::*/
+
+.breadcrumb-area {
+    position: relative;
+    z-index: 1;
+    height: 290px;
+    margin-bottom: 40px;
+
+    @media #{$breakpoint-md} {
+        height: 220px;
+    }
+
+    @media #{$breakpoint-xs} {
+        height: 200px;
+        margin-bottom: 0;
+    }
+
+    .breadcrumb-bg-curve {
+        position: absolute;
+        width: 80%;
+        height: 100%;
+        top: 0;
+        right: 0;
+        z-index: -1;
+        background-size: cover;
+        text-align: right !important;
+        
+        @media #{$breakpoint-lg} {
+            width: 90%;
+        }
+    }
+
+    .title {
+        font-size: 60px;
+        margin-bottom: 0;
+        text-transform: capitalize;
+
+        @media #{$breakpoint-lg} {
+            font-size: 42px;
+        }
+
+        @media #{$breakpoint-md} {
+            font-size: 36px;
+        }
+
+        @media #{$breakpoint-xs} {
+            font-size: 30px;
+        }
+    }
+
+    .breadcumb--con {
+        .breadcrumb {
+            padding: 0;
+            margin-bottom: 0;
+            list-style: none;
+            background-color: transparent;
+            border-radius: 0;
+
+            .breadcrumb-item,
+            .breadcrumb-item > a,
+            .breadcrumb-item.active {
+                font-size: 18px;
+                text-transform: capitalize;
+                color: $heading;
+                font-weight: normal;
+                letter-spacing: normal;
+
+                @media #{$breakpoint-xs} {
+                    font-size: 14px;
+                }
+
+                &:focus,
+                &:hover {
+                    color: $primary;
+                }
+            }
+
+            .breadcrumb-item.active {
+                color: $secondary;
+
+                &:focus,
+                &:hover {
+                    color: $secondary;
+                }
+            }
+
+            .page-item:first-child .page-link {
+                margin-left: 0;
+                border-top-left-radius: 0;
+                border-bottom-left-radius: 0;
+            }
+
+            .page-item:last-child .page-link {
+                border-top-right-radius: 0;
+                border-bottom-right-radius: 0;
+            }
+
+            .breadcrumb-item + .breadcrumb-item::before {
+                content: "\f105";
+                font-family: 'FontAwesome';
+            }
+        }
+    }
+}

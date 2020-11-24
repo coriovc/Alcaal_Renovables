@@ -1,0 +1,193 @@
+/* :: 6.0 Buttons CSS */
+
+.uza-btn {
+    position: relative;
+    z-index: 1;
+    min-width: 160px;
+    height: 50px;
+    line-height: 50px;
+    font-size: 16px;
+    font-weight: 600;
+    display: inline-block;
+    padding: 0 30px;
+    text-align: center;
+    text-transform: capitalize;
+    color: $primary;
+    border: none;
+    border-radius: 50px;
+    background-color: $white;
+    -webkit-transition:all .9s ease; 
+                -moz-transition:all .9s ease; 
+                -o-transition:all .9s ease;
+                -ms-transition:all .9s ease; 
+
+    &:focus,
+    &:hover {
+        background-color: $primary;
+        color: $white;
+    }
+
+    &.btn-2 {
+        background-color: $primary;
+        color: $white;
+        min-width: 130px;
+        height: 40px;
+        line-height: 2.5;
+
+        &:focus,
+        &:hover {
+            background-color: $secondary;
+            color: $white;
+        }
+    }
+
+
+    &.btn-3 {
+        border: 2px solid $primary;
+        line-height: 46px;
+    }
+
+    &.btn-4 {
+        border: 1px solid $white;
+        line-height: 35px;
+        background-color: transparent;
+        color:$white;
+        height: 40px;
+        min-width: auto;
+        padding: 0 20px;
+
+        @media #{$breakpoint-xs} {
+            line-height: 32px;
+            height: 35px;
+            font-size: 14px;
+            min-width: auto;
+            padding: 0 10px;
+
+        }
+        &:hover {
+            background-color: $white;
+            color: $primary;
+        }
+
+    }
+
+    &.btn-5 {
+        background-color: $primary;
+        color: $white;
+        min-width: 150px;
+        height: 50px;
+        padding: 0 25px;
+        line-height: 2.3;
+        font-size: 20px;
+
+        &:focus,
+        &:hover {
+            background-color: $secondary;
+            color: $white;
+        }
+    }
+
+     &.btn-lang {
+        min-width: 70px;
+        height: 30px;
+        border: 1px solid $white;
+        line-height: 2;
+        padding: 0;
+        margin-left: 1rem;
+        font-size: 14px;
+        font-weight: 400;
+        color: $white;
+        border-radius: 25px;
+        background-color: transparent;
+        
+        @media #{$breakpoint-xs} {
+            border-color: $primary;
+            color: $primary;
+            min-width: 100px;
+            height: 50px;
+            font-size: 20px;
+            line-height: 1.5;
+        }
+
+        &.foo{
+            margin-left: -1rem;
+            min-width: 80px;
+            height: 40px;
+            font-size: 17px;
+
+            @media #{$breakpoint-xs} {
+                border-color: $white;
+                color: $white;
+            }
+        }
+        
+        &:focus,
+        &:hover {
+            background-color: $white;
+            color: $primary;
+
+        }
+
+    }
+
+     &.btn-outline-primary {
+        min-width: 80px;
+        height: 40px;
+        border: 1px solid $primary;
+        line-height: 2.2;
+        padding: 0 20px;
+        margin-top: 1rem;
+        font-size: 17px;
+        font-weight: 500;        
+        color: $primary;
+        border-radius: 25px;
+        background-color: transparent;
+        
+        @media #{$breakpoint-xs} {
+            border-color: $primary;
+            color: $primary;
+            min-width: 100px;
+            height: 50px;
+            font-size: 20px;
+            line-height: 1.5;
+        }
+
+        
+        &:hover {
+            background-color: $primary;
+            color: $white;
+            border-color:transparent;
+
+        }
+
+    }
+
+    &.btn-bold{
+        height: 50px;
+        line-height: 3.1;
+    }
+}
+
+
+    a{
+        &.btn-trans-card {
+            background-color: transparent;
+            color: $primary;
+            line-height: 2.5;
+            font-size: 20px;
+            padding: .375rem 0;
+            font-weight: 400;
+
+            &:focus,
+            &:hover {
+                color: $secondary;
+                font-size: 20px;
+                font-weight: 400;
+
+            }
+        }
+    }
+
+.btn{
+    box-shadow: none !important;
+}

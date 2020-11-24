@@ -1,0 +1,352 @@
+{   
+    
+    ".head-lang":{
+        "item-1" : "<i class=\"arrow_right-up icon-link-m d-inline-block d-xl-none\"></i>Quem somos",
+        "item-2" : "<i class=\"arrow_right-up icon-link-m d-inline-block d-xl-none\"></i>O que fazemos",        
+        "item-3" : "<i class=\"arrow_right-up icon-link-m d-inline-block d-xl-none\"></i>Estrutura<i id=\"drop\" class=\"arrow_carrot-down\"></i>",
+            "item-3-a" : "a porta de entrada<br>para o agronegócio",
+            "item-3-1" : "<i class=\"arrow_right-up icon-zise mr-2\"></i>Plantas industriais",
+            "item-3-2" : "<i class=\"arrow_right-up icon-zise mr-2\"></i>Indústria de fertilizantes",
+            "item-3-3" : "<i class=\"arrow_right-up icon-zise mr-2\"></i>Feedlots",
+            "item-3-4" : "<i class=\"arrow_right-up icon-zise mr-2\"></i>Moagem",
+            "item-3-5" : "<i class=\"arrow_right-up icon-zise mr-2\"></i>Unidades de classificação de sementes",
+            "item-3-6" : "<i class=\"arrow_right-up icon-zise mr-2\"></i>Unidades de armazenamento e acondicionamento de grãos",
+            "item-3-7" : "<i class=\"arrow_right-up icon-zise mr-2\"></i>Port Facilities",
+            "item-3-8" : "<i class=\"arrow_right-up icon-zise mr-2\"></i>Complexo industrial de petróleo e instalações portuárias",
+            "item-3-9" : "<i class=\"arrow_right-up icon-zise mr-2\"></i>Facilities",
+            "item-3-10" : "<i class=\"arrow_right-up icon-zise mr-2\"></i>Consultoria, auditoria e análise",
+            "item-3-11" : "<i class=\"arrow_right-up icon-zise mr-2\"></i>Pólos agroindustriais",
+        "item-4" : "<i class=\"arrow_right-up icon-link-m d-inline-block d-xl-none\"></i>Projectos seleccionados",
+        "item-5" : "<i class=\"arrow_right-up icon-link-m d-inline-block d-xl-none\"></i>Contacto",
+
+        "select-lang" : "PORT",
+        "select-idioma" :"<button class=\"dropdown-item\" type=\"button\" onclick=\"setLanguage('en')\">English</button><button class=\"dropdown-item\" type=\"button\" onclick=\"setLanguage('es')\">Español</button><button class=\"dropdown-item active\" type=\"button\" onclick=\"setLanguage('pt')\">Portugués</button>"
+    },
+
+    ".welcome-area-lang":{
+        "parrafo":"anos de experiência em agricultura, energia, instalações portuárias e múltiplas indústrias"
+    },
+
+    ".sec-1-lang":{
+        "title-lateral" : "Should we<br>get started?",
+        "btn-lateral" : "<i class=\"arrow_right-up icon-zise mr-2\"></i>Contact us",
+
+        "text-title" : "Somos a porta de entrada",
+        "text-title-b" : "à agro-indústria para as empresas líderes<br><span>Conheça mais sobre nós.</span>",
+        "btn" : "<i class=\"arrow_right-up icon-zise mr-2\"></i>Sobre IEP"
+    },
+
+    ".wwd-lang":{
+        "title-1" : "o que nós fazemos",
+        "title-2" : "Nós sabemos o que estamos a fazer. Nossas áreas de especialização.",
+
+        "text-1" : "Estudos de viabilidade",
+        "text-2" : "Manuseio de cereais a granel",
+        "text-3" : "Processo de extração de óleo e produtos de grãos",
+        "text-4" : "Agro-indústria",
+        "text-5" : "Pecuária",
+
+        "btn-more" : "<i class=\"arrow_right-up icon-zise mr-2\"></i>MAIS INFO"
+    },
+
+    ".sec-2-lang":{
+        "title" : "Somos uma empresa de engenharia com sede em Angola e Argentina com ampla abrangência global",
+        "span" : "NOSSO PERFIL"
+    },
+
+    ".sec-3-lang":{
+        "title" : "Nossa estrutura de negócios",
+
+        "list-1" : "<i class=\"icon_check\"></i>Plantas industriais",
+        "list-2" : "<i class=\"icon_check\"></i>Indústria de fertilizantes",
+        "list-3" : "<i class=\"icon_check\"></i>Feedlots",
+        "list-4" : "<i class=\"icon_check\"></i>Moagem",
+        "list-5" : "<i class=\"icon_check\"></i>Unidades de classificação de sementes",
+        "list-6" : "<i class=\"icon_check\"></i>Unidades de armazenamento e acondicionamento de grãos",
+        "list-7" : "<i class=\"icon_check\"></i>Port Facilities",
+        "list-8" : "<i class=\"icon_check\"></i>Complexo industrial de petróleo e instalações portuárias",
+        "list-9" : "<i class=\"icon_check\"></i>Consultoria, auditoria e análise"
+    },
+
+
+    ".part-lang":{
+        "title" : "Empresas que confiam em nós"
+    },
+
+    ".sec-footer-lang":{
+        "text-title" : "Na IEP GLOBAL",
+        "text-pa" : "temos o know-how, a estrutura e a experiência para garantir o profissionalismo e a transparência da gestão.",
+        "btn" : "<i class=\"arrow_right-up icon-zise mr-2\"></i>Vamos conversar"
+    },
+
+    
+    ".footer-lang":{
+        "copyr" : "Todos os dereitos reservados.", 
+
+        "link-text-1" : "Quem somos",
+        "link-text-2" : "O que fazemos",
+        "link-text-3" : "Estrutura",
+        "link-text-4" : "Projectos seleccionados",
+        "link-text-5" : "Contacto",
+
+        "info-text-1" : "Endereço Postal",
+
+        "select-lang" : "PORT",
+        "select-idioma" :"<button class=\"dropdown-item\" type=\"button\" onclick=\"setLanguage('en')\">English</button><button class=\"dropdown-item\" type=\"button\" onclick=\"setLanguage('es')\">Español</button><button class=\"dropdown-item active\" type=\"button\" onclick=\"setLanguage('pt')\">Portugués</button>"
+    },
+
+
+
+
+    ".about-lang":{
+        "text-title" : "QUEM SOMOS",
+        "text-title-b" : "Desde 1972, trabalhamos permanentemente<br> no  desenvolvimento de <span>projectos de engenharia</span><br> e consultoria especializada na <span>agro-indústria</span> e seus processos associados.",
+        "parrafo-1" : "Oferecemos consultoria no mercado agrícola e somos a porta de entrada para a agro-indústria. Temos o conhecimento, estrutura e experiência para garantir o profissionalismo e a transparência da gestão. Além disso, nos últimos quinze anos, a IEP tem se especializado na produção de commodities para a agro-indústria e desenvolvido a produção de óleo de girassol com alto teor de ácido oleico, entre outros serviços para empresas líderes.",
+        "parrafo-2" : "A IEP combina uma abordagem multidisciplinar com um conhecimento prático e aprofundado da indústria e da agricultura para ajudar os clientes a enfrentarem os desafios e responderem às oportunidades.",
+
+        "text-title-2" : "Descrição dos serviços oferecidos pela IEP",
+
+        "list-1" : "Consultoria e gestão",
+        "list-2" : "Cereais e óleo a granel",
+        "list-3" : "Procedimentos para a extração de óleo comestível e derivados de cereais",
+        "list-4" : "Indústria de açúcar",
+        "list-5" : "Indústria de fertilizantes",
+        "list-6" : "Moinhos de trigo e farinha",
+        "list-7" : "Moinhos de arroz",
+
+        "list-8" : "Treinamento de pessoal industrial",
+        "list-9" : "Desenvolvimento de terras agrícolas",
+        "list-10" : "Treinamento de pessoal e gerenciamento agrícola",
+        "list-11" : "Pecuária",
+        "list-12" : "Produção de sementes",
+        "list-13" : "Produção florestal",
+        "list-14" : "Desenvolvimento de novas safras",
+        "list-15" : "Irrigação",
+
+        "text-title-foo" : "Saiba mais sobre nossas áreas de especialização",
+        "span" : "ESPECIALIZAÇÃO",
+
+        "btn" : "<i class=\"arrow_right-up icon-zise mr-2\"></i>Nossos serviços"
+    },
+
+    ".wwd-sec-lang":{
+        "text-title" : "O QUE FAZEMOS",
+        "text-title-b" : "Contamos com uma equipa técnica que trabalha há <span>45 anos </span> de maneira contínua no desenvolvimento de projectos de engenharia e consultoria especializada em agro-indústria e seus processos associados.",
+        "parrafo-1" : "Desenvolvemos nossas actividades na Argentina, Brasil, Paraguai, Guatemala, Ucrânia, Chile, Uruguai, Filipinas, Malásia e Angola.",
+
+        "text-title-2" : "Áreas De Experiência",
+
+        "card-title-1" : "Estudos de viabilidade",
+            "list-1-1" : "Recursos locais",
+            "list-1-2" : "Produção regional",
+            "list-1-3" : "Logística",
+            "list-1-4" : "Requerimento de energia",
+            "list-1-5" : "Regulamentação ambiental e segurança",
+            "list-1-6" : "Avaliação econômico-financeira",
+            "list-1-7" : "Análise de custos de produção",
+            "list-1-8" : "Projecções futuras",
+            "list-1-9" : "Análise de investimentos",
+
+        "card-title-2" : "Tratamento de cereais",
+            "list-2-1" : "Armazenamento, secagem, limpeza e classificação de sementes",
+            "list-2-2" : "Carga de navios e barcaças",
+            "list-2-3" : "Descarga de navios e barcaças",
+            "list-2-4" : "Sistemas de caminhão e ferrovia",
+            "list-2-5" : "Sistema de recepção",
+
+        "card-title-3" : "Processo de extração de óleo e produtos de cereais",
+            "list-3-1" : "Ração",
+            "list-3-2" : "Extração e refino de óleos para alimentos e biocombustíveis.",
+            "list-3-3" : "Extração de etanol de milho e sorgo.",
+            "list-3-4" : "Moagem de trigo, milho e arroz.",
+            "list-3-5" : "Production in subtropical environments and such crops as cotton, edible beans, soy beans, maize and others.",
+
+        "card-title-4" : "Agro-indústria",
+            "list-4-1" : "Indústria de fertilizantes",
+            "list-4-2" : "Seleção e embalagem de frutas",
+            "list-4-3" : "Moinhos de ração animal",
+            "list-4-4" : "Processamento da cana de açúcar",
+
+        "card-title-5" : "Pecuária",
+            "list-5-1" : "Lacticínios",
+            "list-5-2" : "Feed Lot",
+            "list-5-3" : "Cria",
+            "list-5-4" : "Engorda",
+
+        "card-title-6" : "Outras indústrias",
+            "list-6-1" : "Produção florestal ",
+            "list-6-2" : "Frigoríficos de aves ",
+            "list-6-3" : "Câmaras frigoríficas",
+            "list-6-4" : "Obra civil",
+            "list-6-5" : "Infraestrutura: electricidade, gás, estradas, arquitectura industrial"
+    },
+
+    ".select-p-lang":{
+        "text-title" : "Projectos seleccionados",
+        "text-title-b": "O IEP desenvolve estudos e projetos altamente especializados, desde a análise e engenharia econômico-financeira até seu início e comissionamento.",
+        "parrafo-1": "Os Técnicos do IEP têm desenvolvido projetos para diferentes organizações públicas e privadas, através de serviços de organização, gestão, assessoria e reestruturação de empresas.",
+        
+        "lateral-text" : "Análise e engenharia",
+
+        "op" : "Projectos em andamento",
+        "cp" : "Projectos finalizados",
+
+        "collapse-title-1" : "<img class=\"no-rotate\" src=\"img/core-img/plus.png\" width=\"25\">Serviços de gestão e consultoria",
+            "list-1-1" : "Irrigação, equipamento e construção de infraestrutura: Quizenga, Malanje, Angola. Construção de barragem e plantação de 5000 hectares de agricultura. Capex total de USD 122 milhões.",
+            "list-1-2" : "Campo na Argentina: Província de Córdoba, Buenos Aires e Chaco. 10.000 ha de produção própria de milho, soja, girassol, trigo e algodão.",
+            "list-1-3" : "Complexo Agro-industrial Fazenda Vissati: Cuando Cubango, Angola. Desenho, execução e gestão de um projecto agrícola de 9200 hectares. Milho, soja e feijão. Assistência para a agricultura familiar.",
+            
+            "list-1-4" : "Gestão de Fundos Agrícolas na Argentina (FIDA) com International Finance Corporation (IFC) como investidor âncora (1994 - 2014): USD 205 milhões investidos em mais de 1 milhão de hectares com 2,5 milhões de toneladas de produção.",
+            "list-1-5" : "Programas de produção compartilhada 2004-2014: mais de 100.000 ha desenvolvidos em conjunto com produtores, fornecedores e empresas comerciais multinacionais como Dow Agro Sciences, Cargill, Monsanto e Glencore, entre outras.",
+            "list-1-6" : "Pólo Agro-industrial Quizenga (Malanje) e Pólo Agro-industrial Cubal (Benguela), Angola: 60.000 ha sob gestão. Projecto e execução de planta de armazenamento de grãos de 18.000 toneladas e unidades de produção para beneficiamento de farinha de milho, soja e feijão. Capex total implantado de USD 94 milhões.",
+
+        "collapse-title-2" : "<img class=\"no-rotate\" src=\"img/core-img/plus.png\" width=\"25\">Desenvolvimento agrícola",
+            "list-2-1" : "Avaliação do Programa de Estudos da Escola Agrícola: Instituto Médio Agrário (IMA), Província de Quando Cubango, Angola, 2019.",
+            "list-2-2" : "Desenho e desenvolvimento de um plano sustentável de substituição de importação de arroz para a República do Chade, por um total de 70.000 toneladas de produção de arroz.",
+            "list-2-3" : "Desenho de um plano abrangente de substituição de importação de cereais para o Governo de Moçambique por um total de 1,4 milhões de toneladas de produção de cereais.",
+
+            "list-2-4" : "Planejamento e execução de estudos integrais sobre Seguros Agropecuários e Análise de Risco na Argentina para o Projecto ARG / 94/018 / B / 01/99 do Banco Mundial, com 30 milhões de hectares analisados.",
+            "list-2-5" : "Projecto de Irrigação Complementar: Gestão Sustentável da Irrigação Complementar na Região Pampeana, Argentina. PROSAP; 53,5 milhões de hectares.",
+            "list-2-6" : "Estudos de viabilidade do plantio de Jatropha curcas para produção de biodiesel. Índia 2005; Brasil 2006-2007, Paraguai 2010 - junto com o Banco Interamericano de Desenvolvimento, BID.",
+            "list-2-7" : "Treinamento de equipas de produção de sementes de espécies de plantas híbridas e de polinização aberta para Continental e Dow Agro Sciences em uma área total de 50.000 ha.",
+
+        "collapse-title-3" : "<img class=\"no-rotate\" src=\"img/core-img/plus.png\" width=\"25\">Engenharia de projecto",
+            "list-3-1" : "Puerto Necochea, Pier 12, Província de Buenos Aires, Argentina. Engenharia completa, aquisição e supervisão in situ da instalação da planta de descarga de fertilizantes sólidos e líquidos para os navios Panamax. Tanques de 500 m3/h para descarga de óleo combustível, armazenamento de sólidos de 50.000 Tn e capacidade de armazenamento de fertilizantes líquidos de 25.000 m3.",
+            "list-3-2" : "Ampliação da Unidade de Classificação de Sementes, Uranga, Santa Fe, Argentina. Engenharia completa, aquisição e supervisão in situ para a expansão da planta. 25 Tn/h, armazenamento em massa de 21.000 Tn, armazenamento ensacado de 15.000 Tn.",
+            "list-3-3" : "Unidade de Concentrado de Vitamina para Farelo de Soja, Província de Buenos Aires, Argentina. Estudo de viabilidade, assessoria em engenharia básica, compras e construção.",
+            
+            "list-3-4" : "La Plata Cereal SA (Parte do Andre Group, SUI), Puerto San Martín - Província de Santa Fe - Argentina. Engenharia, aquisição e gestão: Grãos 2000 Tn/h, Petróleo 4000 Tn/dia. Capacidade anual: 3 milhões de toneladas.",
+            "list-3-5" : "LDC Arg., Bahía Blanca Port Complex, Puerto Galván. Argentina. Engenharia completa, aquisição e supervisão in situ da instalação portuária de embarque: capacidade de embarque 2400 Tn/h Capacidade de armazenamento 92.000 Tn.",
+            "list-3-6" : "Porto e complexo industrial de óleo, Black Sea Industries, Ilyichesck, Ucrania. Estudo de viabilidade, engenharia, aquisição, supervisão e assessoria pós-construção. Extracção de óleo de girassol 1500 Tn/dia. Extracção de óleo de soja 2000 tn/dia. Armazenamento 60.000 Tn. Capacidade de embarque de farinhas e grãos 1000 Tn/h."
+    },
+
+            ".IP-lang":{        
+                "title" : "Plantas industriais",
+                "sub-title" : "Conheça nossas plantas industriais associadas e suas principais características:",
+                
+                "parrafo-1" : "CLASSIFICAÇÃO DE PLANTAS E CONSERVAÇÃO DE EMBALAGENS DE FRUTAS (SEMENTES DE CITRINOS) INSTALAÇÃO DE CÂMARAS DE BROMETO PARA AMORAS.",
+                "parrafo-2" : "",
+                "parrafo-3" : "PROCESSAMENTO DE AVES.<br>Linha de produção: 8000 frangos / hora"
+            },
+
+            ".FL-lang":{        
+                "title" : "Feedlots",
+                "sub-title" : "",
+
+                "parrafo" : "Capacidade: 30.000 cabeças de gado em 200 currais Planta de alimentação: 300 MTn/dia"
+            },
+
+            ".Milling-lang":{        
+                "title" : "Moagem",
+                "sub-title" : "Conheça nossas plantas industriais associadas e suas principais características:",
+
+                "text-1" : "PLANTA DE ALIMENTACIÓN AVEX S.A. ",
+                "text-2" : "REVAMPING",
+                "text-3" : "MOLIENDA DE ARROZ \"TAYI\" TURONES Hnos. S.A. "
+            },
+
+            ".scp-lang":{        
+                "title" : "Unidades de classificação de sementes",
+                "sub-title" : "Conheça nossas plantas industriais associadas e suas principais características:",
+
+                "text-1" : "Planta de classificação para milho, soja, sorgo e trigo",
+                "text-2" : "Classificação de sementes de milho, trigo e soja"
+            },
+
+            ".gcs-lang":{        
+                "title" : "Unidades de armazenamento e acondicionamento de grãos",
+                "sub-title" : ""
+            },
+
+            ".pf-lang": {
+                "title": "Instalações Portuárias",
+                "subtítulo" : ""
+            },
+
+            ".FI-lang": {
+                "title": "Indústria de fertilizantes",
+                "subtítulo": "A equipe do IEP tem ampla experiência na cadeia de valor de fertilizantes.",
+                "parrafo": "Em 1986, a Petrosur Fertilizantes (Argentina) contratou especialistas da atual equipe do IEP para realizar um estudo sobre o futuro do consumo de fertilizantes na Argentina. <br> Em 1991 o governo argentino promoveu o projeto Fertineu, com a participação de província de Neuquen e YPF. Uma área importante foi atribuída para o projeto de Fábrica de Fertilizantes, através da Lei nº 2.134, para COMINCO-AGRIUM. ",
+
+                "text-1-1": "COMINCO FERTILIZERS LTD.",
+                "text-1-2": "-Confiou aos técnicos do IEP um estudo sobre a atualidade na Argentina. <br> -A equipe de fertilizantes do IEP, é liderada por um profissional que já trabalhou com empresas de primeiro nível, realizando as seguintes tarefas.",
+
+                "text-2-1": "GERENTE MUNDIAL DA AGRONOMIA. 2010.",
+                "text-2-2": "-Desenvolvimento e gerenciamento de estratégia de plataforma agronômica global para facilitar as vendas de fertilizantes. <br> -Liderança de uma equipe global de agrônomos que promovem safras de fosfato premium e nutrição balanceada. <br> -Responsável por, treinamento e suporte para clientes internos e externos em todo o mundo. ",
+
+                "text-3-1": "GERENTE DE PESQUISA E DESENVOLVIMENTO. 2008 -2010.",
+                "text-3-2": "-Responsável pelo desenvolvimento de novos produtos de fosfato e potássio. <br> -Projetou, analisou, interpretou e resumiu estudos do Camboja, estufas e laboratórios em todo o mundo. <br> -fornecido com expertise agronômica em projetos estratégicos realizados por equipes multifuncionais. ",
+
+                "text-4-1": "CONSULTOR INDEPENDENTE. 2005 -2008.",
+                "text-4-2": "-Projetou, analisou e resumiu estudos agrícolas de precisão em fazendas na Argentina, Brasil e EUA. <br> -Apoio agronômico e estatístico para a Associação Argentina de Consórcios Regionais de Experimentação Agropecuária (AACREA )."
+            },
+
+            ".con-lang": {
+                "title": "Consultoria, Auditoria e Análise",
+                "subtítulo": "O IEP tem realizado trabalhos de consultoria para grandes empreendimentos do agronegócio em vários países. A equipe técnica do IEP tem expertise ligada ao desenvolvimento de análises de agronegócios e auditorias técnicas em países como Argentina, Brasil, Uruguai, Bolívia, Paraguai, Venezuela, México, República Dominicana, Angola, Zâmbia, Moçambique e Índia. ",
+
+                "text-1-1": "PECUÁRIA",
+                "text-1-2": "IEP possui equipes técnicas com vasta experiência em:",
+                "text-1-3": "Lote de leite e ração <br> empanados <br> fattennig",
+
+                "text-2-1": "OUTRAS CULTURAS",
+                "text-2-2": "IEP tem grande experiência na produção em ambientes subtropicais e em culturas como algodão, feijão, soja, milho e outros.",
+
+                "text-3-1": "FLORESTA",
+                "text-3-2": "A produção de madeira para diferentes usos é importante para as economias locais. O IEP tem experiência em silvicultura e desenvolvimento silvo-pastoril.",
+
+                "text-4-1": "DESENVOLVIMENTO DE NOVAS CULTURAS",
+                "text-4-2": "O IEP desenvolveu tecnologia em Jatropha curcas para a produção de biodiesel.",
+
+                "text-5-1": "IEP IN AFRICA",
+                "text-5-2": "Desde 2004 o IEP tem conduzido pesquisas em Angola, Zâmbia e Moçambique, determinando o potencial de produção, fatores limitantes e requisitos para o desenvolvimento da agricultura, auto¬suficiência alimentar e capacidade de exportação. Hoje IEP aconselha desenvolvimento agrícola projectos em Angola."
+            },
+
+            ".ocp-lang":{        
+                "title" : "Complexo industrial de petróleo e instalações portuárias",
+                "sub-title" : "",
+
+                "text-1" : "LA PLATA CEREAL S.A (GRUPO ANDRE. Laussane - Suiza) ",
+                "text-1-a" : "Porto de embarque para óleo, cereais e farinha Capacidade de envio: <br>Grão: 2000 Mtn/h <br>Óleo: 4000 Mtn/dia <br>Rendimento anual: 3.000.000 Mtn",
+                
+                "text-2-a" : "INDUSTRIAS DEL MAR NEGRO (Ilyichesck - Ucrânia)",
+                "text-2-a" : "Porto de exportação-importação<br>Expansão de armazenamento: 92.000 Mtn<br>Envio: 1000 MTn/Hr",
+                "text-2-b" : "<span>UNIDADE DE MOAGEM</span>Extracção de óleo de soja: 2000 MTn/dia <span>Semente de girassol: 1500 MTn/dia"
+            },
+
+            ".Agro-p-lang":{        
+                "title" : "Centros de desenvolvimento agroindustrial",
+                "sub-title" : "Missão",
+
+                "text-1" : "Pólo Agro-industrial Quizenga, Angola",
+                "text-1-a" : "Superfície: 35.000 Ha <br>Moinho de farinha de milho 50 toneladas / dia <br>Instalações de secagem e silos: 4500 Tn <br>Moinhos e armazenamento de farinha de milho <br>Moradia e escritórios: 600 m2",
+                "text-1-b" : "✓ Preparo do solo<br>✓ Primeira colheita de milho em Quizenga<br>✓ Treinamento para o pessoal local",
+                
+                "text-2" : "Pólo agro-industrial Cubal, Angola",
+                "text-2-a" : "Superfície: 35.000 Ha <br>Moinho de farinha de milho: 50 tn/dia <br>Instalações de secagem e silos: 4500 Tn <br>Moinhos e armazenamento de farinha de milho moradia e escritórios: 600 m2",
+                "text-2-b" : "✓ Lavoura primária do solo <br>✓ Primeira colheita de milho<br>✓ Instalação industrial "
+            },
+            
+    ".error-lang":{        
+        "title" : "Error 404",
+        "sub-title" : "Algo salió mal y no podemos encontrar el enlace solicitado, lo sentimos.",
+        "btn" : "<i class=\"arrow_right-up icon-zise mr-2\"></i>Volver al inicio"
+    },
+
+    ".contact-lang":{
+        "text-title" : "Contate-nos",
+
+        "sub-title-1":"Endereço Postal",
+
+        "name" : "<input type=\"text\" class=\"form-control\" name=\"name\" placeholder=\"Escreva seu nome completo\">",
+        "phone" : "<input type=\"tel\" class=\"form-control\" name=\"phone\" placeholder=\"Insira seu número de telefone\">",
+        "email" : "<input type=\"email\" class=\"form-control\" name=\"email\" placeholder=\"Insira seu Email\">",
+        "message" : "<textarea class=\"form-control\" name=\"message\" rows=\"5\" cols=\"80\" placeholder=\"Mensaje\"></textarea>",
+
+        "btn-send" : "ENVIAR",
+        "gracias" : "Muito Obrigado!",
+        "parrafo-gra" : "O formulário foi enviado com secesso, em um futuro próximo entraremos em contacto"
+    }
+
+
+}

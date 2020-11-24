@@ -1,0 +1,352 @@
+{   
+    
+    ".head-lang":{
+        "item-1" : "<i class=\"arrow_right-up icon-link-m d-inline-block d-xl-none\"></i>Acerca nuestro",
+        "item-2" : "<i class=\"arrow_right-up icon-link-m d-inline-block d-xl-none\"></i>Que hacemos",        
+        "item-3" : "<i class=\"arrow_right-up icon-link-m d-inline-block d-xl-none\"></i>Estructura<i id=\"drop\" class=\"arrow_carrot-down\"></i>",
+            "item-3-a" : "La Puerta de entrada a<br>la agroindustria",
+            "item-3-1" : "<i class=\"arrow_right-up icon-zise mr-2\"></i>Plantas industriales",
+            "item-3-2" : "<i class=\"arrow_right-up icon-zise mr-2\"></i>Industria de fertilizantes",
+            "item-3-3" : "<i class=\"arrow_right-up icon-zise mr-2\"></i>Feedlots",
+            "item-3-4" : "<i class=\"arrow_right-up icon-zise mr-2\"></i>Molienda",
+            "item-3-5" : "<i class=\"arrow_right-up icon-zise mr-2\"></i>Plantas de clasificación de semillas",
+            "item-3-6" : "<i class=\"arrow_right-up icon-zise mr-2\"></i>Plantas de acondicionamiento y almacenamiento de granos",
+            "item-3-7" : "<i class=\"arrow_right-up icon-zise mr-2\"></i>Port Facilities",
+            "item-3-8" : "<i class=\"arrow_right-up icon-zise mr-2\"></i>Complejo Industrial Petrolero e Instalaciones Portuarias",
+            "item-3-9" : "<i class=\"arrow_right-up icon-zise mr-2\"></i>Facilities",
+            "item-3-10" : "<i class=\"arrow_right-up icon-zise mr-2\"></i>Consultoría, Auditoría y Análisis",
+            "item-3-11" : "<i class=\"arrow_right-up icon-zise mr-2\"></i>Polos Agroindustriales",
+        "item-4" : "<i class=\"arrow_right-up icon-link-m d-inline-block d-xl-none\"></i>Proyectos seleccionados",
+        "item-5" : "<i class=\"arrow_right-up icon-link-m d-inline-block d-xl-none\"></i>Contacto",
+
+        "select-lang" : "ESP",
+        "select-idioma" :"<button class=\"dropdown-item\" type=\"button\" onclick=\"setLanguage('en')\">English</button><button class=\"dropdown-item active\" type=\"button\" onclick=\"setLanguage('es')\">Español</button><button class=\"dropdown-item\" type=\"button\" onclick=\"setLanguage('pt')\">Portugués</button>"
+    },
+
+    ".welcome-area-lang":{
+        "parrafo":"años de experiencia en agricultura, energía, instalaciones portuarias y múltiples industrias"
+    },
+
+    ".sec-1-lang":{
+        "title-lateral" : "Should we<br>get started?",
+        "btn-lateral" : "<i class=\"arrow_right-up icon-zise mr-2\"></i>Contact us",
+
+        "text-title" : "Somos la puerta de entrada",
+        "text-title-b" : "a la agroindustria para las empresas líderes<br><span>Conozca más sobre nosotros.</span>",
+        "btn" : "<i class=\"arrow_right-up icon-zise mr-2\"></i>Sobre IEP"
+    },
+
+    ".wwd-lang":{
+        "title-1" : "Que hacemos",
+        "title-2" : "Sabemos lo que estamos haciendo. Nuestras áreas de especialización.",
+
+        "text-1" : "Estudios de viabilidad",
+        "text-2" : "Manipulación de cereales a granel",
+        "text-3" : "Proceso de extracción de aceite y productos de cereales",
+        "text-4" : "Agro Industrias",
+        "text-5" : "Ganadería",
+
+        "btn-more" : "<i class=\"arrow_right-up icon-zise mr-2\"></i>MÁS INFO"
+    },
+
+    ".sec-2-lang":{
+        "title" : "Somos una empresa de ingeniería con sede en Angola y Argentina, con un amplio alcance global",
+        "span" : "NUESTRO PERFIL"
+    },
+
+    ".sec-3-lang":{
+        "title" : "Nuestra estructura empresarial",
+
+        "list-1" : "<i class=\"icon_check\"></i>Plantas industriales",
+        "list-2" : "<i class=\"icon_check\"></i>Industria de fertilizantes",
+        "list-3" : "<i class=\"icon_check\"></i>Feedlots",
+        "list-4" : "<i class=\"icon_check\"></i>Molienda",
+        "list-5" : "<i class=\"icon_check\"></i>Plantas de clasificación de semillas",
+        "list-6" : "<i class=\"icon_check\"></i>Plantas de acondicionamiento y almacenamiento de granos",
+        "list-7" : "<i class=\"icon_check\"></i>Port Facilities",
+        "list-8" : "<i class=\"icon_check\"></i>Complejo Industrial Petrolero e Instalaciones Portuarias",
+        "list-9" : "<i class=\"icon_check\"></i>Consultoría, auditoría y análisis"
+    },
+
+
+    ".part-lang":{
+        "title" : "Empresas que confían en nosotros"
+    },
+
+    ".sec-footer-lang":{
+        "text-title" : "En IEP GLOBAL",
+        "text-pa" : "tenemos el know-how, la estructura y la experiencia para asegurar la profesionalidad y transparencia de la gestión.",
+        "btn" : "<i class=\"arrow_right-up icon-zise mr-2\"></i>Hablemos"
+    },
+
+    
+    ".footer-lang":{
+        "copyr" : "Todos los derechos reservados.", 
+
+        "link-text-1" : "Acerca nuestro ",
+        "link-text-2" : "Que hacemos",
+        "link-text-3" : "Estructura",
+        "link-text-4" : "Proyectos seleccionados",
+        "link-text-5" : "Contacto",
+
+        "info-text-1" : "Dirección Postal",
+
+        "select-lang" : "ESP",
+        "select-idioma" :"<button class=\"dropdown-item\" type=\"button\" onclick=\"setLanguage('en')\">English</button><button class=\"dropdown-item active\" type=\"button\" onclick=\"setLanguage('es')\">Español</button><button class=\"dropdown-item\" type=\"button\" onclick=\"setLanguage('pt')\">Portugués</button>"
+    },
+
+
+
+
+    ".about-lang":{
+        "text-title" : "ACERCA<br>NUESTRO",
+        "text-title-b" : "Desde 1972 trabajamos continuamente en el desarrollo de <span>proyectos de ingeniería</span> y <br>consultoría especializada en <span>agroindustria </span> y sus procesos asociados.",
+        "parrafo-1" : "Ofrecemos consultoría en el mercado agrícola, y somos la puerta de entrada a la agroindustria. Contamos con el conocimiento, la estructura y la experiencia para garantizar la profesionalidad y la transparencia de la gestión. Además, en los últimos quince años, IEP se ha especializado en la producción de commodities para la agroindustria. Y ha desarrollado la producción de aceite de girasol con alto contenido en ácido oleico, entre otros servicios a empresas líderes.",
+        "parrafo-2" : "IEP combina un enfoque multidisciplinario con un conocimiento profundo y práctico de la industria y la agricultura para ayudar a los clientes a enfrentar los desafíos y responder a las oportunidades.",
+
+        "text-title-2" : "Una vision general Abreviada de los servicios de IEP:",
+
+        "list-1" : "Consultoría y Gestión",
+        "list-2" : "Cereales y aceite a granel",
+        "list-3" : "Procedimientos de extracción de aceite comestible y derivados de cereales",
+        "list-4" : "Industria azucarera",
+        "list-5" : "Industria de fertilizantes",
+        "list-6" : "Molinos de trigo y harina",
+        "list-7" : "Molinos de arroz",
+
+        "list-8" : "Formación de personal industrial",
+        "list-9" : "Desarrollo de tierras agrícolas",
+        "list-10" : "Capacitación del personal agrícola y la gestión",
+        "list-11" : "Ganadería",
+        "list-12" : "Producción de semillas",
+        "list-13" : "Producción Forestal ",
+        "list-14" : "Desarrollo de nuevos cultivos",
+        "list-15" : "Riego",
+
+        "text-title-foo" : "Conozca más sobre nuestras áreas de especialización",
+        "span" : "EXPERTISE",
+
+        "btn" : "<i class=\"arrow_right-up icon-zise mr-2\"></i>Nuestros servicios"
+    },
+
+    ".wwd-sec-lang":{
+        "text-title" : "QUE HACEMOS",
+        "text-title-b" : "Contamos con un equipo técnico que trabaja desde hace <span>45 años</span> ininterrumpidamente en el desarrollo de proyectos de ingeniería y consultoría especializada en agroindustria y sus procesos asociados.",
+        "parrafo-1" : "Hemos desarrollado nuestras actividades en Argentina, Brasil, Paraguay, Guatemala, Ucrania, Chile, Uruguay, Filipinas, Malasia y Angola.",
+
+        "text-title-2" : "Areas de experiencia",
+
+        "card-title-1" : "Estudios de viabilidad",
+            "list-1-1" : "Recursos locales",
+            "list-1-2" : "Producción regional",
+            "list-1-3" : "Logística",
+            "list-1-4" : "Requerimiento de energía",
+            "list-1-5" : "Regulación de seguridad y medio ambiente",
+            "list-1-6" : "Evaluación económica - financiera",
+            "list-1-7" : "Análisis de costos de producción",
+            "list-1-8" : "Proyecciones futuras",
+            "list-1-9" : "Análisis de inversiones",
+
+        "card-title-2" : "Manipulación de cereales",
+            "list-2-1" : "Almacenamiento, secado, limpieza y clasificación de semillas",
+            "list-2-2" : "Carga de barcos y barcazas",
+            "list-2-3" : "Descarga de barcos y barcazas",
+            "list-2-4" : "Sistemas de camiones y ferrocarriles",
+            "list-2-5" : "Sistema de recepción",
+
+        "card-title-3" : "Proceso de extracción de aceite y productos de cereales",
+            "list-3-1" : "Ración",
+            "list-3-2" : "Extracción y refinado de aceites para alimentos y biocombustibles.",
+            "list-3-3" : "Extracción de etanol de maíz y sorgo.",
+            "list-3-4" : "Molienda de trigo, maíz y arroz.",
+            "list-3-5" : "Producción en ambientes subtropicales y cultivos tales como algodón, frijoles comestibles, soja, maíz y otros.",
+
+        "card-title-4" : "Agro Industrias",
+            "list-4-1" : "Industria de fertilizantes",
+            "list-4-2" : "Clasificación y envasado de frutas",
+            "list-4-3" : "Molinos de Alimento Balanceado",
+            "list-4-4" : "Procesamiento de caña de azúcar ",
+
+        "card-title-5" : "Ganadería",
+            "list-5-1" : "Lácteos",
+            "list-5-2" : "Feed Lot",
+            "list-5-3" : "Cría",
+            "list-5-4" : "Engorde",
+
+        "card-title-6" : "Otras industrias",
+            "list-6-1" : "Producción Forestal",
+            "list-6-2" : "Frigoríficos de Aves de Corral  ",
+            "list-6-3" : "cámaras Frigoríficas ",
+            "list-6-4" : "Obra Civil",
+            "list-6-5" : "Infraestructura: electricidad, gas, carreteras, arquitectura industrial"
+    },
+
+    ".select-p-lang":{
+        "text-title" : "Proyectos seleccionados",
+        "text-title-b": "IEP desarrolla estudios y proyectos altamente especializados desde el análisis e ingeniería económico-financiera hasta su puesta en marcha y puesta en servicio.",
+         "parrafo-1": "Los Técnicos del IEP han desarrollado proyectos para diferentes organismos públicos y privados, a través de servicios de organización, gestión, asesoramiento y reestructuración de empresas.",
+         
+        "lateral-text" : "Análisis e Ingeniería",
+
+        "op" : "Proyectos en marcha",
+        "cp" : "Proyectos terminados",
+
+        "collapse-title-1" : "<img class=\"no-rotate\" src=\"img/core-img/plus.png\" width=\"25\">Servicios de Gestión y Consultoría",
+            "list-1-1" : "Riego, equipamiento, y construcción de infraestructura: Quizenga, Malanje, Angola. Construcción de un dique y sembrado de 5.000 hectáreas de agricultura. Capex total de 122MM.",
+            "list-1-2" : "Campo en Argentina: Provincia de Córdoba, Buenos aires y Chaco. 10.000ha de producción propia de maíz, soja, girasoles, trigo y algodón",
+            "list-1-3" : "Complejo de Agroindustria Fazenda Vissati: Cuando Cubango, Angola. Diseño, ejecución y gestión de un proyecto de agrícola de 9,200 hectáreas. Maíz, Soja y porotos. Asistencia a la agricultura familiar",
+            
+            "list-1-4" : "Gestión de Fondos Agrícolas en Argentina (FIDA) con International Finance Corporation (IFC) como inversionista ancla (1994 - 2014): U $ D 205MM invertidos en más de 1MM hectáreas con 2.5MM toneladas de producción.",
+            "list-1-5" : "Programas de producción compartida 2004-2014: más de 100.000ha desarrolladas en conjunto con productores, proveedores y empresas comerciales multinacionales como Dow Agro Sciences, Cargill, Monsanto y Glencore entre otras.",
+            "list-1-6" : "Polo Agroindustrial Quizenga (Malanje) & Polo Agroindustrial Cubal (Benguela), Angola: 60.000ha bajo gestión. Diseño y ejecución de una planta de almacenamiento de granos de 18.000 toneladas y plantas de producción de procesamiento de harina de maíz, soja y porotos. Capex total desplegado de U$D 94MM",
+
+        "collapse-title-2" : "<img class=\"no-rotate\" src=\"img/core-img/plus.png\" width=\"25\">Desarrollo Agrícola",
+            "list-2-1" : "Evaluación del Programa de Estudios de la Escuela Agrícola: Instituto Meio Agrario (IMA), Provincia de Cuando Cubango, Angola, 2019.",
+            "list-2-2" : "Diseño y desarrollo de un plan sustentable de sustitución de importaciones de arroz para la República del Chad, por un total de 70.000 toneladas de producción de arroz.",
+            "list-2-3" : "Diseño de un plan integral de sustitución de importaciones de cereales para el Gobierno de Mozambique por un total de 1,4 millones de toneladas de producción de cereales.",
+
+            "list-2-4" : "Planificación y ejecución de estudios integrales sobre Seguros Agropecuarios y Análisis de Riesgos en Argentina para el Proyecto del Banco Mundial ARG / 94/018 / B / 01/99. 30 millones de hectáreas analizadas.",
+            "list-2-5" : "Proyecto Riego Complementario: Manejo Sustentable del Riego Complementario en la Región Pampeana, Argentina. PROSAP; 53,5 Millones de hectáreas.",
+            "list-2-6" : "Estudios de viabilidad de plantación de Jatropha curcas, para la producción de biodiesel. India 2005; Brasil 2006-2007, Paraguay 2010 - junto con el Banco Interamericano de Desarrollo, BID.",
+            "list-2-7" : "Capacitación de equipos de producción para semillas de especies vegetales híbridas y de polinización abierta para Continental y Dow Agro Sciences para un área total de 50.000ha.",
+
+        "collapse-title-3" : "<img class=\"no-rotate\" src=\"img/core-img/plus.png\" width=\"25\">Ingeniería de proyecto",
+            "list-3-1" : "Puerto Necochea, Muelle 12, Provincia de Buenos Aires, Argentina. Ingeniería completa, adquisiciones y supervisión in situ de la instalación planta de descarga de fertilizantes sólidos y líquidos para los buques Panamax. Tanques de 500 m3 / h para descarga de fueloil, almacenamiento de sólidos de 50.000Tn y capacidad de almacenamiento de fertilizantes líquidos de 25.000 m3.",
+            "list-3-2" : "Ampliación de la Planta de Clasificación de Semillas, Uranga, Santa Fe, Argentina. Ingeniería completa, adquisiciones y supervisión in situ para la expansión de la planta. 25Tn / h, almacenamiento a granel 21.000Tn, almacenamiento en bolsas 15.000Tn.",
+            "list-3-3" : "Planta de Concentrado de Vitaminas de Harina de Soja, Provincia de Buenos Aires, Argentina. Estudio de viabilidad, asesoría en ingeniería básica, procura y construcción.",
+            
+            "list-3-4" : "La Plata Cereal S.A. (Parte de Andre Group, SUI), Puerto San Martín - Provincia de Santa Fe - Argentina. Ingeniería, aprovisionamiento y gestión: Granos 2.000Tn / h, Petróleo 4.000Tn / día. Capacidad anual: 3MM toneladas.",
+            "list-3-5" : "LDC Arg., Bahía Blanca Port Complex, Puerto Galván. Argentina. Ingeniería completa, procura y supervisión in situ de la instalación portuaria de embarque: capacidad de embarque 2.400Tn / h Capacidad de almacenamiento 92.000Tn.",
+            "list-3-6" : "Puerto y complejo industrial aceitero, Black Sea Industries, Ilyichesck, Ucrania. Estudio de viabilidad, ingeniería, procura, supervisión y asesoría post construcción. Extracción de aceite de girasol 1.500Tn / día. Extracción de aceite de soja 2.000 Tn / día. Almacenamiento 60.000Tn. Capacidad de Embarque de Harinas y Granos 1.000Tn / h."
+    },
+
+            ".IP-lang":{        
+                "title" : "Plantas industriales",
+                "sub-title" : "Conozca nuestras las plantas industriales asociadas y sus principales características:",
+                
+                "parrafo-1" : "Clasificación de vegetales y conservación envases de frutas (semillas cítricas) instalación de cámaras bromuro para moras.",
+                "parrafo-2" : "",
+                "parrafo-3" : "PROCESAMIENTO DE AVES.<br>Línea de producción: 8.000 pollos / hora"
+            },
+
+            ".FL-lang":{        
+                "title" : "Feedlots",
+                "sub-title" : "",
+
+                "parrafo" : "Capacidad: 30.000 cabezas de ganado en 200 corrales Planta de alimentación: 300 MTn / día"
+            },
+
+            ".Milling-lang":{        
+                "title" : "Molienda",
+                "sub-title" : "Conozca nuestras las plantas industriales asociadas y sus principales características:",
+
+                "text-1" : "PLANTA DE ALIMENTACIÓN AVEX S.A. ",
+                "text-2" : "REVAMPING (Cliente Privado)",
+                "text-3" : "MOLIENDA DE ARROZ \"TAYI\" TURONES Hnos. S.A."
+            },
+
+            ".scp-lang":{        
+                "title" : "Plantas de clasificación de semillas",
+                "sub-title" : "Conozca nuestras las plantas industriales asociadas y sus principales características:",
+
+                "text-1" : "Planta de clasificación de maíz, soja, sorgo y trigo",
+                "text-2" : "Clasificación de semillas de maíz, trigo y soja"
+            },
+
+            ".gcs-lang":{        
+                "title" : "Plantas de acondicionamiento y almacenamiento de granos",
+                "sub-title" : ""
+            },
+
+            ".pf-lang": {
+                "title": "Instalaciones portuarias",
+                "subtítulo": ""
+            },
+
+            ".FI-lang": {
+                "title": "Industria de fertilizantes",
+                "sub-title": "El equipo del IEP tiene una amplia experiencia en la cadena de valor de los fertilizantes",
+                "parrafo": "En 1986, Petrosur Fertilizantes (Argentina) contrató especialistas del actual equipo del IEP para realizar un estudio sobre el futuro del consumo de fertilizantes en Argentina. <br> En 1991 el gobierno argentino impulsó el proyecto Fertineu, con la participación de provincia de Neuquén e YPF. Se asignó un área importante para el proyecto Planta de Fertilizantes, mediante Ley N ° 2134, a COMINCO-AGRIUM. ",
+
+                "text-1-1": "COMINCO FERTILIZERS LTD.",
+                "text-1-2": "-Encomendó a los técnicos del IEP un estudio sobre la actualidad en Argentina. <br> -El equipo de fertilizantes del IEP, está liderado por un profesional que ha trabajado con empresas de primer nivel, realizando las siguientes tareas.",
+
+                "text-2-1": "GESTOR MUNDIAL DE AGRONOMÍA. 2010.",
+                "text-2-2": "-Desarrollo y gestión de la estrategia de plataforma agronómica global para facilitar la venta de fertilizantes. <br> -Liderando un equipo global de agrónomos que promueven cultivos de fosfato premium y nutrición balanceada. <br> -Responsable de capacitación y apoyo a clientes internos y externos en todo el mundo. ",
+
+                "text-3-1": "GERENTE DE INVESTIGACIÓN Y DESARROLLO. 2008-2010.",
+                "text-3-2": "-Responsable del desarrollo de nuevos productos de fosfato y potasa. <br> -Estudios diseñados, analizados, interpretados y resumidos de Camboya, invernaderos y laboratorios de todo el mundo. <br> -Periencia agronómica proporcionada en proyectos estratégicos llevados a cabo por equipos multifuncionales. ",
+
+                "text-4-1": "CONSULTOR INDEPENDIENTE. 2005-2008.",
+                "text-4-2": "-Diseño, analizó y resumió estudios agrícolas de precisión en fincas de Argentina, Brasil y Estados Unidos. <br> -Apoyo agronómico y estadístico a la Asociación Argentina de Consorcios Regionales para la Experimentación Agrícola (AACREA )."
+            },
+
+            ".con-lang": {
+                "title": "Consultoría, auditoría y análisis",
+                "subtítulo": "IEP ha realizado trabajos de consultoría para grandes emprendimientos agroindustriales en varios países. El equipo técnico del IEP tiene experiencia vinculada al desarrollo de análisis y auditorías técnicas agroindustriales en países como Argentina, Brasil, Uruguay, Bolivia, Paraguay, Venezuela, México, República Dominicana, Angola, Zambia, Mozambique e India. ",
+
+                "text-1-1": "GANADO",
+                "text-1-2": "IEP cuenta con equipos técnicos con amplia experiencia en:",
+                "text-1-3": "Lote de piensos para productos lácteos <br> Empanado <br> engorde",
+
+                "text-2-1": "OTRAS CULTURAS",
+                "text-2-2": "IEP tiene una gran experiencia en la producción en ambientes subtropicales y cultivos tales como algodón, frijoles comestibles, soja, maíz y otros.",
+
+                "text-3-1": "FORESTAL",
+                "text-3-2": "La producción de madera para diferentes usos es importante para las economías locales. IEP tiene experiencia en el desarrollo forestal y silvopastoral.",
+
+                "text-4-1": "DESARROLLO DE NUEVOS CULTIVOS",
+                "text-4-2": "IEP ha desarrollado tecnología en Jatropha curcas para la producción de biodiésel",
+
+                "text-5-1": "IEP EN ÁFRICA",
+                "text-5-2": "Desde 2004, el IEP ha realizado investigaciones en Angola, Zambia y Mozambique, determinando el potencial de producción, los factores limitantes y los requisitos para el desarrollo de la agricultura, la autosuficiencia alimentaria y la capacidad de exportación. Actualmente, el IEP asesora sobre el desarrollo agrícola proyectos en Angola "
+            },
+
+            ".ocp-lang":{        
+                "title" : "Complejo Industrial Petrolero e Instalaciones Portuarias",
+                "sub-title" : "",
+
+                "text-1" : "LA PLATA CEREAL S.A. (GRUPO ANDRE. Laussane - Suiza)",
+                "text-1-a" : "Puerto de envío de aceite, cereales y harina Capacidad de envío: <br>Grano: 2.000 Mtn / h <br>Aceite: 4.000 Mtn / día <br>Rendimiento anual: 3.000.000 Mtn",
+                
+                "text-2-a" : "INDUSTRIAS DEL MAR NEGRO (Ilyichesck - Ucrania)",
+                "text-2-a" : "Puerto de exportación-importación<br>Ampliación de almacenamiento: 92.000 MTn<br>Envío: 1,000 MTn / Hr",
+                "text-2-b" : "<span>PLANTA DE TRITURACIÓN</span><br>Extracción de aceite de soja: 2.000 MTn / Día <br>Semilla de girasol: 1.500 MTn / Día"
+            },
+
+            ".Agro-p-lang":{        
+                "title" : "Centros de desarrollo agroindustrial",
+                "sub-title" : "Misión",
+
+                "text-1" : "Polo Agro Industrial Quizenga, Angola",
+                "text-1-a" : "Superficie: 35.000 Ha<br>Molino harinero de maíz 50 tn / día<br>Instalaciones de secado y silos: 4.500 Tn<br>Molinos y almacenamiento de harina de maíz<br>Vivienda y oficinas: 600 m2",
+                "text-1-b" : "✓ Preparación del Suelo<br>✓ Primera cosecha de maíz en Quizenga<br>✓ Entrenamiento al Personal Local ",
+                
+                "text-2" : "Polo Agro Industrial Cubal, Angola",
+                "text-2-a" : "Superficie: 35.000 Ha<br>Molino harinero de maíz: 50 tn / día<br>Instalaciones de secado y silos: 4.500 Tn<br>Molinos y almacenamiento de harina de maíz Vivienda y oficinas: 600 m2",
+                "text-2-b" : "✓ Labranza primaria del suelo <br>✓ Primera Cosecha de Maíz<br>✓ Instalación Industrial"
+            },
+
+    ".error-lang":{        
+        "title" : "Error 404",
+        "sub-title" : "Algo salió mal y no podemos encontrar el enlace solicitado, lo sentimos.",
+        "btn" : "<i class=\"arrow_right-up icon-zise mr-2\"></i>Volver al inicio"
+    },
+    
+    ".contact-lang":{
+        "text-title" : "Contáctanos",
+
+        "sub-title-1":"Dirección postal",
+
+        "name" : "<input type=\"text\" class=\"form-control\" name=\"name\" placeholder=\"Ingrese su nombre completo\">",
+        "phone" : "<input type=\"tel\" class=\"form-control\" name=\"phone\" placeholder=\"Ingrese su número telefónico\">",
+        "email" : "<input type=\"email\" class=\"form-control\" name=\"email\" placeholder=\"Introduce tu correo electrónico\">",
+        "message" : "<textarea class=\"form-control\" name=\"message\" rows=\"5\" cols=\"80\" placeholder=\"Mensaje\"></textarea>",
+
+        "btn-send" : "ENVIAR",
+        "gracias" : "¡Muchas gracias!",
+        "parrafo-gra" : "El formulario fue enviado con éxito, en un futuro próximo nos contactaremos."
+    }
+
+
+}
