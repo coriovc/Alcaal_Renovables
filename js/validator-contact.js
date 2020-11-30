@@ -8,12 +8,12 @@ $( document ).ready( function () {
           message: "required"
           },
         messages: {
-          name: "Please enter your name",
-          phone: {required: "Please enter a phone number.",
-                  minlength: "Enter the area code without the 15: EJ: 1145652798."},
-          email:{required: "Please enter an email",
-                email:"The email format is not valid EJ: example@mail.com"},                    
-          message: "Please write a message."
+          name: "Por favor Ingrese su Nombre",
+          phone: {required: "Por favor Ingrese un número de teléfono.",
+                  minlength: "Ingrese el código de área sin el 15: EJ: 1145652798."},
+          email:{required: "Por favor Ingrese un Correo Electronico",
+                email:"El formato de correo electrónico no es válido EJ: example@mail.com"},                    
+          message: "Por favor escriba un mensaje."
           },
         errorElement: "span",
         submitHandler: function(form) {          

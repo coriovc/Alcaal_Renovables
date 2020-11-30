@@ -171,6 +171,13 @@
 
         &:focus,
         &:hover {
+            .card-header{
+                img{
+                -webkit-transform: scale(1.1);
+                -ms-transform: scale(1.1);
+                    transform: scale(1.1);                   
+                }
+            }
             .card-body{            
 
                 h2{
@@ -188,6 +195,10 @@
 
             img{
                 max-width: 80px;
+                 -webkit-transition: box-shadow 0.1s ease-in-out, -webkit-transform 0.1s ease-in-out;
+                    transition: box-shadow 0.1s ease-in-out, -webkit-transform 0.1s ease-in-out;
+                    transition: transform 0.1s ease-in-out, box-shadow 0.1s ease-in-out;
+                    transition: transform 0.1s ease-in-out, box-shadow 0.1s ease-in-out, -webkit-transform 0.1s ease-in-out;
             }
         }
 

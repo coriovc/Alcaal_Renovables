@@ -302,6 +302,61 @@
         background-color: $bg-gray;
     }
 
+    .img-desa-line{
+           width: 10%;
+           position: absolute;
+           z-index: -2;
+           margin-top: 5rem;
+           margin-left: 7.5rem;
+
+            &.li-2{
+                width: 9%;
+                margin-left: 19.6rem;
+                margin-top: 4rem;
+                @media #{$breakpoint-xs} {
+                    width: 37%;
+                    margin-left: 16.5rem;
+                    margin-top: 4rem;
+                }
+
+            }
+            &.li-3{
+                width: 8%;
+                margin-left: 33rem;
+                margin-top: 6rem;
+                @media #{$breakpoint-xs} {
+                    width: 32%;
+                    margin-left: 28.2rem;
+                    margin-top: 6rem;
+                }
+            }
+            &.li-4{
+                width: 8%;
+                margin-left: 45rem;
+                margin-top: 3rem;
+                @media #{$breakpoint-xs} {
+                    width: 35%;
+                    margin-left: 39rem;
+                    margin-top: 3rem;
+                }
+            }
+            &.li-5{
+                width: 8%;
+                margin-left: 57rem;
+                margin-top: 5rem;
+                @media #{$breakpoint-xs} {
+                    width: 32%;
+                    margin-left: 49rem;
+                }
+            }
+
+            @media #{$breakpoint-xs} {
+                width: 40%;
+                margin-top: 5.5rem;
+                margin-left: 6.5rem;
+            }
+    }
+
     .nl-content {
         position: relative;
         z-index: 1;
@@ -693,9 +748,9 @@
             margin-right: -17rem;
 
             @media #{$breakpoint-xs} {
-                width: 70%;
-                margin-top: -9rem;
-                margin-right: -4rem;
+                width: 100%;
+                margin-top: -8.5rem;
+                margin-right: -3rem;
 
             }
     }
@@ -1163,7 +1218,6 @@
             
             @media #{$breakpoint-xs} {
                 font-size: 18px;
-                margin-bottom: 2rem;
                 margin-right: 6rem;
             }
         }
@@ -1700,6 +1754,7 @@
             }
     }
 
+    
 
     .contact-heading{
         position: relative;
