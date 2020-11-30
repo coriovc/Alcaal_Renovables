@@ -31,6 +31,21 @@
     width: 8px;
 }
 
+
+.img-landing{
+    width: 75%;
+    position: relative;
+    margin-top: -13.5rem;
+
+    @media #{$breakpoint-xs} {
+        width: 130%;
+        max-width: 200%;
+        margin-left: -3rem;
+        margin-top: -3.5rem;
+    }
+}
+
+
 .welcome-text {
         position: relative;
         text-align: center;
@@ -40,6 +55,7 @@
 
         @media #{$breakpoint-xs} {
                 margin-top: 4rem;
+                margin-left: 0;
         }
         
         h2 {
@@ -52,8 +68,9 @@
             line-height: 0.8; 
 
             @media #{$breakpoint-xs} {
-                font-size: 150px;
-                font-weight: 500;
+                line-height: 1.2;
+                font-size: 28px;
+                font-weight: 400;
             }
 
             img{

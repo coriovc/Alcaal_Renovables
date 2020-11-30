@@ -17,7 +17,7 @@
     overflow: hidden;
 
     @media #{$breakpoint-xs} {
-        padding: 10% 3% 20% 3%;
+        padding: 10% 3% 5% 3%;
     }
 }
 
@@ -49,8 +49,8 @@
             color: $c-gray;
 
             @media #{$breakpoint-xs} {
-                font-size: 40px;
-                margin-right: 4rem;
+                font-size: 18px;
+                margin-right: 0;
             }
         }
 
@@ -553,17 +553,13 @@
         height: 200px;
         padding: 0 1rem;
         overflow: hidden;
+        margin-bottom: 1rem;
     }
 
     &.bg{
         @include transition-duration(500ms);
         background-size: cover;
-        background-position: center center;
-        &:focus,
-        &:hover {
-            background-image: none;
-            background-color: $white;
-        }
+        background-position: center center;        
     }
 
     &.img1{
@@ -580,39 +576,7 @@
 
         @media #{$breakpoint-xs} { background-position-x: 0;}
     }
-    &.img3{
-        @include transition-duration(500ms);        
-        background-image: url('./img/bg-img/img-m-3.jpg');
-        background-position-x: -29rem;
-
-        @media #{$breakpoint-xs} { background-position-x: 0;}
-    }
-    &.img4{
-        @include transition-duration(500ms);        
-        background-image: url('./img/bg-img/img-m-4.jpg');
-        background-position-x: -11rem;
-
-        @media #{$breakpoint-xs} { background-position-x: 0;}
-        
-    }
-
-    &.img5{
-        @include transition-duration(500ms);        
-        background-image: url('./img/bg-img/img-m-5.jpg');
-        background-position-x: -11rem;
-
-        @media #{$breakpoint-xs} { background-position-x: 0;}
-        
-    }
-
-    &.img6{
-        @include transition-duration(500ms);        
-        background-image: url('./img/bg-img/img-m-6.jpg');
-        background-position-x: -11rem;
-
-        @media #{$breakpoint-xs} { background-position-x: 0;}
-        
-    }
+    
 
     img {
         position: relative;
@@ -652,19 +616,15 @@
             padding: 0 20px;
         }
 
-        .img-logo{
-            width: 180px;
-            filter: brightness(0) invert(1);
+        h2{
+            width: 50%;
+            color: #FFF;
+            font-size: 30px;
+            font-weight: 400;
+            line-height: 1;
         }
 
-        .img-real-E{
-            width: 180px;
-            content: url('./img/img-logo/RealE-white.svg');
-        }
-        .img-altana{
-            width: 180px;
-            content: url('./img/img-logo/Altana-white.svg');
-        }
+        
     }
 
     .view-more-btn a {
@@ -672,7 +632,8 @@
         height: 40px;
         width: 40px;
         border-radius: 50%;
-        background-color: $primary;
+        background-color: transparent;
+        border: 1px solid #fff;
         display: inline-block;
         position: absolute;
         bottom: 15px;
@@ -687,8 +648,8 @@
 
         &:focus,
         &:hover {
-            background-color: $tersiary;
-            color: $white;
+            background-color: $primary;
+            border-color:transparent;
         }
     }
 
@@ -706,28 +667,6 @@
             left: 0;
             text-align: center;
 
-            .img-logo{
-            filter: brightness(1) invert(0);
-            margin-top: 2.5rem;
-            width: 250px;
-            }
-
-            .img-real-E{
-            margin-top: 2.5rem;
-            margin-left: auto;
-            margin-right: auto;
-            width: 250px;
-            content: url('./img/img-logo/RealE.svg');
-            }
-
-            .img-altana{
-            margin-top: 2.5rem;
-            margin-left: auto;
-            margin-right: auto;
-            width: 250px;
-            content: url('./img/img-logo/Altana.svg');
-            }
-
             h4 {
                 color: $c-gray;
                 margin-left: 4rem;
@@ -741,12 +680,7 @@
 
         }
 
-        .view-more-btn a {
-            left: 0;
-            opacity: 0;
-            visibility: hidden;
-        }
-
+       
         @media #{$breakpoint-xs} {
 
             .overlay-effect {            

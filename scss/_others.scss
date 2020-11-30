@@ -1,3 +1,221 @@
+/* :::::::::::::::::::::::::::: landing-punto CSS ::::::::::::::::::::::::::::*/
+
+.uza-video-area {
+    position: absolute;
+    cursor:pointer;
+    top: 50%;
+    right: 65px;
+    text-align: center;
+    z-index: 99;
+    width: 5rem;
+    @include transform(translateY(-50%));
+    -webkit-transition:all 1s ease-in-out; 
+                -moz-transition:all 1s ease-in-out; 
+                -o-transition:all 1s ease-in-out;
+                -ms-transition:all 1s ease-in-out; 
+
+
+
+    @media #{$breakpoint-xs} {
+        right: auto;
+        left: 50%;
+        @include transform(translate(-50%, -50%));
+        display:none;
+    }
+
+    &.pais-1{
+        top: 40%;
+        left: 5rem
+    }
+    &.pais-2{
+        top: 33%;
+        left: 15rem
+    }
+    &.pais-3{
+        top: 33%;
+        left: 23rem
+    }
+    &.pais-4{
+        top: 42%;
+        right: 35rem;
+    }
+    &.pais-5{
+        top: 56%;
+        right: 26rem;
+    }
+    &.pais-6{
+        top: 70%;
+        right: 17rem;
+    }
+    &.pais-7{
+        top: 55%;
+        right: 10rem;
+    }
+    &.pais-8{
+        top: 80%;
+        right: 65px;
+    }
+
+
+
+    h3{
+        font-size: 16px;
+        opacity: 0;
+        font-weight: 400;
+        margin-top: 0;
+        color: #31C2D1;
+        -webkit-transition:all 1s ease-in-out; 
+                -moz-transition:all 1s ease-in-out; 
+                -o-transition:all 1s ease-in-out;
+                -ms-transition:all 1s ease-in-out; 
+    }
+
+    span{
+        background: rgb(49,194,209);
+        background: linear-gradient(180deg, rgba(49,194,209,1) 43%, rgba(255,255,255,0) 100%);
+        width: 1px;
+        height: 0;
+        position: absolute;
+        z-index: -1;
+        margin-left: -0.7rem;
+        margin-top: 28px;
+        -webkit-transition:all 1s ease-in-out; 
+                -moz-transition:all 1s ease-in-out; 
+                -o-transition:all 1s ease-in-out;
+                -ms-transition:all 1s ease-in-out; 
+    }
+
+    .border-pais{
+        border: 1px solid transparent;
+        background-color: transparent;
+        display: inline-block;
+        border-radius: 50%;
+        width: 30px;
+        height: 30px;
+        -webkit-transition:all 1s ease-in-out; 
+                -moz-transition:all 1s ease-in-out; 
+                -o-transition:all 1s ease-in-out;
+                -ms-transition:all 1s ease-in-out; 
+    }
+
+    &:focus,
+    &:hover {
+        h3{
+        opacity: 1;
+        }
+        span{
+            height: 6rem;
+        }
+        .border-pais{
+            border: 1px solid #31c2d1;
+        }
+    }
+
+
+    .video-play-btn {
+        display: inline-block;
+        border-radius: 50%;
+        width: 22px;
+        height: 22px;
+        background-color: $primary;
+        z-index: 20;
+        margin-top: 3px;
+
+        &:focus,
+        &:hover {
+            box-shadow: none;
+            background-color: $primary;
+        }
+    }
+}
+
+.uza-video-area {
+    .video-play-btn {
+        @include transform(scale(0.93));
+
+        &:after {
+            position: absolute;
+            width: 100%;
+            height: 100%;
+            border-radius: 50%;
+            content: '';
+            -webkit-box-sizing: content-box;
+            -moz-box-sizing: content-box;
+            box-sizing: content-box;
+            top: 0;
+            left: 0;
+            padding: 0;
+            z-index: -1;
+            box-shadow: 0 0 0 2px $primary;
+            opacity: 1;
+            @include transform(scale(0.9));
+            @include animation(sonarEffect 1.3s ease-out 75ms infinite);
+        }
+    }
+
+    &:focus,
+    &:hover {
+        .video-play-btn {
+
+        &:after {
+            animation: none;
+        }
+    }    
+    }
+}
+
+@-webkit-keyframes sonarEffect {
+    0% {
+        opacity: 0.3;
+    }
+
+    40% {
+        opacity: 0.5;
+        box-shadow: 0 0 0 2px rgba(255, 255, 255, 0.1), 0 0 10px 10px #31C2D1, 0 0 0 10px rgba(255, 255, 255, 0.5);
+    }
+
+    100% {
+        box-shadow: 0 0 0 2px rgba(255, 255, 255, 0.1), 0 0 10px 10px #31C2D1, 0 0 0 10px rgba(255, 255, 255, 0.5);
+        transform: scale(1.5);
+        opacity: 0;
+    }
+}
+
+@-moz-keyframes sonarEffect {
+    0% {
+        opacity: 0.3;
+    }
+
+    40% {
+        opacity: 0.5;
+        box-shadow: 0 0 0 2px rgba(255, 255, 255, 0.1), 0 0 10px 10px #31C2D1, 0 0 0 10px rgba(255, 255, 255, 0.5);
+    }
+
+    100% {
+        box-shadow: 0 0 0 2px rgba(255, 255, 255, 0.1), 0 0 10px 10px #31C2D1, 0 0 0 10px rgba(255, 255, 255, 0.5);
+        transform: scale(1.5);
+        opacity: 0;
+    }
+}
+
+@keyframes sonarEffect {
+    0% {
+        opacity: 0.3;
+    }
+
+    40% {
+        opacity: 0.5;
+        box-shadow: 0 0 0 2px rgba(255, 255, 255, 0.1), 0 0 10px 10px #31C2D1, 0 0 0 10px rgba(255, 255, 255, 0.5);
+    }
+
+    100% {
+        box-shadow: 0 0 0 2px rgba(255, 255, 255, 0.1), 0 0 10px 10px #31C2D1, 0 0 0 10px rgba(255, 255, 255, 0.5);
+        transform: scale(1.5);
+        opacity: 0;
+    }
+}
+
+
 /* :::::::::::::::::::::::::::: CFA CSS ::::::::::::::::::::::::::::*/
 
 .single-cf-area {
