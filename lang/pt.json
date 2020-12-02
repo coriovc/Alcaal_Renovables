@@ -7,7 +7,7 @@
             "item-1-2" : "<i class=\"arrow_right-up icon-zise mr-2\"></i>Sistema de gestão",
             "item-1-3" : "<i class=\"arrow_right-up icon-zise mr-2\"></i>Nossa equipe",
         "item-2" : "<i class=\"arrow_right-up icon-link-m d-inline-block d-xl-none\"></i>Serviços",        
-        "item-3" : "<i class=\"arrow_right-up icon-link-m d-inline-block d-xl-none\"></i>Em Desenvolvimento",
+        "item-3" : "<i class=\"arrow_right-up icon-link-m d-inline-block d-xl-none\"></i>Desenvolvimento",
         "item-4" : "<i class=\"arrow_right-up icon-link-m d-inline-block d-xl-none\"></i>Renovável",
         "item-5" : "<i class=\"arrow_right-up icon-link-m d-inline-block d-xl-none\"></i>Contato",
 
@@ -62,7 +62,7 @@
 
         "link-text-1" : "Companhia",
         "link-text-2" : "Serviços",
-        "link-text-3" : "Em Desenvolvimento",
+        "link-text-3" : "Desenvolvimento",
         "link-text-4" : "Renovável",
         "link-text-5" : "Contato",
 
@@ -76,205 +76,207 @@
     ".about-lang":{
         "text-title" : "Companhia",
         "text-title-b" : "Especialistas em soluções 360 para projetos de grande escala",
-        "parrafo-1" : "ALCAAL Renovables es una empresa de desarrollo que trabaja en el diseño, permisos, financiamiento, construcción y operación de proyectos renovables de gran escala. Para lograr esto, buscamos establecer alianzas estratégicas de largo plazo con actores tanto locales como globales que compartan nuestra visión y nuestros valores. En algunas jurisdicciones en las que hemos decidido estratégicamente no operar como socios en ningún desarrollo, ofrecemos los Servicios de Gestión de Proyectos y Contratos llave en mano para el Diseño de Detalles, Compras y Contrataciones, Construcción y Puesta a Punto del Proyecto.",
-        "parrafo-2" : "Nuestro equipo altamente calificado tiene una vasta experiencia en todas y cada una de las etapas de la ejecución de proyectos de Energías Renovables de gran escala.",
-        "parrafo-3" : "Con sede en Buenos Aires, Argentina, ALCAAL Renovables es parte del grupo internacional ALCAAL, centrado en el desarrollo sostenible de proyectos de energía renovable que contribuirá a proporcionar crecimiento a los mercados emergentes a la vez que respalda la transición a una economía con menos emisiones de carbono.",
+        "parrafo-1" : "ALCAAL Renovables é uma empresa de desenvolvimento que trabalha na concepção, licenciamento, financiamento, construção e operação de projetos renováveis de grande escala. Para conseguir isso, buscamos estabelecer alianças estratégicas de longo prazo com atores locais e globais que compartilham nossa visão e nossos valores. Em jurisdições onde decidimos estrategicamente não operar como parceiros em nenhum desenvolvimento, oferecemos Serviço de Gerenciamento de Projetos e Contratos Chave na mão para Engenharia de Detalhe, Fornecimento e Construção de Projeto.",
+        "parrafo-2" : "Nossa equipe altamente qualificada tem vasta experiência em todas as etapas da execução de projetos de Energias Renovávels de grande escala.",
+        "parrafo-3" : "Con sede en Buenos Aires, Argentina, ALCAAL Renovables es parte del grupo internacionaCom sede em Buenos Aires, Argentina, a ALCAAL Renovables e parte do grupo internacional ALCAAL, focado no desenvolvimento sustentável de Projetos de Energias Renováveis, que contribuirán para fornecer crescimento aos mercados emergentes, apoiando a transição para uma economia com menores emissões de dióxido de carbono.",
 
-        "collapse-1-title" : "<img class=\"no-rotate\" src=\"img/core-img/plus.png\" width=\"25\">Nuestra visión",
-        "collapse-1-parrafo": "Ser un <span>actor global importante en el sector de Energías Renovables,</span> apoyando activamente el desarrollo sustentable, el financiamiento y la construcción de proyectos competitivos de Energia Eólica y Solar Fotovoltaica de gran escala en <span>LATAM y ÁFRICA.</span>",
+        "collapse-1-title" : "<img class=\"no-rotate\" src=\"img/core-img/plus.png\" width=\"25\">Visão",
+        "collapse-1-parrafo": "Ser um<span> importante participante global no setor de Energias Renováveis,</span> apoiando ativamente o desenvolvimento sustentável, o financiamento e a construção de projetos competivivos de energia Solar Fotovoltaica e Eólicos de grande escala na <span>América Latina e na África.</span>",
 
-        "collapse-2-title" : "<img class=\"no-rotate\" src=\"img/core-img/plus.png\" width=\"25\">Nuestros objetivos",
-        "collapse-2-subtitle": "A continuación algunos de los principales objetivos a corto plazo de nuestra empresa:",
-        "collapse-2-parra-1": "Contribuir a la continuacion del éxito de la Industria de Energías Renovables en LATAM (particularmente en mercados clave como Argentina) y ÁFRICA, a través del desarrollo de proyectos de alta calidad y competitivos en áreas clave de estas regiónes para apoyar el crecimiento local.",
-        "collapse-2-parra-2": "Expandir nuestra presencia y alcance en el sector de Renovables a través de alianzas estratégicas con otros actores locales y globales que comparten nuestra visión y valores corporativos.",
+        "collapse-2-title" : "<img class=\"no-rotate\" src=\"img/core-img/plus.png\" width=\"25\">Objetivos",
+        "collapse-2-subtitle": "Os seguintes são alguns dos principais objetivos de curto prazo da nossa empresa:",
+        "collapse-2-parra-1": "Contribuir para a continuação do sucesso da Indústria de Energias Renováveis na América Latina (particularmente em mercados claves como a Argentina) e ÁFRICA, através do desenvolvimento de projetos competitivos e de alta qualidade em áreas claves dessas regiões para apoiar o crescimento local.",
+        "collapse-2-parra-2": "Expandir nossa presença e alcance no setor de Renováveis por meio de alianças estratégicas com outros atores locais e globais que compartilham nossa visão e nossos valores corporativos.",
 
 
-        "collapse-3-title" : "<img class=\"no-rotate\" src=\"img/core-img/plus.png\" width=\"25\">Nuestros valores",
-        "collapse-3-parrafo": "En el corazón de todo lo que hacemos, están nuestros valores centrales de la compañía, que nos impulsan a llevar a cabo nuestras actividades de la manera más ética y transparente y a alcanzar nuestros objetivos de desarrollar proyectos renovables de gran escala de manera segura, eficiente y económica. A continuación se listan los valores centrales de nuestra empresa:",
-            "collapse-3-title-1" : "Sustentabilidad.",
-            "collapse-3-parr-1" : "Nos esforzamos por soluciones confiables y competitivas que puedan demostrar ser dignas de implementación en cada uno de los proyectos que emprendemos.",
-            "collapse-3-title-2" : "Innovación.",
-            "collapse-3-parr-2" : "Optimizamos los desarrollos renovables haciendo uso de técnicas y tecnologías innovadoras.",
-            "collapse-3-title-3" : "Integridad y Pasión.",
-            "collapse-3-parr-3" : "Hacemos lo correcto. Creemos en lo que hacemos y nos apasiona contribuir a la transición global hacia una economía con menores emisiones de carbono.",
-            "collapse-3-title-4" : "Exelencia en Salud, Seguridad y Ambiente.",
-            "collapse-3-parr-4" : "Planificamos todas las operaciones con cuidado para proteger el medio ambiente, proteger la seguridad y el bienestar de nuestro personal y todos los involucrados de cualquier manera en nuestras operaciones. Un objetivo clave en cada operación que emprendemos es lograr los objetivos con cero incidentes."
+        "collapse-3-title" : "<img class=\"no-rotate\" src=\"img/core-img/plus.png\" width=\"25\">Valores Fundamentais",
+        "collapse-3-parrafo": "No coração de tudo o que fazemos, estão os nossos valores corporativos fundamentais, que nos impulsionam a conduzir nossos negócios da maneira mais ética e transparente e a alcançar nossos objetivos de desenvolver projetos renováveis de grande escala de forma segura, eficiente e econômica. Abaixo está uma lista dos valores fundamentais da nossa empresa:",
+            "collapse-3-title-1" : "Sustentabilidade",
+            "collapse-3-parr-1" : "Nós nos esforçamos para obter soluções confiáveis e competitivas que possam ser comprovadas como merecedoras de implementação em cada um dos projetos que empreendemos.",
+            
+            "collapse-3-title-2" : "Inovação",
+            "collapse-3-parr-2" : "Nós otimizamos os desenvolvimentos renováveis fazendo uso de técnicas e tecnologias inovadoras.",
+            
+            "collapse-3-title-3" : "Integridade e paixão",
+            "collapse-3-parr-3" : "Nós fazemos o que é certo. Acreditamos no que fazemos e somos apaixonados por contribuir para a transição global para uma economia de menores emissões de carbono.",
+            
+            "collapse-3-title-4" : "Excelência em Saúde, Segurança e Meio Ambiente",
+            "collapse-3-parr-4" : "Planejamos todas as operações com cuidado para protegermos o meio ambiente, proteger a segurança e o bem-estar de nossos funcionários e de todos os demais envolvidos em nossas operações. Um objetivo clave em todas as operações que empreendemos é atingir as metas com zero incidentes."
     },
 
 
-
     ".desarro-lang":{
-        "text-title" : "Desarrollos",
-        "text-title-b" : "Soluciones innovadoras para el desarrollo sustentable de proyectos de energías renovables en latinoamérica y África.",
-        "parrafo-1" : "Somos un desarrollador que diseña, estructura el financiamiento, construye y, eventualmente, opera proyectos renovables de gran escala. Logramos esto mediante la formación de alianzas estratégicas con jugadores locales y/o globales.",
-        "parrafo-2" : "Estamos enfocados en LATAM y ÁFRICA, con más de 300MW de desarrollos eólicos y solares fotovoltaicos propios y otros tantos proyectos en desarrollo. Seleccionamos nuestros sitios cuidadosamente, analizando cada región en la que operamos hasta el más mínimo detalle, buscando alcanzar el LCOE más bajo para asegurar que nuestros proyectos sean competitivos y confiables.",
+        "text-title" : "Desenvolvimentos",
+        "text-title-b" : "Soluções inovadoras para o desenvolvimento sustentável de projetos de energia renovável na América Latina e África.",
+        "parrafo-1" : "Somos um desenvolvedor que projeta, estrutura o financiamento, constrói e, eventualmente, opera projetos renováveis em larga escala. Conseguimos isso através da formação de alianças estratégicas com atores locais e globais.",
+        "parrafo-2" : "Estamos focados na LATAM & AFRICA, com mais de 300MW de desenvolvimentos próprios de energia eólica e solar e outros projetos em andamento. Selecionamos nossos sites cuidadosamente, analisando cada região em que operamos nos mínimos detalhes, buscando alcançar o LCOE mais baixo para garantir que nossos projetos sejam competitivos e confiáveis.",
 
-        "text-title-2" : "Etapas del desarrollo",
+        "text-title-2" : "Estágios de Desenvolvimento",
 
-        "icon-text-1" : "Desarrollo del proyecto",
-        "icon-text-2" : "Financiamiento e inversiones",
-        "icon-text-3" : "Diseño Detallado de Proyecto",
-        "icon-text-4" : "Compras y contrataciones",
-        "icon-text-5" : "Construcción y puesta a punto",
-        "icon-text-6" : "Operación y Mantenimiento",
+        "icon-text-1" : "Desenvolvimento de Projeto",
+        "icon-text-2" : "Financiamento e Investimentos",
+        "icon-text-3" : "Design Detalhado",
+        "icon-text-4" : "Compras e Contrataçoes",
+        "icon-text-5" : "Construção e Comissionamento",
+        "icon-text-6" : "Operação e manutenção",
 
-        "list-title" : "Actividades principales",
-            "list-1" : "Contratos de Tierras",
-            "list-2" : "Evaluación de Recursos",
-            "list-3" : "Diseño electrico",
-            "list-4" : "Evaluación de Impacto Ambiental",
-            "list-5" : "Selección de Tecnología",
+        "list-title" : "Principais Atividades",
+            "list-1" : "Contratos de terra",
+            "list-2" : "Avaliação de Recursos",
+            "list-3" : "Desenho Elétrico",
+            "list-4" : "Avaliação de Impacto Ambiental",
+            "list-5" : "Seleção de Tecnologia",
 
-            "list-6" : "Optimización de Layout",
-            "list-7" : "Permisos de Construcción",
-            "list-8" : "Compras y Contrataciones",
-            "list-9" : "Cierre Financiero",
-            "list-10" : "Gerenciamiento de Proyecto"
+            "list-6" : "Otimização de Layout",
+            "list-7" : "Licenças de construção",
+            "list-8" : "Compras e Contratação",
+            "list-9" : "Fechamento Financeiro",
+            "list-10" : "Gerenciamento de Projeto"
     },
 
     ".desarro-1-lang":{
 
-        "collapse-1-title" : "<img class=\"no-rotate\" src=\"img/core-img/plus.png\" width=\"25\">Proyectos Eólicos",
-        "collapse-1-parrafo": "ALCAAL Renovables tiene más de 200MW de desarrollos propios Greenfield en Argentina, y otros tantos proyectos en el pipeline, tanto en LATAM como en ÁFRICA. Seleccionamos nuestros sitios cuidadosamente, analizando en detalle cada región que operamos, priorizando:",
+        "collapse-1-title" : "<img class=\"no-rotate\" src=\"img/core-img/plus.png\" width=\"25\">Projetos Eólicos",
+        "collapse-1-parrafo": "ALCAAL Renovables tem mais de 200MW de seus próprios empreendimentos greenfield na Argentina, e outros projetos em andamento, tanto na América Latina como na África. Selecionamos cuidadosamente nossos sites, analisando detalhadamente cada região que operamos, priorizando:",
             
-            "collapse-1-title-1" : "Recurso Eólico Competitivo",
-            "collapse-1-parr-1" : "Llevamos a cabo una evaluación inicial basada en modelos de vientos globales seguido de la instalación de equipos de medición que cumplen con la normativa IEC para asegurar datos bancables para nuestros proyectos.",
+            "collapse-1-title-1" : "Recurso eólico competitivo",
+            "collapse-1-parr-1" : "Realizamos uma avaliação inicial baseada em modelos eólicos globais, seguida pela instalação de equipamentos de medição que atendem as normas IEC para garantir dados bancáveis para nossos projetos.",
             
-            "collapse-1-title-2" : "Sin Restricciones Ambientales",
-            "collapse-1-parr-2" : "Llevamos a cabo una evaluación inicial para identificar las posibles limitaciones ambientales con anticipación, a fin de priorizar aquellos desarrollos sin restricciones ambientales. Realizamos un seguimiento con una Evaluación de Impacto Ambiental completa.",
+            "collapse-1-title-2" : "Sem restrições ambientais",
+            "collapse-1-parr-2" : "Realizamos uma avaliação inicial para identificar possíveis limitações ambientais com antecedência, a fim de priorizar esses desenvolvimentos sem restrições ambientais. Acompanhamos com uma Avaliação de Impacto Ambiental completa.",
             
-            "collapse-1-title-3" : "Capacidad Disponible en la Red y Proximidad a Consumo",
-            "collapse-1-parr-3" : "Priorizamos los sitios donde la infraestructura de alta tension existe localmente y tiene suficiente capacidad disponible para albergar al proyecto, junto con consumidores existentes dentro de una distancia razonable para minimizar las pérdidas de transmisión en general.",
+            "collapse-1-title-3" : "Capacidade Disponível na Rede e Proximidade ao Consumo",
+            "collapse-1-parr-3" : "Priorizamos sites onde a infraestrutura de alta voltagem existe localmente e tem capacidade disponível suficiente para o projeto, juntamente com os consumidores existentes a uma distância razoável para minimizar as perdas de transmissão em geral.",
             
-            "collapse-1-title-4" : "Fácil Acceso y Terreno Adecuado",
-            "collapse-1-parr-4" : "Priorizamos sitios de acceso sencillo para todos los equipos asi como de terreno adecuado para hacer mas eficiente la obra civil.",
+            "collapse-1-title-4" : "Acesso Fácil e Geografia Apropriada",
+            "collapse-1-parr-4" : "Priorizamos locais de acesso simples para todos os equipamentos, bem como terreno apropiado para tornar as obras civis mais eficientes.",
 
-            "collapse-1-title-5" : "Disponibilidad de Contratistas Locales / Mano de Obra Competitiva",
-            "collapse-1-parr-5" : "Apoyamos el uso de contratistas locales y mano de obra competitiva de manera que nuestros proyectos tengan un impacto positivo en las economías de la región donde operamos.",
+            "collapse-1-title-5" : "Disponibilidade de Mão de Obra Local",
+            "collapse-1-parr-5" : "Apoiamos o uso de empreiteiros locais e mão de obra competitiva para que nossos projetos tenham um impacto positivo nas economias da região onde operamos.",
         
-        "collapse-2-title" : "<img class=\"no-rotate\" src=\"img/core-img/plus.png\" width=\"25\">Proyectos Solares Fotovoltaicos",
-        "collapse-2-parrafo": "ALCAAL Renovables tiene más de 100 MW de proyectos Solares Fotovoltaicos en desarrollo y otros proyectos en el pipeline. Seleccionamos nuestros sitios cuidadosamente, analizando en detalle cada región que operamos, priorizando:",
+        "collapse-2-title" : "<img class=\"no-rotate\" src=\"img/core-img/plus.png\" width=\"25\">Projetos Solares Fotovoltaicos",
+        "collapse-2-parrafo": "ALCAAL Renovables possui mais de 100MW de Projetos Solares Fotovoltaicos em desenvolvimento e outros projetos em andamento. Selecionamos nossos sites cuidadosamente, analisando cada região que operamos em detalhes, priorizando:",
             
-            "collapse-2-title-1" : "Recurso Eólico Competitivo",
-            "collapse-2-parr-1" : "Llevamos a cabo una evaluación inicial basada en datos de irradiación horizontal global de buena reputación seguidos de verificación mediante la instalación de la instrumentación adecuada en el sitio.",
+            "collapse-2-title-1" : "CIrradiação Solar Competitiva",
+            "collapse-2-parr-1" : "Realizamos uma avaliação inicial com base em dados de irradiação horizontal global respeitáveis, seguidos de verificação através da instalação de instrumentação adequada no site.",
             
-            "collapse-2-title-2" : "Sin Restricciones Ambientales",
-            "collapse-2-parr-2" : "Llevamos a cabo una evaluación inicial para identificar las posibles limitaciones ambientales con anticipación, a fin de priorizar aquellos desarrollos sin restricciones ambientales. Realizamos un seguimiento con una Evaluación de Impacto Ambiental completa.",
+            "collapse-2-title-2" : "Sem restrições ambientais",
+            "collapse-2-parr-2" : "Realizamos uma avaliação inicial para identificar possíveis limitações ambientais com antecedência, a fim de priorizar esses desenvolvimentos sem restrições ambientais. Acompanhamos com uma Avaliação de Impacto Ambiental completa.",
             
-            "collapse-2-title-3" : "Capacidad Disponible en la Red y Proximidad a Consumo",
-            "collapse-2-parr-3" : "Priorizamos los sitios donde la infraestructura de alta tension existe localmente y tiene suficiente capacidad disponible para albergar al proyecto, junto con consumidores existentes dentro de una distancia razonable para minimizar las pérdidas de transmisión en general.",
+            "collapse-2-title-3" : "Capacidade Disponível na Rede e Proximidade ao Consumo",
+            "collapse-2-parr-3" : "Priorizamos sites onde a infraestrutura de alta voltagem existe localmente e tem capacidade disponível suficiente para o projeto, juntamente com os consumidores existentes a uma distância razoável para minimizar as perdas de transmissão em geral.",
             
-            "collapse-2-title-4" : "Fácil Acceso y Terreno Adecuado",
-            "collapse-2-parr-4" : "Priorizamos sitios de acceso sencillo para todos los equipos asi como de terreno adecuado para hacer mas eficiente la obra civil.",
+            "collapse-2-title-4" : "Acesso Fácil e Geografia Apropriada",
+            "collapse-2-parr-4" : "Priorizamos locais de acesso simples para todos os equipamentos, bem como terreno apropiado para tornar as obras civis mais eficientes.",
 
-            "collapse-2-title-5" : "Disponibilidad de Contratistas Locales / Mano de Obra Competitiva",
-            "collapse-2-parr-5" : "Apoyamos el uso de contratistas locales y mano de obra competitiva de manera que nuestros proyectos tengan un impacto positivo en las economías de la región donde operamos."
+            "collapse-2-title-5" : "Disponibilidade de Mão de Obra Local",
+            "collapse-2-parr-5" : "Apoiamos o uso de empreiteiros locais e mão de obra competitiva para que nossos projetos tenham um impacto positivo nas economias da região onde operamos."
         
     },
 
     ".reno-lang":{
-        "text-title" : "Renovables",
-        "text-title-b" : "Creeemos en un futuro con una matriz energética verdaderamente diversificada.",
+        "text-title" : "Renováveis",
+        "text-title-b" : "Acreditamos num futuro com uma matriz energética verdadeiramente diversificada, em que as Energias Renováveis continuem a ter um papel fundamental nos próximos anos.",
 
-        "parrafo-1" : "Motivados por el asombroso crecimiento sostenido por el Sector de Renovables en las últimas décadas, ALCAAL tomó la decisión estratégica de destinar recursos significativos para contribuir al desarrollo sustentable de futuros proyectos de Renovables y desempeñar un papel activo en la transición a una economía de menor carbono.",
-        "parrafo-2" : "Vemos la creciente competitividad de la energía eólica y solar fotovoltaica como una tendencia continua, particularmente en eólica, donde las turbinas continúan creciendo en dimension y aumentando su potencia de generacion, lo que lleva a un menor costo nivelado de energía (LCOE).",
-        "parrafo-3" : "Además, vemos esto como una oportunidad para que los países en desarrollo, particularmente en ÁFRICA y LATAM, se conviertan en fuertes contribuyentes de la expansión de la Energía Renovable en todo el mundo. ALCAAL Renovables se enfoca en ÁFRICA y LATAM donde estamos estableciendo relaciones a largo plazo con actores locales y globales, y desarrollando proyectos renovables de alta calidad y competitivos de gran escala..",
+        "parrafo-1" : "Motivados pelo surpreendente crescimento sustentado pelo Setor Renovável nas últimas décadas, a ALCAAL tomou a decisão estratégica de comprometer recursos significativos para contribuir para o desenvolvimento sustentável de futuros projetos renováveis e desempenhar um papel ativo na transição para uma economia de baixo carbono.",
+        "parrafo-2" : "Vemos a crescente competitividade da energia eólica e solar fotovoltaica como uma tendência contínua, particularmente na energia eólica, onde as turbinas continuam aumentando as dimensões e a sua potência, levando a um menor custo de energia nivelado (LCOE).",
+        "parrafo-3" : "Além disso, vemos isso como uma oportunidade para os países em desenvolvimento, particularmente em ÁFRICA e LATAM, se tornarem fortes contribuintes da expansão do Potencia Renovável em todo o mundo. A ALCAAL Renovables está focada em AFRICA & LATAM, onde estamos estabelecendo relacionamentos de longo prazo com os players locais e globais e desenvolvendo projetos renováveis de alta qualidade e competitivos de grande escala.",
 
-        "sec-1-title" : "Renovables en el Mundo",
-        "sec-1-parrafo" : "Varias de las organizaciones líderes en el sector de Energía han producido estimativos para el desarrollo de las Energias a nivel Global. Citamos a continuación parte de la información presentada por la Agencia Internacional de Energía, la Agencia Internacional de Energías Renovables, el Energy Outlook 2018 de BP, el Consejo Global de Energía Eólica, la Asociación de Energía Eólica de los Estados Unidos, entre otras organizaciones acreditadas que trabajan en este tema:",
+        "sec-1-title" : "Renováveis no mundo",
+        "sec-1-parrafo" : "Várias organizações líderes no setor de energia produziram previsões para o futuro da previsão mundial de energia. Em particular, citamos abaixo algumas das informações apresentadas pela Agência Internacional de Energia, a Agência Internacional de Energia Renovável, a Energy Outlook 2018 da BP, o Conselho Global de Energia Eólica, a American Wind Energy Association, entre outras organizações respeitáveis que trabalham neste assunto:",
             
-            "list-1" : "El fuerte crecimiento de la energía renovable es posible gracias a la creciente competitividad de la energía eólica y solar fotovoltaica.",
-            "list-2" : "La expansión de la energías renovables tiene una base cada vez mas amplia, con China y, cada vez más otras partes del tercer mundo, tomando el rol de principal motor de crecimiento, relevando a la Union Europea.",
-            "list-3" : "La energía Solar fotovoltaica fue responsable del 20% de la generación de energía adicional en 2017 y la eólica del 30%.",
-            "list-4" : "Las energías renovables ahora cubren 1/3 de la mezcla de potencia en Europa, 1/4 en China y 1/6 en Estados Unidos, India y Japón.",
+            "list-1" : "O forte crescimento em energias renovável é possibilitado pela crescente competitividade da energia eólica e solar.",
+            "list-2" : "A expansão em renováveis está ocorrendo em todo o mundo, com a China e cada vez mais outras partes do mundo tomando o lugar como principal motor de crescimento que até recentemente a Union Europeia tinha.",
+            "list-3" : "A Solar foi responsável por 20% da geração adicional de energia em 2017 en tanto a Eólica for del 30%.",
+            "list-4" : "As Energias Renovaveis agora cobrem 1/3 do mix de energia na Europa, 1/4 na China e 1/6 nos Estados Unidos, Índia e Japão.",
 
-        "grafi-title-1" : "Porcentajes de Generación de Energía en todo el Mundo",
-        "grafi-parrafo-1" : "Se prevé que las energías renovables representarán el 25% de la generación total de energía en el mundo para 2040.",
+        "grafi-title-1" : "Porcentagens da Geração Total de Energia no Mundo",
+        "grafi-parrafo-1" : "Espera-se que as energias renováveis ​​respondam por 25% da geração total de energia do mundo até 2040.",
 
-        "grafi-title-2" : "Las Renovables con un ritmo de penetración en el mercado de energía sin precedentes",
-        "grafi-parrafo-2" : "Se espera que las renovables tengan el mayor crecimiento en 25 años que cualquier otro tipo de tecnología jamás alcanzó, se prevé que gane casi el 20% del mercado mundial entre 2015 y 2040.",
+        "grafi-title-2" : "As Renováveis mostram un ritmo de penetração no mercado de energia sem precedentes",
+        "grafi-parrafo-2" : "Espera-se que as energias renováveis ​​tenham o maior crescimento em 25 anos que qualquer outro tipo de tecnologia já alcançado, espera-se ganhar quase 20% do mercado mundial entre 2015 e 2040.",
 
-        "grafi-title-3" : "Crecimiento anual promedio para energía renovable (en TWh)",
-        "grafi-parrafo-3" : "Fuera de la OCDE (Organización de Cooperación y Desarrollo Económicos) y China, LATAM y ÁFRICA contribuyen en gran medida al crecimiento de la energía renovable promedio annual.",
+        "grafi-title-3" : "Crescimento Médio Anual para Energia Renovável (em TWh)",
+        "grafi-parrafo-3" : "Fora da OCDE (Organização para Cooperação e Desenvolvimento Econômico) e da China, a América Latina e a ÁFRICA contribuem muito para o crescimento da energia renovável média anual.",
 
-        "grafi-title-4" : "Demanda de Energía Primaria por Región (en btoe)",
-        "grafi-parrafo-4" : "Fuera de la OCDE (Organización de Cooperación y Desarrollo Económicos) y China, LATAM y ÁFRICA contribuyen en gran medida al crecimiento de la energía renovable promedio annual.",
-
-
-        "sec-2-title" : "Capacidad instalada de Energía Solar Fotovoltaica y Eólica",
-        "sec-2-parrafo" : "El Agencia Internacional de la Energía en su Programa de Sistemas de Energías Fotovoltaicas reportó que se instalaron 75 gigavatios de energía solar en todo el mundo en 2016, con lo que la capacidad fotovoltaica global instalada llego a 303 gigavatiosen ese año. En 2017, las instalaciones fotovoltaicas anuales en todo el mundo superaron la marca de 100 GW por primera vez, en gran parte debido al despliegue impresionante en China. Los efectos combinados de: equipos de bajo costo, la facilidad de instalación y los desarrollos tecnológicos, llevaron a IRENA a pronosticar que la capacidad de PV podría llegar a 1.760GW en 2030.",
+        "grafi-title-4" : "Demanda de Energia Primária por Região (em btoe)",
+        "grafi-parrafo-4" : "Fora da OCDE (Organização para Cooperação e Desenvolvimento Econômico) e da China, a América Latina e a ÁFRICA contribuem muito para o crescimento da energia renovável média anual.",
 
 
-        "sec-3-p-sub" : "De forma similar, GWEC tiene proyecciones de que la eólica alcanzará un total de 840GW de capacidad instalada para el 2022, de un total de 539GW instalados a fines de 2017.",
+        "sec-2-title" : "Capacidade Instalada Solar PV e Energia Eólica",
+        "sec-2-parrafo" : "O Programa de Sistema de Energia Fotovoltaica da Agência Internacional de Energia informou que 75 gigawatts de energia solar foram instalados globalmente em 2016 – elevando a capacidade fotovoltaica global instalada para pelo menos 303 gigawatts até 2016. Instalações fotovoltaicas anuais em todo o mundo ultrapassaram a marca de 100 GW em 2017 pela primeira vez, em grande parte devido à implantação explosiva na China. Os efeitos combinados de equipamentos de baixo custo, facilidade de instalação e desenvolvimentos tecnológicos levaram a IRENA a prever que a capacidade fotovoltaica poderia atingir 1.760 GW em 2030.",
+
+
+        "sec-3-p-sub" : "Da mesma forma, a GWEC tem projeções de que a energia eólica atingirá um total de 840GW de capacidade instalada até 2022, de um total de 539GW instalados no final de 2017.",
         
-        "sec-3-title" : "Renovables en ÁFRICA y LATAM",
-        "sec-3-parrafo" : "ÁFRICA Y LATAM están siguiendo los pasos establecidos por la Unión Europea, EE.UU., China, Japón, Australia y otros. Algunos mercados están más establecidos y alcanzan un considerable estado de madurez como México, Brasil y Chile en LATAM y Sudáfrica en ÁFRICA, mientras que otros, particularmente en el África subsahariana, se beneficiarán de la disminución de los costos de la tecnología y el aumento de la eficiencia en años por venir, junto con políticas favorables y el apoyo de los gobiernos locales.",
+        "sec-3-title" : "Renováveis em ÁFRICA & LATAM",
+        "sec-3-parrafo" : "ÁFRICA & LATAM estão seguindo os passos da UE, EUA, China, Japão, Austrália e outros. Alguns mercados estão mais estabelecidos e atingem um considerável estado de maturidade, como México, Brasil e Chile, na América Latina e África do Sul, enquanto outros países, particularmente na África Subsaariana, estão se beneficiando dos custos decrescentes da tecnologia e do aumento da eficiência na África. nos próximos anos, juntamente com políticas favoráveis e apoio dos governos.",
 
-        "sec-3-h4-a" : "Se estima que se instalaran más de 47 GW de nueva capacidad de energía eólica en América Latina entre 2017 y 2026.",
-        "sec-3-h4-b" : "La capacidad de energía solar fotovoltaica de África podría superar los 70 GW en 2030."
+        "sec-3-h4-a" : "Mais de 47 GW de nova capacidade de energia eólica deverão ser comissionados na América Latina de 2017 a 2026.",
+        "sec-3-h4-b" : "A capacidade solar fotovoltaica da África pode exceder 70 GW até 2030"
 
     },
 
     ".servi-lang":{
-        "text-title" : "Servicios",
-        "text-title-b" : "Diseñamos, estructuramos el financiamiento y construimos proyectos de energías renovables.",
+        "text-title" : "Serviços",
+        "text-title-b" : "Desenhamos, estruturamos financiamentos e construímos projetos de energia renovável em escala comercial.",
 
-        "sec-1-title" : "Ejecución y operación",
-        "sec-1-parrafo" : "Somos un desarrollador que diseña, estructura el financiamiento, construye y opera proyectos renovables de gran escala. Logramos esto mediante la formación de alianzas estratégicas con jugadores tanto locales como globales. En jurisdicciones en las que hemos decidido estratégicamente no operar como socios en ningún desarrollo, ofrecemos servicios de gestión de proyectos y contratos llave en mano completos (ingeniería, compras y contrataciones, construcción y puesta a punto).",
-        "sec-1-parrafo-1" : "Nuestro equipo altamente calificado tiene una vasta experiencia en la ejecución de proyectos de energías renovables de gran escala, desde el diseño hasta los permisos, la construcción y la puesta en servicio, así como la gestión de activos durante la vida operativa del proyecto.",
-
-
-            "card-1-title" : "Gestión de proyectos",
-            "card-1-parrafo" : "Definicion del alcance. Presupuestos. Planificación. Control de Progreso. Plan de Comunicación y gestión de las partes interesadas. Establezca un Plan HSE robusto para asegurar que el Proyecto cumpla con todas las regulaciones aplicables, etc.",
-
-            "card-2-title" : "Gestión de riesgos",
-            "card-2-parrafo" : "Identificación de riesgos y oportunidades, cuantificar el impacto al proyecto, establecer un plan de mitigación y monitorear el progreso",
-
-            "card-3-title" : "Gestión de contratos",
-            "card-3-parrafo" : "Determine la Estrategia de Contratación más adecuada para cada uno de los subcontratistas del Proyecto, la negociación de Contrato y el monitoreo a lo largo de la Ejecución del Proyecto.",
-
-            "card-4-title" : "Compras y contrataciones",
-            "card-4-parrafo" : "Definir una sólida estrategia de adquisición para cada proyecto, analizar y seleccionar proveedores, establecer y emitir robustas órdenes de compra, logística y seguimiento.",
+        "sec-1-title" : "Execução e Operação",
+        "sec-1-parrafo" : "Somos um desenvolvedor que desenha, estrutura o financiamento, constrói e opera projetos renováveis de grande escala. Conseguimos isso através da formação de alianças estratégicas com atores locais e globais. Em jurisdições onde decidimos estrategicamente não operar como parceiros em nenhum desenvolvimento, oferecemos serviços de Gerenciamento de Projetos e Conotratos Chave em mão completos (Engenharia, Compras e Contratos e Construção).",
+        "sec-1-parrafo-1" : "Nossa equipe altamente qualificada tem vasta experiência na execução de projetos de energias renováveis de grande escala desde o desenho até a permissão, construção e comissionamento, bem como gerenciamento de ativos durante a vida operacional do projeto.",
 
 
-        "sec-2-title" : "Servicios financieros",
-        "sec-2-parrafo" : "Nuestro equipo altamente calificado tiene una amplia experiencia en la financiación de proyectos de energía de gran escala (eólica, solar fotovoltaica, mareomotriz y petróleo y gas). Como grupo, también tenemos experiencia en el financiamiento de otros proyectos de infraestructura y comerciales que nos han permitido establecer relaciones a largo plazo con varias instituciones financieras y multilaterales en todo el mundo, y estamos en una buena posición para diseñar, optimizar y ejecutar las mejores estrategias para lograr cierre de cada proyecto que emprendemos.",
+            "card-1-title" : "Gerenciamento de Projetos",
+            "card-1-parrafo" : "Definição de escopo. Despesas. Planejamento. Controle de Progresso. Gestão de Stakeholders e Plano de Comunicação. Estabelecer um plano robusto de SSMA para garantir que o projeto esteja em conformidade com todas as regulamentações aplicáveis e etc.",
 
-        "sec-3-title" : "Fusiones y Adquisiciones",
-        "sec-3-parrafo" : "Estamos buscando permanentemente expandir nuestro portafolio de desarrollos greenfield competitivos y, como tales, estamos siempre a la búsqueda de nuevos desarrollos. Póngase en contacto con nosotros si desea hablar sobre un proyecto existente."
+            "card-2-title" : "Gerenciamento de Riscos",
+            "card-2-parrafo" : "Identificação de Riscos e Oportunidades, quantificando o impacto ao projeto, estabelecendo um plano de mitigação e monitorando o progresso.",
+
+            "card-3-title" : "Gestão de Contratos",
+            "card-3-parrafo" : "Determinar a estratégia de contratação mais adequada para cada um dos subcontratados do projeto, negociação de contratos e monitoramento durante a execução do projeto.",
+
+            "card-4-title" : "Compras e Contratação",
+            "card-4-parrafo" : "Definir uma estratégia de aquisição sólida para cada projeto, analisar e selecionar fornecedores, estabelecer e emitir ordens de compra robustas, logística e monitoramento.",
+
+
+        "sec-2-title" : "Serviços Financeiros",
+        "sec-2-parrafo" : "Nossa equipe altamente qualificada possui vasta experiência no financiamento de projetos de energia de grande escala (Wind, Solar PV, Tidal e Oil & Gas). Como um grupo, também temos experiência no financiamento de outros projetos de infra-estrutura e programas de negociação que nos permitiram estabelecer relacionamentos de longo prazo com diversas instituições financeiras e multilaterais em todo o mundo, e estamos bem posicionados para projetar, otimizar e executar as melhores estratégias para atingir o fechamento financeiro de cada projeto que realizamos.",
+
+        "sec-3-title" : "Fusões e Aquisições",
+        "sec-3-parrafo" : "Estamos permanentemente buscando expandir nosso portfólio de desenvolvimentos greenfield competitivos e, como tal, estamos sempre à procura de novos desenvolvimentos. Contacte-nos se você gostaria de discutir um projeto existente."
 
     }, 
 
     ".sg-lang":{
-        "text-title" : "Sistema de gestión",
-        "text-title-b" : "Trabajamos con altos estándares de calidad y gestión ambiental.",
+        "text-title" : "Sistema de Gestão",
+        "text-title-b" : "Trabalhamos com elevados padrões de qualidade e gestão ambiental",
 
-        "sec-1-title" : "Política de gestión integrada",
-        "sec-1-parrafo" : "En ALCAAL Renovables, la calidad y el ambiente forman parte de nuestra esencia. Es por esto que contamos con una política de gestión integrada debidamente implementada a fin de marcar bases sólidas para el desarrollo de todos nuestros procesos.",
-        "sec-1-btn" : "<i class=\"arrow_right-up icon-zise-sec-footer mr-2\"></i>Descargar documento",
+        "sec-1-title" : "Política de Gerenciamento Integrado",
+        "sec-1-parrafo" : "Na ALCAAL Renovables, qualidade e meio ambiente fazem parte de nossa essência. Por isso, temos uma política de gestão integrada devidamente implementada, a fim de estabelecer bases sólidas para o desenvolvimento de todos os nossos processos.",
+        "sec-1-btn" : "<i class=\"arrow_right-up icon-zise-sec-footer mr-2\"></i>Baixar documento",
 
-        "text-title-2" : "Certificados",
+        "text-title-2" : "Certificações",
         
         "sec-2-title" : "ISO 9001:2015",
-        "sec-2-parrafo" : "Auditorias de Etapa 1 y Etapa 2 de Certificación concluidas con éxito por parte de TUV Rheinland en Dic-2019 y Ene-2020, para la certificación de la norma ISO 9001:2015 correspondiente a la gestión de la calidad de nuestros Desarrollos y Servicios.",
-        "sec-2-btn" : "<i class=\"arrow_right-up icon-zise-sec-footer mr-2\"></i>Certificado ISO 9001:2015",
+        "sec-2-parrafo" : "Auditorias de certificação das etapas 1 e 2, concluídas com sucesso pela TUV Rheinland em dez / 2019 e jan / 2020, para a certificação da norma ISO 9001: 2015 correspondente à gestão da qualidade de nossos desenvolvimentos e serviços.",
+        "sec-2-btn" : "<i class=\"arrow_right-up icon-zise-sec-footer mr-2\"></i>Certificaçõ ISO 9001:2015",
 
         "sec-3-title" : "SO 14001:2015",
-        "sec-3-parrafo" : "Auditorias de Etapa 1 y Etapa 2 de Certificación concluidas con éxito por parte de TUV Rheinland en Dic-2019 y Ene-2020, para la certificación de la norma ISO 14001:2015 correspondiente a la gestión ambiental de nuestros Desarrollos.",
-        "sec-3-btn" : "<i class=\"arrow_right-up icon-zise-sec-footer mr-2\"></i>Certificado ISO 14001:2015"
+        "sec-3-parrafo" : "Auditorias de certificação das etapas 1 e 2 concluídas com sucesso pela TUV Rheinland em dez / 2019 e jan / 2020, para a certificação da ISO 14001: 2015 correspondente à gestão ambiental de nossos empreendimentos.",
+        "sec-3-btn" : "<i class=\"arrow_right-up icon-zise-sec-footer mr-2\"></i>Certificaçõ ISO 14001:2015"
 
     },
 
     ".team-lang":{        
-        "title" : "Nuestro equipo",
+        "title" : "NOSSA EQUIPE",
 
         "cargo-1" : "Chairman & CEO",
-        "cargo-2" : "Gerente General",
+        "cargo-2" : "Gerente Geral",
         "cargo-3" : "Gerente Comercial",
-        "cargo-4" : "Gerente de Legales",
-        "cargo-5" : "Ing. de Proyectos",
+        "cargo-4" : "Gerente Jurídico",
+        "cargo-5" : "Engenheiro de Projetos",
         "cargo-6" : "Analista Comercial",
-        "cargo-7" : "Ing. Eléctrico"
+        "cargo-7" : "Engenheiro Elétrico"
     }, 
 
 

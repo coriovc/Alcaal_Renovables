@@ -77,7 +77,7 @@
 
 
     ".about-lang":{
-        "text-title" : "COMPANY",
+        "text-title" : "Company",
         "text-title-b" : "Experts in 360 solutions for large-scale projects",
         "parrafo-1" : "ALCAAL Renovables is a developer who works on the design, permitting, financing, construction and operation of large scale renewable projects. To achieve this we seek to establish long term strategic alliances with local and or global players who share our vision and values. In jurisdictions where we have strategically decided not to operate as partners in any developments, we offer Project Management services, and Turnkey Contracts, i.e. full Engineering, Procurement and Construction (EPC) services.",
         "parrafo-2" : "Our highly qualified team has vast experience in each and every stage of the Execution of large scale Renewable Energy projects.",
@@ -111,7 +111,7 @@
 
 
     ".desarro-lang":{
-        "text-title" : "DEVELOPMENTS",
+        "text-title" : "Developments",
         "text-title-b" : "Innovative solutions for the sustainable development of renewable energy projects in Latin America and Africa",
         "parrafo-1" : "We are a developer who designs, structures financing, builds and eventually operate large scale renewable projects. We achieve this through the formation of strategic alliances with local and or global players.",
         "parrafo-2" : "We are focused in LATAM & AFRICA, with over 300MW of own Wind and Solar PV developments and further projects in the pipeline. We select our sites carefully, analysing every region we operate in to the smallest detail seeking to achieve the lowest LCOE to ensure our projects are Competitive and Reliable.",
@@ -180,7 +180,7 @@
     },
 
     ".reno-lang":{
-        "text-title" : "RENEWABLES",
+        "text-title" : "Renewables",
         "text-title-b" : "We believe in a future with a truly diversified energy matrix, in which Renewable Energies continue to play a fundamental role in the coming years",
 
         "parrafo-1" : "Motivated by the astonishing growth sustained by the Renewable Sector in recent decades, ALCAAL made the strategic decision to commit significant resources in order to contribute to the sustainable development of future Renewable projects and play an active part in the transition to a lower carbon economy.",
@@ -196,16 +196,16 @@
             "list-4" : "Renewables now cover 1/3 of the power mix in Europe, 1/4 in China and 1/6 in the United States, India and Japan.",
 
         "grafi-title-1" : "Shares of Total Power Generation Worldwide",
-        "grafi-parrafo-1" : "Se prevé que las energías renovables representarán el 25% de la generación total de energía en el mundo para 2040.",
+        "grafi-parrafo-1" : "Renewables are expected to account for 25% of the world's total energy generation by 2040.",
 
         "grafi-title-2" : "Unprecedented Pace of Power Market Penetration",
-        "grafi-parrafo-2" : "Se espera que las renovables tengan el mayor crecimiento en 25 años que cualquier otro tipo de tecnología jamás alcanzó, se prevé que gane casi el 20% del mercado mundial entre 2015 y 2040.",
+        "grafi-parrafo-2" : "Renewables are expected to have the highest growth in 25 years that any other type of technology ever achieved, it is expected to gain almost 20% of the world market between 2015 and 2040.",
 
         "grafi-title-3" : "Average Annual Growth for Renewable Power (in TWh)",
-        "grafi-parrafo-3" : "Fuera de la OCDE (Organización de Cooperación y Desarrollo Económicos) y China, LATAM y ÁFRICA contribuyen en gran medida al crecimiento de la energía renovable promedio annual.",
+        "grafi-parrafo-3" : "Outside of the OECD (Organization for Economic Cooperation and Development) and China, LATAM and AFRICA contribute greatly to the growth of average annual renewable energy.",
 
         "grafi-title-4" : "Primary Energy Demand by Region (in btoe)",
-        "grafi-parrafo-4" : "Fuera de la OCDE (Organización de Cooperación y Desarrollo Económicos) y China, LATAM y ÁFRICA contribuyen en gran medida al crecimiento de la energía renovable promedio annual.",
+        "grafi-parrafo-4" : "Outside of the OECD (Organization for Economic Cooperation and Development) and China, LATAM and AFRICA contribute greatly to the growth of average annual renewable energy.",
 
 
         "sec-2-title" : "Solar PV and Wind Power Installed Capacity",
@@ -223,7 +223,7 @@
     },
 
     ".servi-lang":{
-        "text-title" : "SERVICES",
+        "text-title" : "Services",
         "text-title-b" : "We design, structure financing and build Commercial Scale Renewable Energy projects",
 
         "sec-1-title" : "Execution & Operation",

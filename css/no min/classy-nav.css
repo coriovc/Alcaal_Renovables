@@ -473,7 +473,7 @@ img {
   display: none;
 }
 .breakpoint-on .classynav {
-  padding:5rem 3.5rem;
+     padding: 5rem 2rem;
 }
 .breakpoint-on .classynav ul li .megamenu {
   position: relative;
