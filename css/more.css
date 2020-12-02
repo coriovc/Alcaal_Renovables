@@ -1267,6 +1267,19 @@ to {
         transform: scale(1.1);
 }
 
+.lift-grafi {
+  -webkit-transition: box-shadow 0.50s ease-in-out, -webkit-transform 0.50s ease-in-out;
+  transition: box-shadow 0.50s ease-in-out, -webkit-transform 0.50s ease-in-out;
+  transition: transform 0.50s ease-in-out, box-shadow 0.50s ease-in-out;
+  transition: transform 0.50s ease-in-out, box-shadow 0.50s ease-in-out, -webkit-transform 0.50s ease-in-out;
+}
+.lift-grafi:hover {
+-webkit-transform: scale(1.1);
+    -ms-transform: scale(1.1);
+        transform: scale(1.1);
+}
+
+
 @-webkit-keyframes rotate {
      from {
        -webkit-transform: rotate(0deg);

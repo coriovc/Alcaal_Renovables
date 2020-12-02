@@ -1,5 +1,5 @@
 // Cambios de lenguaje 
-/*
+
 var language = localStorage.getItem('language');
 var default_lang = 'es';
 
@@ -31,4 +31,4 @@ $(document).ready(function () {
     }else{
         getLanguage(default_lang);
     }
-});*/
+});

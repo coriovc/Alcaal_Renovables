@@ -1,22 +1,14 @@
 {   
     
     ".head-lang":{
-        "item-1" : "<i class=\"arrow_right-up icon-link-m d-inline-block d-xl-none\"></i>Acerca nuestro",
-        "item-2" : "<i class=\"arrow_right-up icon-link-m d-inline-block d-xl-none\"></i>Que hacemos",        
-        "item-3" : "<i class=\"arrow_right-up icon-link-m d-inline-block d-xl-none\"></i>Estructura<i id=\"drop\" class=\"arrow_carrot-down\"></i>",
-            "item-3-a" : "La Puerta de entrada a<br>la agroindustria",
-            "item-3-1" : "<i class=\"arrow_right-up icon-zise mr-2\"></i>Plantas industriales",
-            "item-3-2" : "<i class=\"arrow_right-up icon-zise mr-2\"></i>Industria de fertilizantes",
-            "item-3-3" : "<i class=\"arrow_right-up icon-zise mr-2\"></i>Feedlots",
-            "item-3-4" : "<i class=\"arrow_right-up icon-zise mr-2\"></i>Molienda",
-            "item-3-5" : "<i class=\"arrow_right-up icon-zise mr-2\"></i>Plantas de clasificación de semillas",
-            "item-3-6" : "<i class=\"arrow_right-up icon-zise mr-2\"></i>Plantas de acondicionamiento y almacenamiento de granos",
-            "item-3-7" : "<i class=\"arrow_right-up icon-zise mr-2\"></i>Port Facilities",
-            "item-3-8" : "<i class=\"arrow_right-up icon-zise mr-2\"></i>Complejo Industrial Petrolero e Instalaciones Portuarias",
-            "item-3-9" : "<i class=\"arrow_right-up icon-zise mr-2\"></i>Facilities",
-            "item-3-10" : "<i class=\"arrow_right-up icon-zise mr-2\"></i>Consultoría, Auditoría y Análisis",
-            "item-3-11" : "<i class=\"arrow_right-up icon-zise mr-2\"></i>Polos Agroindustriales",
-        "item-4" : "<i class=\"arrow_right-up icon-link-m d-inline-block d-xl-none\"></i>Proyectos seleccionados",
+        "item-1" : "<i class=\"arrow_right-up icon-link-m d-inline-block d-xl-none\"></i>Empresas<i id=\"drop\" class=\"arrow_carrot-down\"></i>",
+            "item-1-a" : "Apoyando activamente el<br>desarrollo sustentable",
+            "item-1-1" : "<i class=\"arrow_right-up icon-zise mr-2\"></i>Sobre nosotros",
+            "item-1-2" : "<i class=\"arrow_right-up icon-zise mr-2\"></i>Sistema de gestión",
+            "item-1-3" : "<i class=\"arrow_right-up icon-zise mr-2\"></i>Nuestro equipo",
+        "item-2" : "<i class=\"arrow_right-up icon-link-m d-inline-block d-xl-none\"></i>Servicios",        
+        "item-3" : "<i class=\"arrow_right-up icon-link-m d-inline-block d-xl-none\"></i>Desarrollos",
+        "item-4" : "<i class=\"arrow_right-up icon-link-m d-inline-block d-xl-none\"></i>Renovables",
         "item-5" : "<i class=\"arrow_right-up icon-link-m d-inline-block d-xl-none\"></i>Contacto",
 
         "select-lang" : "ESP",
@@ -24,58 +16,43 @@
     },
 
     ".welcome-area-lang":{
-        "parrafo":"años de experiencia en agricultura, energía, instalaciones portuarias y múltiples industrias"
+        "title":"Expertos en soluciones 360 para proyectos de gran escala"
     },
 
     ".sec-1-lang":{
-        "title-lateral" : "Should we<br>get started?",
-        "btn-lateral" : "<i class=\"arrow_right-up icon-zise mr-2\"></i>Contact us",
+        
+        "card-text-1":"Servicio Integral",
+        "card-text-1-p":"Diseñamos, estructuramos el financiamiento y construímos proyectos de Energías Renovables de Escala Comercial.",
+        
+        "card-text-2":"Innovación",
+        "card-text-2-p":"Soluciones innovadoras para el desarrollo sustentable de energía en proyectos de gran escala.",
 
-        "text-title" : "Somos la puerta de entrada",
-        "text-title-b" : "a la agroindustria para las empresas líderes<br><span>Conozca más sobre nosotros.</span>",
-        "btn" : "<i class=\"arrow_right-up icon-zise mr-2\"></i>Sobre IEP"
+        "card-text-3":"Trayectoria",
+        "card-text-3-p":"300MW en desarrollos propios Eólicos y Solares Fotovoltaicos de alta calidad y competitivos.",
+
+        "card-text-4":"Expertise",
+        "card-text-4-p":"Equipo altamente especializadas, con un fuerte liderazgo y experiencia probada en desarrollos a gran escala.",
+
+        "btn-more":"<i class=\"arrow_right-up icon-zise mr-2\"></i>Más info"
     },
 
-    ".wwd-lang":{
-        "title-1" : "Que hacemos",
-        "title-2" : "Sabemos lo que estamos haciendo. Nuestras áreas de especialización.",
-
-        "text-1" : "Estudios de viabilidad",
-        "text-2" : "Manipulación de cereales a granel",
-        "text-3" : "Proceso de extracción de aceite y productos de cereales",
-        "text-4" : "Agro Industrias",
-        "text-5" : "Ganadería",
-
-        "btn-more" : "<i class=\"arrow_right-up icon-zise mr-2\"></i>MÁS INFO"
-    },
 
     ".sec-2-lang":{
-        "title" : "Somos una empresa de ingeniería con sede en Angola y Argentina, con un amplio alcance global",
-        "span" : "NUESTRO PERFIL"
+        "title" : "Creemos en un futuro con una matriz energética  diversificada, en el cual las Energías Renovables continúen desempeñando un rol fundamental en los próximos años.",
+        "span" : "MANIFIESTO"
     },
 
     ".sec-3-lang":{
-        "title" : "Nuestra estructura empresarial",
+        "title" : "Soluciones innovadoras",
+        "sub-title" : "para el desarrollo sustentable de proyectos de Energías Renovables en Latinoamérica y África.",
 
-        "list-1" : "<i class=\"icon_check\"></i>Plantas industriales",
-        "list-2" : "<i class=\"icon_check\"></i>Industria de fertilizantes",
-        "list-3" : "<i class=\"icon_check\"></i>Feedlots",
-        "list-4" : "<i class=\"icon_check\"></i>Molienda",
-        "list-5" : "<i class=\"icon_check\"></i>Plantas de clasificación de semillas",
-        "list-6" : "<i class=\"icon_check\"></i>Plantas de acondicionamiento y almacenamiento de granos",
-        "list-7" : "<i class=\"icon_check\"></i>Port Facilities",
-        "list-8" : "<i class=\"icon_check\"></i>Complejo Industrial Petrolero e Instalaciones Portuarias",
-        "list-9" : "<i class=\"icon_check\"></i>Consultoría, auditoría y análisis"
+        "car-text-1" : "Energía eólica",
+        "car-text-2" : "Energía solar"
     },
 
-
-    ".part-lang":{
-        "title" : "Empresas que confían en nosotros"
-    },
-
-    ".sec-footer-lang":{
-        "text-title" : "En IEP GLOBAL",
-        "text-pa" : "tenemos el know-how, la estructura y la experiencia para asegurar la profesionalidad y transparencia de la gestión.",
+    ".sec-foo-lang":{
+        "title" : "En el mundo",
+        "parrafo" : "+1 GW en proyectos de Energías Renovables alrededor del mundo. Argentina, UK, Spain, France, Canada, India, Australia y Africa.",
         "btn" : "<i class=\"arrow_right-up icon-zise mr-2\"></i>Hablemos"
     },
 
@@ -83,13 +60,14 @@
     ".footer-lang":{
         "copyr" : "Todos los derechos reservados.", 
 
-        "link-text-1" : "Acerca nuestro ",
-        "link-text-2" : "Que hacemos",
-        "link-text-3" : "Estructura",
-        "link-text-4" : "Proyectos seleccionados",
+        "link-text-1" : "Empresa",
+        "link-text-2" : "Servicios",
+        "link-text-3" : "Desarrollos",
+        "link-text-4" : "Renovables",
         "link-text-5" : "Contacto",
 
         "info-text-1" : "Dirección Postal",
+        "info-text-2" : "Teléfono",
 
         "select-lang" : "ESP",
         "select-idioma" :"<button class=\"dropdown-item\" type=\"button\" onclick=\"setLanguage('en')\">English</button><button class=\"dropdown-item active\" type=\"button\" onclick=\"setLanguage('es')\">Español</button><button class=\"dropdown-item\" type=\"button\" onclick=\"setLanguage('pt')\">Portugués</button>"
@@ -99,233 +77,209 @@
 
 
     ".about-lang":{
-        "text-title" : "ACERCA<br>NUESTRO",
-        "text-title-b" : "Desde 1972 trabajamos continuamente en el desarrollo de <span>proyectos de ingeniería</span> y <br>consultoría especializada en <span>agroindustria </span> y sus procesos asociados.",
-        "parrafo-1" : "Ofrecemos consultoría en el mercado agrícola, y somos la puerta de entrada a la agroindustria. Contamos con el conocimiento, la estructura y la experiencia para garantizar la profesionalidad y la transparencia de la gestión. Además, en los últimos quince años, IEP se ha especializado en la producción de commodities para la agroindustria. Y ha desarrollado la producción de aceite de girasol con alto contenido en ácido oleico, entre otros servicios a empresas líderes.",
-        "parrafo-2" : "IEP combina un enfoque multidisciplinario con un conocimiento profundo y práctico de la industria y la agricultura para ayudar a los clientes a enfrentar los desafíos y responder a las oportunidades.",
+        "text-title" : "Empresa",
+        "text-title-b" : "Expertos en soluciones 360 para proyectos de gran escala.",
+        "parrafo-1" : "ALCAAL Renovables es una empresa de desarrollo que trabaja en el diseño, permisos, financiamiento, construcción y operación de proyectos renovables de gran escala. Para lograr esto, buscamos establecer alianzas estratégicas de largo plazo con actores tanto locales como globales que compartan nuestra visión y nuestros valores. En algunas jurisdicciones en las que hemos decidido estratégicamente no operar como socios en ningún desarrollo, ofrecemos los Servicios de Gestión de Proyectos y Contratos llave en mano para el Diseño de Detalles, Compras y Contrataciones, Construcción y Puesta a Punto del Proyecto.",
+        "parrafo-2" : "Nuestro equipo altamente calificado tiene una vasta experiencia en todas y cada una de las etapas de la ejecución de proyectos de Energías Renovables de gran escala.",
+        "parrafo-3" : "Con sede en Buenos Aires, Argentina, ALCAAL Renovables es parte del grupo internacional ALCAAL, centrado en el desarrollo sostenible de proyectos de energía renovable que contribuirá a proporcionar crecimiento a los mercados emergentes a la vez que respalda la transición a una economía con menos emisiones de carbono.",
 
-        "text-title-2" : "Una vision general Abreviada de los servicios de IEP:",
+        "collapse-1-title" : "<img class=\"no-rotate\" src=\"img/core-img/plus.png\" width=\"25\">Nuestra visión",
+        "collapse-1-parrafo": "Ser un <span>actor global importante en el sector de Energías Renovables,</span> apoyando activamente el desarrollo sustentable, el financiamiento y la construcción de proyectos competitivos de Energia Eólica y Solar Fotovoltaica de gran escala en <span>LATAM y ÁFRICA.</span>",
 
-        "list-1" : "Consultoría y Gestión",
-        "list-2" : "Cereales y aceite a granel",
-        "list-3" : "Procedimientos de extracción de aceite comestible y derivados de cereales",
-        "list-4" : "Industria azucarera",
-        "list-5" : "Industria de fertilizantes",
-        "list-6" : "Molinos de trigo y harina",
-        "list-7" : "Molinos de arroz",
+        "collapse-2-title" : "<img class=\"no-rotate\" src=\"img/core-img/plus.png\" width=\"25\">Nuestros objetivos",
+        "collapse-2-subtitle": "A continuación algunos de los principales objetivos a corto plazo de nuestra empresa:",
+        "collapse-2-parra-1": "Contribuir a la continuacion del éxito de la Industria de Energías Renovables en LATAM (particularmente en mercados clave como Argentina) y ÁFRICA, a través del desarrollo de proyectos de alta calidad y competitivos en áreas clave de estas regiónes para apoyar el crecimiento local.",
+        "collapse-2-parra-2": "Expandir nuestra presencia y alcance en el sector de Renovables a través de alianzas estratégicas con otros actores locales y globales que comparten nuestra visión y valores corporativos.",
 
-        "list-8" : "Formación de personal industrial",
-        "list-9" : "Desarrollo de tierras agrícolas",
-        "list-10" : "Capacitación del personal agrícola y la gestión",
-        "list-11" : "Ganadería",
-        "list-12" : "Producción de semillas",
-        "list-13" : "Producción Forestal ",
-        "list-14" : "Desarrollo de nuevos cultivos",
-        "list-15" : "Riego",
 
-        "text-title-foo" : "Conozca más sobre nuestras áreas de especialización",
-        "span" : "EXPERTISE",
-
-        "btn" : "<i class=\"arrow_right-up icon-zise mr-2\"></i>Nuestros servicios"
+        "collapse-3-title" : "<img class=\"no-rotate\" src=\"img/core-img/plus.png\" width=\"25\">Nuestros valores",
+        "collapse-3-parrafo": "En el corazón de todo lo que hacemos, están nuestros valores centrales de la compañía, que nos impulsan a llevar a cabo nuestras actividades de la manera más ética y transparente y a alcanzar nuestros objetivos de desarrollar proyectos renovables de gran escala de manera segura, eficiente y económica. A continuación se listan los valores centrales de nuestra empresa:",
+            "collapse-3-title-1" : "Sustentabilidad.",
+            "collapse-3-parr-1" : "Nos esforzamos por soluciones confiables y competitivas que puedan demostrar ser dignas de implementación en cada uno de los proyectos que emprendemos.",
+            "collapse-3-title-2" : "Innovación.",
+            "collapse-3-parr-2" : "Optimizamos los desarrollos renovables haciendo uso de técnicas y tecnologías innovadoras.",
+            "collapse-3-title-3" : "Integridad y Pasión.",
+            "collapse-3-parr-3" : "Hacemos lo correcto. Creemos en lo que hacemos y nos apasiona contribuir a la transición global hacia una economía con menores emisiones de carbono.",
+            "collapse-3-title-4" : "Exelencia en Salud, Seguridad y Ambiente.",
+            "collapse-3-parr-4" : "Planificamos todas las operaciones con cuidado para proteger el medio ambiente, proteger la seguridad y el bienestar de nuestro personal y todos los involucrados de cualquier manera en nuestras operaciones. Un objetivo clave en cada operación que emprendemos es lograr los objetivos con cero incidentes."
     },
 
-    ".wwd-sec-lang":{
-        "text-title" : "QUE HACEMOS",
-        "text-title-b" : "Contamos con un equipo técnico que trabaja desde hace <span>45 años</span> ininterrumpidamente en el desarrollo de proyectos de ingeniería y consultoría especializada en agroindustria y sus procesos asociados.",
-        "parrafo-1" : "Hemos desarrollado nuestras actividades en Argentina, Brasil, Paraguay, Guatemala, Ucrania, Chile, Uruguay, Filipinas, Malasia y Angola.",
 
-        "text-title-2" : "Areas de experiencia",
 
-        "card-title-1" : "Estudios de viabilidad",
-            "list-1-1" : "Recursos locales",
-            "list-1-2" : "Producción regional",
-            "list-1-3" : "Logística",
-            "list-1-4" : "Requerimiento de energía",
-            "list-1-5" : "Regulación de seguridad y medio ambiente",
-            "list-1-6" : "Evaluación económica - financiera",
-            "list-1-7" : "Análisis de costos de producción",
-            "list-1-8" : "Proyecciones futuras",
-            "list-1-9" : "Análisis de inversiones",
+    ".desarro-lang":{
+        "text-title" : "Desarrollos",
+        "text-title-b" : "Soluciones innovadoras para el desarrollo sustentable de proyectos de energías renovables en latinoamérica y África.",
+        "parrafo-1" : "Somos un desarrollador que diseña, estructura el financiamiento, construye y, eventualmente, opera proyectos renovables de gran escala. Logramos esto mediante la formación de alianzas estratégicas con jugadores locales y/o globales.",
+        "parrafo-2" : "Estamos enfocados en LATAM y ÁFRICA, con más de 300MW de desarrollos eólicos y solares fotovoltaicos propios y otros tantos proyectos en desarrollo. Seleccionamos nuestros sitios cuidadosamente, analizando cada región en la que operamos hasta el más mínimo detalle, buscando alcanzar el LCOE más bajo para asegurar que nuestros proyectos sean competitivos y confiables.",
 
-        "card-title-2" : "Manipulación de cereales",
-            "list-2-1" : "Almacenamiento, secado, limpieza y clasificación de semillas",
-            "list-2-2" : "Carga de barcos y barcazas",
-            "list-2-3" : "Descarga de barcos y barcazas",
-            "list-2-4" : "Sistemas de camiones y ferrocarriles",
-            "list-2-5" : "Sistema de recepción",
+        "text-title-2" : "Etapas del desarrollo",
 
-        "card-title-3" : "Proceso de extracción de aceite y productos de cereales",
-            "list-3-1" : "Ración",
-            "list-3-2" : "Extracción y refinado de aceites para alimentos y biocombustibles.",
-            "list-3-3" : "Extracción de etanol de maíz y sorgo.",
-            "list-3-4" : "Molienda de trigo, maíz y arroz.",
-            "list-3-5" : "Producción en ambientes subtropicales y cultivos tales como algodón, frijoles comestibles, soja, maíz y otros.",
+        "icon-text-1" : "Desarrollo del proyecto",
+        "icon-text-2" : "Financiamiento e inversiones",
+        "icon-text-3" : "Diseño Detallado de Proyecto",
+        "icon-text-4" : "Compras y contrataciones",
+        "icon-text-5" : "Construcción y puesta a punto",
+        "icon-text-6" : "Operación y Mantenimiento",
 
-        "card-title-4" : "Agro Industrias",
-            "list-4-1" : "Industria de fertilizantes",
-            "list-4-2" : "Clasificación y envasado de frutas",
-            "list-4-3" : "Molinos de Alimento Balanceado",
-            "list-4-4" : "Procesamiento de caña de azúcar ",
+        "list-title" : "Actividades principales",
+            "list-1" : "Contratos de Tierras",
+            "list-2" : "Evaluación de Recursos",
+            "list-3" : "Diseño electrico",
+            "list-4" : "Evaluación de Impacto Ambiental",
+            "list-5" : "Selección de Tecnología",
 
-        "card-title-5" : "Ganadería",
-            "list-5-1" : "Lácteos",
-            "list-5-2" : "Feed Lot",
-            "list-5-3" : "Cría",
-            "list-5-4" : "Engorde",
-
-        "card-title-6" : "Otras industrias",
-            "list-6-1" : "Producción Forestal",
-            "list-6-2" : "Frigoríficos de Aves de Corral  ",
-            "list-6-3" : "cámaras Frigoríficas ",
-            "list-6-4" : "Obra Civil",
-            "list-6-5" : "Infraestructura: electricidad, gas, carreteras, arquitectura industrial"
+            "list-6" : "Optimización de Layout",
+            "list-7" : "Permisos de Construcción",
+            "list-8" : "Compras y Contrataciones",
+            "list-9" : "Cierre Financiero",
+            "list-10" : "Gerenciamiento de Proyecto"
     },
 
-    ".select-p-lang":{
-        "text-title" : "Proyectos seleccionados",
-        "text-title-b": "IEP desarrolla estudios y proyectos altamente especializados desde el análisis e ingeniería económico-financiera hasta su puesta en marcha y puesta en servicio.",
-         "parrafo-1": "Los Técnicos del IEP han desarrollado proyectos para diferentes organismos públicos y privados, a través de servicios de organización, gestión, asesoramiento y reestructuración de empresas.",
-         
-        "lateral-text" : "Análisis e Ingeniería",
+    ".desarro-1-lang":{
 
-        "op" : "Proyectos en marcha",
-        "cp" : "Proyectos terminados",
-
-        "collapse-title-1" : "<img class=\"no-rotate\" src=\"img/core-img/plus.png\" width=\"25\">Servicios de Gestión y Consultoría",
-            "list-1-1" : "Riego, equipamiento, y construcción de infraestructura: Quizenga, Malanje, Angola. Construcción de un dique y sembrado de 5.000 hectáreas de agricultura. Capex total de 122MM.",
-            "list-1-2" : "Campo en Argentina: Provincia de Córdoba, Buenos aires y Chaco. 10.000ha de producción propia de maíz, soja, girasoles, trigo y algodón",
-            "list-1-3" : "Complejo de Agroindustria Fazenda Vissati: Cuando Cubango, Angola. Diseño, ejecución y gestión de un proyecto de agrícola de 9,200 hectáreas. Maíz, Soja y porotos. Asistencia a la agricultura familiar",
+        "collapse-1-title" : "<img class=\"no-rotate\" src=\"img/core-img/plus.png\" width=\"25\">Proyectos Eólicos",
+        "collapse-1-parrafo": "ALCAAL Renovables tiene más de 200MW de desarrollos propios Greenfield en Argentina, y otros tantos proyectos en el pipeline, tanto en LATAM como en ÁFRICA. Seleccionamos nuestros sitios cuidadosamente, analizando en detalle cada región que operamos, priorizando:",
             
-            "list-1-4" : "Gestión de Fondos Agrícolas en Argentina (FIDA) con International Finance Corporation (IFC) como inversionista ancla (1994 - 2014): U $ D 205MM invertidos en más de 1MM hectáreas con 2.5MM toneladas de producción.",
-            "list-1-5" : "Programas de producción compartida 2004-2014: más de 100.000ha desarrolladas en conjunto con productores, proveedores y empresas comerciales multinacionales como Dow Agro Sciences, Cargill, Monsanto y Glencore entre otras.",
-            "list-1-6" : "Polo Agroindustrial Quizenga (Malanje) & Polo Agroindustrial Cubal (Benguela), Angola: 60.000ha bajo gestión. Diseño y ejecución de una planta de almacenamiento de granos de 18.000 toneladas y plantas de producción de procesamiento de harina de maíz, soja y porotos. Capex total desplegado de U$D 94MM",
-
-        "collapse-title-2" : "<img class=\"no-rotate\" src=\"img/core-img/plus.png\" width=\"25\">Desarrollo Agrícola",
-            "list-2-1" : "Evaluación del Programa de Estudios de la Escuela Agrícola: Instituto Meio Agrario (IMA), Provincia de Cuando Cubango, Angola, 2019.",
-            "list-2-2" : "Diseño y desarrollo de un plan sustentable de sustitución de importaciones de arroz para la República del Chad, por un total de 70.000 toneladas de producción de arroz.",
-            "list-2-3" : "Diseño de un plan integral de sustitución de importaciones de cereales para el Gobierno de Mozambique por un total de 1,4 millones de toneladas de producción de cereales.",
-
-            "list-2-4" : "Planificación y ejecución de estudios integrales sobre Seguros Agropecuarios y Análisis de Riesgos en Argentina para el Proyecto del Banco Mundial ARG / 94/018 / B / 01/99. 30 millones de hectáreas analizadas.",
-            "list-2-5" : "Proyecto Riego Complementario: Manejo Sustentable del Riego Complementario en la Región Pampeana, Argentina. PROSAP; 53,5 Millones de hectáreas.",
-            "list-2-6" : "Estudios de viabilidad de plantación de Jatropha curcas, para la producción de biodiesel. India 2005; Brasil 2006-2007, Paraguay 2010 - junto con el Banco Interamericano de Desarrollo, BID.",
-            "list-2-7" : "Capacitación de equipos de producción para semillas de especies vegetales híbridas y de polinización abierta para Continental y Dow Agro Sciences para un área total de 50.000ha.",
-
-        "collapse-title-3" : "<img class=\"no-rotate\" src=\"img/core-img/plus.png\" width=\"25\">Ingeniería de proyecto",
-            "list-3-1" : "Puerto Necochea, Muelle 12, Provincia de Buenos Aires, Argentina. Ingeniería completa, adquisiciones y supervisión in situ de la instalación planta de descarga de fertilizantes sólidos y líquidos para los buques Panamax. Tanques de 500 m3 / h para descarga de fueloil, almacenamiento de sólidos de 50.000Tn y capacidad de almacenamiento de fertilizantes líquidos de 25.000 m3.",
-            "list-3-2" : "Ampliación de la Planta de Clasificación de Semillas, Uranga, Santa Fe, Argentina. Ingeniería completa, adquisiciones y supervisión in situ para la expansión de la planta. 25Tn / h, almacenamiento a granel 21.000Tn, almacenamiento en bolsas 15.000Tn.",
-            "list-3-3" : "Planta de Concentrado de Vitaminas de Harina de Soja, Provincia de Buenos Aires, Argentina. Estudio de viabilidad, asesoría en ingeniería básica, procura y construcción.",
+            "collapse-1-title-1" : "Recurso Eólico Competitivo",
+            "collapse-1-parr-1" : "Llevamos a cabo una evaluación inicial basada en modelos de vientos globales seguido de la instalación de equipos de medición que cumplen con la normativa IEC para asegurar datos bancables para nuestros proyectos.",
             
-            "list-3-4" : "La Plata Cereal S.A. (Parte de Andre Group, SUI), Puerto San Martín - Provincia de Santa Fe - Argentina. Ingeniería, aprovisionamiento y gestión: Granos 2.000Tn / h, Petróleo 4.000Tn / día. Capacidad anual: 3MM toneladas.",
-            "list-3-5" : "LDC Arg., Bahía Blanca Port Complex, Puerto Galván. Argentina. Ingeniería completa, procura y supervisión in situ de la instalación portuaria de embarque: capacidad de embarque 2.400Tn / h Capacidad de almacenamiento 92.000Tn.",
-            "list-3-6" : "Puerto y complejo industrial aceitero, Black Sea Industries, Ilyichesck, Ucrania. Estudio de viabilidad, ingeniería, procura, supervisión y asesoría post construcción. Extracción de aceite de girasol 1.500Tn / día. Extracción de aceite de soja 2.000 Tn / día. Almacenamiento 60.000Tn. Capacidad de Embarque de Harinas y Granos 1.000Tn / h."
+            "collapse-1-title-2" : "Sin Restricciones Ambientales",
+            "collapse-1-parr-2" : "Llevamos a cabo una evaluación inicial para identificar las posibles limitaciones ambientales con anticipación, a fin de priorizar aquellos desarrollos sin restricciones ambientales. Realizamos un seguimiento con una Evaluación de Impacto Ambiental completa.",
+            
+            "collapse-1-title-3" : "Capacidad Disponible en la Red y Proximidad a Consumo",
+            "collapse-1-parr-3" : "Priorizamos los sitios donde la infraestructura de alta tension existe localmente y tiene suficiente capacidad disponible para albergar al proyecto, junto con consumidores existentes dentro de una distancia razonable para minimizar las pérdidas de transmisión en general.",
+            
+            "collapse-1-title-4" : "Fácil Acceso y Terreno Adecuado",
+            "collapse-1-parr-4" : "Priorizamos sitios de acceso sencillo para todos los equipos asi como de terreno adecuado para hacer mas eficiente la obra civil.",
+
+            "collapse-1-title-5" : "Disponibilidad de Contratistas Locales / Mano de Obra Competitiva",
+            "collapse-1-parr-5" : "Apoyamos el uso de contratistas locales y mano de obra competitiva de manera que nuestros proyectos tengan un impacto positivo en las economías de la región donde operamos.",
+        
+        "collapse-2-title" : "<img class=\"no-rotate\" src=\"img/core-img/plus.png\" width=\"25\">Proyectos Solares Fotovoltaicos",
+        "collapse-2-parrafo": "ALCAAL Renovables tiene más de 100 MW de proyectos Solares Fotovoltaicos en desarrollo y otros proyectos en el pipeline. Seleccionamos nuestros sitios cuidadosamente, analizando en detalle cada región que operamos, priorizando:",
+            
+            "collapse-2-title-1" : "Recurso Eólico Competitivo",
+            "collapse-2-parr-1" : "Llevamos a cabo una evaluación inicial basada en datos de irradiación horizontal global de buena reputación seguidos de verificación mediante la instalación de la instrumentación adecuada en el sitio.",
+            
+            "collapse-2-title-2" : "Sin Restricciones Ambientales",
+            "collapse-2-parr-2" : "Llevamos a cabo una evaluación inicial para identificar las posibles limitaciones ambientales con anticipación, a fin de priorizar aquellos desarrollos sin restricciones ambientales. Realizamos un seguimiento con una Evaluación de Impacto Ambiental completa.",
+            
+            "collapse-2-title-3" : "Capacidad Disponible en la Red y Proximidad a Consumo",
+            "collapse-2-parr-3" : "Priorizamos los sitios donde la infraestructura de alta tension existe localmente y tiene suficiente capacidad disponible para albergar al proyecto, junto con consumidores existentes dentro de una distancia razonable para minimizar las pérdidas de transmisión en general.",
+            
+            "collapse-2-title-4" : "Fácil Acceso y Terreno Adecuado",
+            "collapse-2-parr-4" : "Priorizamos sitios de acceso sencillo para todos los equipos asi como de terreno adecuado para hacer mas eficiente la obra civil.",
+
+            "collapse-2-title-5" : "Disponibilidad de Contratistas Locales / Mano de Obra Competitiva",
+            "collapse-2-parr-5" : "Apoyamos el uso de contratistas locales y mano de obra competitiva de manera que nuestros proyectos tengan un impacto positivo en las economías de la región donde operamos."
+        
     },
 
-            ".IP-lang":{        
-                "title" : "Plantas industriales",
-                "sub-title" : "Conozca nuestras las plantas industriales asociadas y sus principales características:",
-                
-                "parrafo-1" : "Clasificación de vegetales y conservación envases de frutas (semillas cítricas) instalación de cámaras bromuro para moras.",
-                "parrafo-2" : "",
-                "parrafo-3" : "PROCESAMIENTO DE AVES.<br>Línea de producción: 8.000 pollos / hora"
-            },
+    ".reno-lang":{
+        "text-title" : "Renovables",
+        "text-title-b" : "Creeemos en un futuro con una matriz energética verdaderamente diversificada.",
 
-            ".FL-lang":{        
-                "title" : "Feedlots",
-                "sub-title" : "",
+        "parrafo-1" : "Motivados por el asombroso crecimiento sostenido por el Sector de Renovables en las últimas décadas, ALCAAL tomó la decisión estratégica de destinar recursos significativos para contribuir al desarrollo sustentable de futuros proyectos de Renovables y desempeñar un papel activo en la transición a una economía de menor carbono.",
+        "parrafo-2" : "Vemos la creciente competitividad de la energía eólica y solar fotovoltaica como una tendencia continua, particularmente en eólica, donde las turbinas continúan creciendo en dimension y aumentando su potencia de generacion, lo que lleva a un menor costo nivelado de energía (LCOE).",
+        "parrafo-3" : "Además, vemos esto como una oportunidad para que los países en desarrollo, particularmente en ÁFRICA y LATAM, se conviertan en fuertes contribuyentes de la expansión de la Energía Renovable en todo el mundo. ALCAAL Renovables se enfoca en ÁFRICA y LATAM donde estamos estableciendo relaciones a largo plazo con actores locales y globales, y desarrollando proyectos renovables de alta calidad y competitivos de gran escala..",
 
-                "parrafo" : "Capacidad: 30.000 cabezas de ganado en 200 corrales Planta de alimentación: 300 MTn / día"
-            },
+        "sec-1-title" : "Renovables en el Mundo",
+        "sec-1-parrafo" : "Varias de las organizaciones líderes en el sector de Energía han producido estimativos para el desarrollo de las Energias a nivel Global. Citamos a continuación parte de la información presentada por la Agencia Internacional de Energía, la Agencia Internacional de Energías Renovables, el Energy Outlook 2018 de BP, el Consejo Global de Energía Eólica, la Asociación de Energía Eólica de los Estados Unidos, entre otras organizaciones acreditadas que trabajan en este tema:",
+            
+            "list-1" : "El fuerte crecimiento de la energía renovable es posible gracias a la creciente competitividad de la energía eólica y solar fotovoltaica.",
+            "list-2" : "La expansión de la energías renovables tiene una base cada vez mas amplia, con China y, cada vez más otras partes del tercer mundo, tomando el rol de principal motor de crecimiento, relevando a la Union Europea.",
+            "list-3" : "La energía Solar fotovoltaica fue responsable del 20% de la generación de energía adicional en 2017 y la eólica del 30%.",
+            "list-4" : "Las energías renovables ahora cubren 1/3 de la mezcla de potencia en Europa, 1/4 en China y 1/6 en Estados Unidos, India y Japón.",
 
-            ".Milling-lang":{        
-                "title" : "Molienda",
-                "sub-title" : "Conozca nuestras las plantas industriales asociadas y sus principales características:",
+        "grafi-title-1" : "Porcentajes de Generación de Energía en todo el Mundo",
+        "grafi-parrafo-1" : "Se prevé que las energías renovables representarán el 25% de la generación total de energía en el mundo para 2040.",
 
-                "text-1" : "PLANTA DE ALIMENTACIÓN AVEX S.A. ",
-                "text-2" : "REVAMPING (Cliente Privado)",
-                "text-3" : "MOLIENDA DE ARROZ \"TAYI\" TURONES Hnos. S.A."
-            },
+        "grafi-title-2" : "Las Renovables con un ritmo de penetración en el mercado de energía sin precedentes",
+        "grafi-parrafo-2" : "Se espera que las renovables tengan el mayor crecimiento en 25 años que cualquier otro tipo de tecnología jamás alcanzó, se prevé que gane casi el 20% del mercado mundial entre 2015 y 2040.",
 
-            ".scp-lang":{        
-                "title" : "Plantas de clasificación de semillas",
-                "sub-title" : "Conozca nuestras las plantas industriales asociadas y sus principales características:",
+        "grafi-title-3" : "Crecimiento anual promedio para energía renovable (en TWh)",
+        "grafi-parrafo-3" : "Fuera de la OCDE (Organización de Cooperación y Desarrollo Económicos) y China, LATAM y ÁFRICA contribuyen en gran medida al crecimiento de la energía renovable promedio annual.",
 
-                "text-1" : "Planta de clasificación de maíz, soja, sorgo y trigo",
-                "text-2" : "Clasificación de semillas de maíz, trigo y soja"
-            },
+        "grafi-title-4" : "Demanda de Energía Primaria por Región (en btoe)",
+        "grafi-parrafo-4" : "Fuera de la OCDE (Organización de Cooperación y Desarrollo Económicos) y China, LATAM y ÁFRICA contribuyen en gran medida al crecimiento de la energía renovable promedio annual.",
 
-            ".gcs-lang":{        
-                "title" : "Plantas de acondicionamiento y almacenamiento de granos",
-                "sub-title" : ""
-            },
 
-            ".pf-lang": {
-                "title": "Instalaciones portuarias",
-                "subtítulo": ""
-            },
+        "sec-2-title" : "Capacidad instalada de Energía Solar Fotovoltaica y Eólica",
+        "sec-2-parrafo" : "El Agencia Internacional de la Energía en su Programa de Sistemas de Energías Fotovoltaicas reportó que se instalaron 75 gigavatios de energía solar en todo el mundo en 2016, con lo que la capacidad fotovoltaica global instalada llego a 303 gigavatiosen ese año. En 2017, las instalaciones fotovoltaicas anuales en todo el mundo superaron la marca de 100 GW por primera vez, en gran parte debido al despliegue impresionante en China. Los efectos combinados de: equipos de bajo costo, la facilidad de instalación y los desarrollos tecnológicos, llevaron a IRENA a pronosticar que la capacidad de PV podría llegar a 1.760GW en 2030.",
 
-            ".FI-lang": {
-                "title": "Industria de fertilizantes",
-                "sub-title": "El equipo del IEP tiene una amplia experiencia en la cadena de valor de los fertilizantes",
-                "parrafo": "En 1986, Petrosur Fertilizantes (Argentina) contrató especialistas del actual equipo del IEP para realizar un estudio sobre el futuro del consumo de fertilizantes en Argentina. <br> En 1991 el gobierno argentino impulsó el proyecto Fertineu, con la participación de provincia de Neuquén e YPF. Se asignó un área importante para el proyecto Planta de Fertilizantes, mediante Ley N ° 2134, a COMINCO-AGRIUM. ",
 
-                "text-1-1": "COMINCO FERTILIZERS LTD.",
-                "text-1-2": "-Encomendó a los técnicos del IEP un estudio sobre la actualidad en Argentina. <br> -El equipo de fertilizantes del IEP, está liderado por un profesional que ha trabajado con empresas de primer nivel, realizando las siguientes tareas.",
+        "sec-3-p-sub" : "De forma similar, GWEC tiene proyecciones de que la eólica alcanzará un total de 840GW de capacidad instalada para el 2022, de un total de 539GW instalados a fines de 2017.",
+        
+        "sec-3-title" : "Renovables en ÁFRICA y LATAM",
+        "sec-3-parrafo" : "ÁFRICA Y LATAM están siguiendo los pasos establecidos por la Unión Europea, EE.UU., China, Japón, Australia y otros. Algunos mercados están más establecidos y alcanzan un considerable estado de madurez como México, Brasil y Chile en LATAM y Sudáfrica en ÁFRICA, mientras que otros, particularmente en el África subsahariana, se beneficiarán de la disminución de los costos de la tecnología y el aumento de la eficiencia en años por venir, junto con políticas favorables y el apoyo de los gobiernos locales.",
 
-                "text-2-1": "GESTOR MUNDIAL DE AGRONOMÍA. 2010.",
-                "text-2-2": "-Desarrollo y gestión de la estrategia de plataforma agronómica global para facilitar la venta de fertilizantes. <br> -Liderando un equipo global de agrónomos que promueven cultivos de fosfato premium y nutrición balanceada. <br> -Responsable de capacitación y apoyo a clientes internos y externos en todo el mundo. ",
+        "sec-3-h4-a" : "Se estima que se instalaran más de 47 GW de nueva capacidad de energía eólica en América Latina entre 2017 y 2026.",
+        "sec-3-h4-b" : "La capacidad de energía solar fotovoltaica de África podría superar los 70 GW en 2030."
 
-                "text-3-1": "GERENTE DE INVESTIGACIÓN Y DESARROLLO. 2008-2010.",
-                "text-3-2": "-Responsable del desarrollo de nuevos productos de fosfato y potasa. <br> -Estudios diseñados, analizados, interpretados y resumidos de Camboya, invernaderos y laboratorios de todo el mundo. <br> -Periencia agronómica proporcionada en proyectos estratégicos llevados a cabo por equipos multifuncionales. ",
+    },
 
-                "text-4-1": "CONSULTOR INDEPENDIENTE. 2005-2008.",
-                "text-4-2": "-Diseño, analizó y resumió estudios agrícolas de precisión en fincas de Argentina, Brasil y Estados Unidos. <br> -Apoyo agronómico y estadístico a la Asociación Argentina de Consorcios Regionales para la Experimentación Agrícola (AACREA )."
-            },
+    ".servi-lang":{
+        "text-title" : "Servicios",
+        "text-title-b" : "Diseñamos, estructuramos el financiamiento y construimos proyectos de energías renovables.",
 
-            ".con-lang": {
-                "title": "Consultoría, auditoría y análisis",
-                "subtítulo": "IEP ha realizado trabajos de consultoría para grandes emprendimientos agroindustriales en varios países. El equipo técnico del IEP tiene experiencia vinculada al desarrollo de análisis y auditorías técnicas agroindustriales en países como Argentina, Brasil, Uruguay, Bolivia, Paraguay, Venezuela, México, República Dominicana, Angola, Zambia, Mozambique e India. ",
+        "sec-1-title" : "Ejecución y operación",
+        "sec-1-parrafo" : "Somos un desarrollador que diseña, estructura el financiamiento, construye y opera proyectos renovables de gran escala. Logramos esto mediante la formación de alianzas estratégicas con jugadores tanto locales como globales. En jurisdicciones en las que hemos decidido estratégicamente no operar como socios en ningún desarrollo, ofrecemos servicios de gestión de proyectos y contratos llave en mano completos (ingeniería, compras y contrataciones, construcción y puesta a punto).",
+        "sec-1-parrafo-1" : "Nuestro equipo altamente calificado tiene una vasta experiencia en la ejecución de proyectos de energías renovables de gran escala, desde el diseño hasta los permisos, la construcción y la puesta en servicio, así como la gestión de activos durante la vida operativa del proyecto.",
 
-                "text-1-1": "GANADO",
-                "text-1-2": "IEP cuenta con equipos técnicos con amplia experiencia en:",
-                "text-1-3": "Lote de piensos para productos lácteos <br> Empanado <br> engorde",
 
-                "text-2-1": "OTRAS CULTURAS",
-                "text-2-2": "IEP tiene una gran experiencia en la producción en ambientes subtropicales y cultivos tales como algodón, frijoles comestibles, soja, maíz y otros.",
+            "card-1-title" : "Gestión de proyectos",
+            "card-1-parrafo" : "Definicion del alcance. Presupuestos. Planificación. Control de Progreso. Plan de Comunicación y gestión de las partes interesadas. Establezca un Plan HSE robusto para asegurar que el Proyecto cumpla con todas las regulaciones aplicables, etc.",
 
-                "text-3-1": "FORESTAL",
-                "text-3-2": "La producción de madera para diferentes usos es importante para las economías locales. IEP tiene experiencia en el desarrollo forestal y silvopastoral.",
+            "card-2-title" : "Gestión de riesgos",
+            "card-2-parrafo" : "Identificación de riesgos y oportunidades, cuantificar el impacto al proyecto, establecer un plan de mitigación y monitorear el progreso",
 
-                "text-4-1": "DESARROLLO DE NUEVOS CULTIVOS",
-                "text-4-2": "IEP ha desarrollado tecnología en Jatropha curcas para la producción de biodiésel",
+            "card-3-title" : "Gestión de contratos",
+            "card-3-parrafo" : "Determine la Estrategia de Contratación más adecuada para cada uno de los subcontratistas del Proyecto, la negociación de Contrato y el monitoreo a lo largo de la Ejecución del Proyecto.",
 
-                "text-5-1": "IEP EN ÁFRICA",
-                "text-5-2": "Desde 2004, el IEP ha realizado investigaciones en Angola, Zambia y Mozambique, determinando el potencial de producción, los factores limitantes y los requisitos para el desarrollo de la agricultura, la autosuficiencia alimentaria y la capacidad de exportación. Actualmente, el IEP asesora sobre el desarrollo agrícola proyectos en Angola "
-            },
+            "card-4-title" : "Compras y contrataciones",
+            "card-4-parrafo" : "Definir una sólida estrategia de adquisición para cada proyecto, analizar y seleccionar proveedores, establecer y emitir robustas órdenes de compra, logística y seguimiento.",
 
-            ".ocp-lang":{        
-                "title" : "Complejo Industrial Petrolero e Instalaciones Portuarias",
-                "sub-title" : "",
 
-                "text-1" : "LA PLATA CEREAL S.A. (GRUPO ANDRE. Laussane - Suiza)",
-                "text-1-a" : "Puerto de envío de aceite, cereales y harina Capacidad de envío: <br>Grano: 2.000 Mtn / h <br>Aceite: 4.000 Mtn / día <br>Rendimiento anual: 3.000.000 Mtn",
-                
-                "text-2-a" : "INDUSTRIAS DEL MAR NEGRO (Ilyichesck - Ucrania)",
-                "text-2-a" : "Puerto de exportación-importación<br>Ampliación de almacenamiento: 92.000 MTn<br>Envío: 1,000 MTn / Hr",
-                "text-2-b" : "<span>PLANTA DE TRITURACIÓN</span><br>Extracción de aceite de soja: 2.000 MTn / Día <br>Semilla de girasol: 1.500 MTn / Día"
-            },
+        "sec-2-title" : "Servicios financieros",
+        "sec-2-parrafo" : "Nuestro equipo altamente calificado tiene una amplia experiencia en la financiación de proyectos de energía de gran escala (eólica, solar fotovoltaica, mareomotriz y petróleo y gas). Como grupo, también tenemos experiencia en el financiamiento de otros proyectos de infraestructura y comerciales que nos han permitido establecer relaciones a largo plazo con varias instituciones financieras y multilaterales en todo el mundo, y estamos en una buena posición para diseñar, optimizar y ejecutar las mejores estrategias para lograr cierre de cada proyecto que emprendemos.",
 
-            ".Agro-p-lang":{        
-                "title" : "Centros de desarrollo agroindustrial",
-                "sub-title" : "Misión",
+        "sec-3-title" : "Fusiones y Adquisiciones",
+        "sec-3-parrafo" : "Estamos buscando permanentemente expandir nuestro portafolio de desarrollos greenfield competitivos y, como tales, estamos siempre a la búsqueda de nuevos desarrollos. Póngase en contacto con nosotros si desea hablar sobre un proyecto existente."
 
-                "text-1" : "Polo Agro Industrial Quizenga, Angola",
-                "text-1-a" : "Superficie: 35.000 Ha<br>Molino harinero de maíz 50 tn / día<br>Instalaciones de secado y silos: 4.500 Tn<br>Molinos y almacenamiento de harina de maíz<br>Vivienda y oficinas: 600 m2",
-                "text-1-b" : "✓ Preparación del Suelo<br>✓ Primera cosecha de maíz en Quizenga<br>✓ Entrenamiento al Personal Local ",
-                
-                "text-2" : "Polo Agro Industrial Cubal, Angola",
-                "text-2-a" : "Superficie: 35.000 Ha<br>Molino harinero de maíz: 50 tn / día<br>Instalaciones de secado y silos: 4.500 Tn<br>Molinos y almacenamiento de harina de maíz Vivienda y oficinas: 600 m2",
-                "text-2-b" : "✓ Labranza primaria del suelo <br>✓ Primera Cosecha de Maíz<br>✓ Instalación Industrial"
-            },
+    }, 
+
+    ".sg-lang":{
+        "text-title" : "Sistema de gestión",
+        "text-title-b" : "Trabajamos con altos estándares de calidad y gestión ambiental.",
+
+        "sec-1-title" : "Política de gestión integrada",
+        "sec-1-parrafo" : "En ALCAAL Renovables, la calidad y el ambiente forman parte de nuestra esencia. Es por esto que contamos con una política de gestión integrada debidamente implementada a fin de marcar bases sólidas para el desarrollo de todos nuestros procesos.",
+        "sec-1-btn" : "<i class=\"arrow_right-up icon-zise-sec-footer mr-2\"></i>Descargar documento",
+
+        "text-title-2" : "Certificados",
+        
+        "sec-2-title" : "ISO 9001:2015",
+        "sec-2-parrafo" : "Auditorias de Etapa 1 y Etapa 2 de Certificación concluidas con éxito por parte de TUV Rheinland en Dic-2019 y Ene-2020, para la certificación de la norma ISO 9001:2015 correspondiente a la gestión de la calidad de nuestros Desarrollos y Servicios.",
+        "sec-2-btn" : "<i class=\"arrow_right-up icon-zise-sec-footer mr-2\"></i>Certificado ISO 9001:2015",
+
+        "sec-3-title" : "SO 14001:2015",
+        "sec-3-parrafo" : "Auditorias de Etapa 1 y Etapa 2 de Certificación concluidas con éxito por parte de TUV Rheinland en Dic-2019 y Ene-2020, para la certificación de la norma ISO 14001:2015 correspondiente a la gestión ambiental de nuestros Desarrollos.",
+        "sec-3-btn" : "<i class=\"arrow_right-up icon-zise-sec-footer mr-2\"></i>Certificado ISO 14001:2015"
+
+    },
+
+    ".team-lang":{        
+        "title" : "Nuestro equipo",
+
+        "cargo-1" : "Chairman & CEO",
+        "cargo-2" : "Gerente General",
+        "cargo-3" : "Gerente Comercial",
+        "cargo-4" : "Gerente de Legales",
+        "cargo-5" : "Ing. de Proyectos",
+        "cargo-6" : "Analista Comercial",
+        "cargo-7" : "Ing. Eléctrico"
+    }, 
+
 
     ".error-lang":{        
         "title" : "Error 404",

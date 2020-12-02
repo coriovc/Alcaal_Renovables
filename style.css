@@ -6214,167 +6214,226 @@ textarea.form-control {
           font-weight: 800;
           margin-right: 0.5rem; }
 
-.reno-area-grafi .lateral-content {
-  position: absolute;
-  z-index: 3; }
-  .reno-area-grafi .lateral-content h3 {
-    font-size: 18px;
-    color: #31C2D1;
-    font-weight: 400;
-    line-height: 1;
-    margin: 0;
-    margin-top: 12rem;
-    margin-left: -3rem;
-    transform: rotate(-90deg); }
+.reno-area-grafi {
+  position: relative;
+  z-index: 0;
+  margin-top: -10rem; }
+  .reno-area-grafi .container {
+    max-width: 100%; }
+  .reno-area-grafi.padd {
+    padding: 1rem 1.5rem;
+    margin-top: 0; }
     @media only screen and (max-width: 767px) {
-      .reno-area-grafi .lateral-content h3 {
-        font-size: 19px; } }
-  @media only screen and (max-width: 767px) {
-    .reno-area-grafi .lateral-content {
-      width: 60%;
-      margin-top: -7rem;
-      margin-right: -7rem; } }
-.reno-area-grafi .card {
-  border: none;
-  margin: 1rem; }
-  @media only screen and (max-width: 767px) {
-    .reno-area-grafi .card {
-      margin-bottom: 1.2rem; } }
-  .reno-area-grafi .card .card-header {
-    background: none;
-    border: none;
-    padding-bottom: 0; }
-    @media only screen and (max-width: 767px) {
-      .reno-area-grafi .card .card-header {
-        padding: 0; } }
-    .reno-area-grafi .card .card-header h3 {
-      font-size: 16px;
-      font-weight: 600;
-      margin-bottom: 0;
-      line-height: 1.1;
-      color: #31C2D1; }
+      .reno-area-grafi.padd {
+        padding: 1rem 1.5rem;
+        margin-top: 0; } }
+  .reno-area-grafi .lateral-content {
+    position: absolute;
+    z-index: 3; }
+    .reno-area-grafi .lateral-content h3 {
+      font-size: 18px;
+      color: #31C2D1;
+      font-weight: 400;
+      line-height: 1;
+      margin: 0;
+      margin-top: 12rem;
+      margin-left: -3rem;
+      transform: rotate(-90deg); }
       @media only screen and (max-width: 767px) {
-        .reno-area-grafi .card .card-header h3 {
-          font-size: 18px;
-          font-weight: 500; } }
-  .reno-area-grafi .card .card-body {
-    padding-left: 0; }
-    .reno-area-grafi .card .card-body img {
-      width: 100%; }
-      @media only screen and (max-width: 767px) {
-        .reno-area-grafi .card .card-body img {
-          width: 200px; } }
-  .reno-area-grafi .card .card-footer {
-    background: none;
-    border: none;
-    padding-top: 0; }
+        .reno-area-grafi .lateral-content h3 {
+          font-size: 19px; } }
     @media only screen and (max-width: 767px) {
-      .reno-area-grafi .card .card-footer {
-        padding: 0; } }
-    .reno-area-grafi .card .card-footer p {
-      font-size: 14px;
+      .reno-area-grafi .lateral-content {
+        width: 60%;
+        margin-top: -7rem;
+        margin-right: -7rem; } }
+  .reno-area-grafi .card {
+    border: none;
+    margin: 1rem; }
+    @media only screen and (max-width: 767px) {
+      .reno-area-grafi .card {
+        margin-bottom: 1.2rem; } }
+    .reno-area-grafi .card .card-header {
+      background: none;
+      border: none;
+      padding-bottom: 0; }
+      .reno-area-grafi .card .card-header.grafi-2 {
+        padding: .75rem 0 0 0; }
+        .reno-area-grafi .card .card-header.grafi-2 h3 {
+          width: 330px; }
+      @media only screen and (max-width: 767px) {
+        .reno-area-grafi .card .card-header {
+          padding: 0; }
+          .reno-area-grafi .card .card-header.grafi-2 {
+            padding: .75rem 0; }
+            .reno-area-grafi .card .card-header.grafi-2 h3 {
+              width: auto; } }
+      .reno-area-grafi .card .card-header h3 {
+        font-size: 16px;
+        font-weight: 600;
+        margin-bottom: 0;
+        line-height: 1.1;
+        color: #31C2D1; }
+        @media only screen and (max-width: 767px) {
+          .reno-area-grafi .card .card-header h3 {
+            font-size: 19px;
+            font-weight: 500; } }
+    .reno-area-grafi .card .card-body {
+      padding-left: 0;
+      height: 280px; }
+      .reno-area-grafi .card .card-body.cb-2 {
+        height: 340px; }
+        @media only screen and (max-width: 767px) {
+          .reno-area-grafi .card .card-body.cb-2 {
+            height: 230px; } }
+      @media only screen and (max-width: 767px) {
+        .reno-area-grafi .card .card-body {
+          height: 260px; } }
+      .reno-area-grafi .card .card-body img {
+        width: 100%; }
+        @media only screen and (max-width: 767px) {
+          .reno-area-grafi .card .card-body img {
+            width: 100%; } }
+        @media only screen and (max-width: 767px) {
+          .reno-area-grafi .card .card-body img.grafi-1 {
+            width: 95%; } }
+        @media only screen and (max-width: 767px) {
+          .reno-area-grafi .card .card-body img.grafi-2 {
+            width: 90%; } }
+        .reno-area-grafi .card .card-body img.grafi-3 {
+          width: 95%; }
+          @media only screen and (max-width: 767px) {
+            .reno-area-grafi .card .card-body img.grafi-3 {
+              width: 85%; } }
+        .reno-area-grafi .card .card-body img.grafi-4 {
+          position: absolute; }
+          @media only screen and (max-width: 767px) {
+            .reno-area-grafi .card .card-body img.grafi-4 {
+              position: relative; } }
+        .reno-area-grafi .card .card-body img.grafi-h1 {
+          width: 90%; }
+          @media only screen and (max-width: 767px) {
+            .reno-area-grafi .card .card-body img.grafi-h1 {
+              width: 110%;
+              max-width: 150%; } }
+        .reno-area-grafi .card .card-body img.grafi-h2 {
+          position: absolute; }
+          @media only screen and (max-width: 767px) {
+            .reno-area-grafi .card .card-body img.grafi-h2 {
+              max-width: 150%;
+              width: 120%;
+              margin-left: -1.5rem; } }
+    .reno-area-grafi .card .card-footer {
+      background: none;
+      border: none;
+      padding-top: 0; }
+      @media only screen and (max-width: 767px) {
+        .reno-area-grafi .card .card-footer {
+          padding: 0; } }
+      .reno-area-grafi .card .card-footer p {
+        font-size: 14px;
+        font-weight: 400;
+        margin-bottom: 0;
+        line-height: 1;
+        color: #5D5C60; }
+        @media only screen and (max-width: 767px) {
+          .reno-area-grafi .card .card-footer p {
+            font-size: 14px;
+            font-weight: 500; } }
+  .reno-area-grafi .nl-content {
+    position: relative;
+    z-index: 1;
+    width: 76%; }
+    .reno-area-grafi .nl-content.m15 {
+      margin-left: 15px; }
+    @media only screen and (max-width: 767px) {
+      .reno-area-grafi .nl-content {
+        width: 100%;
+        margin-top: 0; } }
+    .reno-area-grafi .nl-content h2 {
+      font-size: 29px;
       font-weight: 400;
       margin-bottom: 0;
-      line-height: 1;
-      color: #5D5C60; }
+      color: #31C2D1;
+      margin-top: 3rem; }
+      .reno-area-grafi .nl-content h2.no-m {
+        margin-top: 0; }
       @media only screen and (max-width: 767px) {
-        .reno-area-grafi .card .card-footer p {
+        .reno-area-grafi .nl-content h2 {
+          font-size: 29px;
+          margin-bottom: 1rem; } }
+    .reno-area-grafi .nl-content h3 {
+      font-size: 32px;
+      display: block;
+      font-weight: 400;
+      margin-bottom: 0;
+      color: #5D5C60;
+      margin-bottom: 1rem;
+      margin-right: 9rem; }
+      .reno-area-grafi .nl-content h3.b {
+        margin-right: 0; }
+        @media only screen and (max-width: 767px) {
+          .reno-area-grafi .nl-content h3.b {
+            margin-right: 0;
+            width: 80%; } }
+      .reno-area-grafi .nl-content h3 span {
+        color: #31C2D1; }
+      @media only screen and (max-width: 767px) {
+        .reno-area-grafi .nl-content h3 {
           font-size: 18px;
-          font-weight: 500; } }
-.reno-area-grafi .nl-content {
-  position: relative;
-  z-index: 1;
-  width: 76%; }
-  .reno-area-grafi .nl-content.m15 {
-    margin-left: 15px; }
-  @media only screen and (max-width: 767px) {
-    .reno-area-grafi .nl-content {
-      width: 100%;
-      margin-top: 0; } }
-  .reno-area-grafi .nl-content h2 {
-    font-size: 29px;
-    font-weight: 400;
-    margin-bottom: 0;
-    color: #31C2D1;
-    margin-top: 3rem; }
-    .reno-area-grafi .nl-content h2.no-m {
-      margin-top: 0; }
-    @media only screen and (max-width: 767px) {
-      .reno-area-grafi .nl-content h2 {
-        font-size: 29px;
-        margin-bottom: 1rem; } }
-  .reno-area-grafi .nl-content h3 {
-    font-size: 32px;
-    display: block;
-    font-weight: 400;
-    margin-bottom: 0;
-    color: #5D5C60;
-    margin-bottom: 1rem;
-    margin-right: 9rem; }
-    .reno-area-grafi .nl-content h3.b {
-      margin-right: 0; }
-      @media only screen and (max-width: 767px) {
-        .reno-area-grafi .nl-content h3.b {
-          margin-right: 0;
-          width: 80%; } }
-    .reno-area-grafi .nl-content h3 span {
-      color: #31C2D1; }
-    @media only screen and (max-width: 767px) {
-      .reno-area-grafi .nl-content h3 {
-        font-size: 18px;
-        margin-bottom: 1.5rem;
-        margin-right: 0; } }
-  .reno-area-grafi .nl-content p {
-    margin-bottom: 0;
-    line-height: 1.5;
-    padding-top: 1%;
-    font-size: 16px;
-    width: 95%; }
-    @media only screen and (max-width: 767px) {
-      .reno-area-grafi .nl-content p {
-        font-size: 14px;
-        margin-right: 0;
-        line-height: 1.5; } }
-    .reno-area-grafi .nl-content p.team {
+          margin-bottom: 1.5rem;
+          margin-right: 0; } }
+    .reno-area-grafi .nl-content p {
+      margin-bottom: 0;
       line-height: 1.5;
-      font-size: 14px;
-      margin-right: 15rem; }
+      padding-top: 1%;
+      font-size: 16px;
+      width: 95%; }
       @media only screen and (max-width: 767px) {
-        .reno-area-grafi .nl-content p.team {
-          font-size: 13px;
+        .reno-area-grafi .nl-content p {
+          font-size: 14px;
           margin-right: 0;
           line-height: 1.5; } }
-    .reno-area-grafi .nl-content p.margmov {
-      margin-bottom: 1rem; }
-  .reno-area-grafi .nl-content .our-link {
-    margin-left: 2rem; }
-    .reno-area-grafi .nl-content .our-link i {
-      color: #31C2D1;
-      font-size: 1rem;
-      font-weight: 800;
-      margin-right: 0.5rem; }
-    .reno-area-grafi .nl-content .our-link li {
-      position: relative;
-      z-index: 1;
-      font-size: 15px;
-      color: #31C2D1;
-      font-weight: 800;
-      line-height: 2; }
-      @media only screen and (max-width: 767px) {
-        .reno-area-grafi .nl-content .our-link li {
-          width: auto;
-          font-size: 14px;
-          font-weight: 600;
-          line-height: 1.2; } }
-      .reno-area-grafi .nl-content .our-link li i {
+      .reno-area-grafi .nl-content p.team {
+        line-height: 1.5;
+        font-size: 14px;
+        margin-right: 15rem; }
+        @media only screen and (max-width: 767px) {
+          .reno-area-grafi .nl-content p.team {
+            font-size: 13px;
+            margin-right: 0;
+            line-height: 1.5; } }
+      .reno-area-grafi .nl-content p.margmov {
+        margin-bottom: 1rem; }
+    .reno-area-grafi .nl-content .our-link {
+      margin-left: 2rem; }
+      .reno-area-grafi .nl-content .our-link i {
         color: #31C2D1;
         font-size: 1rem;
         font-weight: 800;
         margin-right: 0.5rem; }
-@media only screen and (max-width: 767px) {
-  .reno-area-grafi {
-    padding-bottom: 7rem;
-    margin-top: -5rem; } }
+      .reno-area-grafi .nl-content .our-link li {
+        position: relative;
+        z-index: 1;
+        font-size: 15px;
+        color: #31C2D1;
+        font-weight: 800;
+        line-height: 2; }
+        @media only screen and (max-width: 767px) {
+          .reno-area-grafi .nl-content .our-link li {
+            width: auto;
+            font-size: 14px;
+            font-weight: 600;
+            line-height: 1.2; } }
+        .reno-area-grafi .nl-content .our-link li i {
+          color: #31C2D1;
+          font-size: 1rem;
+          font-weight: 800;
+          margin-right: 0.5rem; }
+  @media only screen and (max-width: 767px) {
+    .reno-area-grafi {
+      padding-bottom: 0;
+      margin-top: -3rem; } }
 
 .desarrollo-area {
   position: relative;
