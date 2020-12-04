@@ -6290,7 +6290,11 @@ textarea.form-control {
         .reno-area-grafi .card .card-body {
           height: 260px; } }
       .reno-area-grafi .card .card-body img {
-        width: 100%; }
+        width: 100%;
+        border-radius: 15px; }
+        .reno-area-grafi .card .card-body img:focus, .reno-area-grafi .card .card-body img:hover {
+          background-color: #fff;
+          box-shadow: 0 1rem 3rem rgba(0, 0, 0, 0.175) !important; }
         @media only screen and (max-width: 767px) {
           .reno-area-grafi .card .card-body img {
             width: 100%; } }

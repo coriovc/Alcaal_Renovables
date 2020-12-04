@@ -1546,6 +1546,14 @@
 
             img{ 
                 width: 100%;
+                border-radius: 15px;
+
+                &:focus,
+                &:hover {
+                     background-color: #fff;
+                     box-shadow: 0 1rem 3rem rgba(0, 0, 0, 0.175) !important;
+
+                }    
                 @media #{$breakpoint-xs} {
                     width: 100%;
                 }

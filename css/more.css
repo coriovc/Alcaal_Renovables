@@ -1274,9 +1274,15 @@ to {
   transition: transform 0.50s ease-in-out, box-shadow 0.50s ease-in-out, -webkit-transform 0.50s ease-in-out;
 }
 .lift-grafi:hover {
--webkit-transform: scale(1.1);
-    -ms-transform: scale(1.1);
-        transform: scale(1.1);
+-webkit-transform: scale(1.2);
+    -ms-transform: scale(1.2);
+        transform: scale(1.2);
+}
+
+.lift-grafi:focus {
+-webkit-transform: scale(1.2);
+    -ms-transform: scale(1.2);
+        transform: scale(1.2);
 }
 
 
