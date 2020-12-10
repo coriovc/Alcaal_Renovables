@@ -33,15 +33,22 @@
 
 
 .img-landing{
-    width: 75%;
+    
     position: relative;
     margin-top: -13.5rem;
+    object-fit: cover;
+    width: 102%;
+    margin-left: -1rem;
+    height: 110%;
+    max-width: 150%;
+    max-height: 150%;
+    z-index: 0;
 
     @media #{$breakpoint-xs} {
-        width: 130%;
+        width: 160%;
         max-width: 200%;
-        margin-left: -3rem;
-        margin-top: -3.5rem;
+        margin-left: -7rem;
+        margin-top: -1rem;
     }
 }
 

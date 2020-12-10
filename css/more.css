@@ -18,6 +18,21 @@
 .bg-gray-sec-mod {
     background-color: #f9f9f9;
 }
+
+.video-conta{
+    overflow: hidden;
+    height: auto;
+    margin-top: -13rem;
+    padding-top: 6rem;
+    margin-bottom: -1rem;
+}
+
+@media only screen and (max-width:767px) {
+    .video-conta {
+    margin-top: -6rem;
+    padding-top: 0;
+}
+}
 .wrapper-v {
     width: 100%;
     height: 100vh;
